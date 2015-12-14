@@ -19,6 +19,11 @@ handlers:
   upload: static/(.*\.atom)
   expiration: "1h"
 
+- url: /(.*\.c)
+  mime_type: text/x-c
+  static_files: static/\1
+  upload: static/(.*\.c)
+
 - url: /(.*\.crx)
   mime_type: application/x-chrome-extension
   static_files: static/\1
@@ -91,6 +96,12 @@ handlers:
   mime_type: application/pdf
   static_files: static/\1
   upload: static/(.*\.pdf)
+
+- url: /(.*\.rdf)
+  mime_type: application/rdf+xml
+  static_files: static/\1
+  upload: static/(.*\.rdf)
+  expiration: "1d"
 
 - url: /(.*\.rss)
   mime_type: application/rss+xml
