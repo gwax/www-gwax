@@ -1,1 +1,0 @@
-"c:\program files\vlc\vlc.exe" -vvv %1 --sout=#transcode{width=720,vcodec=WMV2,vb=2048,acodec=wma,ab=128,channels=2,samplerate=44100,audio-sync}:standard{access=file,mux=asf,url=%1.wmv} vlc:quit
