@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+    xmlns="http://gwax.com/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:rel="http://purl.org/vocab/relationship/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:av="http://www.w3.org/2005/05/airports/data#"
+    xmlns:contact="http://www.w3.org/2000/10/swap/pim/contact#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:swum="http://purl.org/swum#">
+  <foaf:PersonalProfileDocument rdf:about="http://gwax.com/data.rdf">
+    <foaf:maker rdf:resource="#gwax"/>
+    <foaf:primaryTopic rdf:resource="#gwax"/>
+  </foaf:PersonalProfileDocument>
+  <foaf:Person rdf:about="http://gwax.com/people/gwax">
+    <owl:sameAs rdf:resource="#gwax"/>
+    <foaf:name>George Selman Leslie-Waksman</foaf:name>
+    <swum:maidenName>George Selman Waksman</swum:maidenName>
+    <foaf:givenName>George</foaf:givenName>
+    <foaf:givenName>Selman</foaf:givenName>
+    <foaf:familyName>Leslie-Waksman</foaf:familyName>
+    <foaf:nick>gwax</foaf:nick>
+
+    <foaf:depiction>
+      <foaf:Image rdf:about="http://www.gwax.com/images/gwax.jpg">
+        <dc:format>image/jpeg</dc:format>
+      </foaf:Image>
+    </foaf:depiction>
+
+    <foaf:homepage rdf:resource="http://www.gwax.com/"/>
+
+    <contact:nearestAirport rdf:resource="http://www.w3.org/2005/05/airports/data#SFO"/>
+
+    <foaf:tipjar rdf:resource="http://www.amazon.com/registry/wishlist/2RSQS2GD9ERMT"/>
+    <foaf:tipjar rdf:resource="http://www.amazon.com/registry/wishlist/2I7KM86NL03RL"/>
+
+    <foaf:mbox rdf:resource="mailto:waksman@gwax.com"/>
+    <foaf:mbox rdf:resource="mailto:waksman@gmail.com"/>
+    <foaf:mbox rdf:resource="mailto:waksman@alum.mit.edu"/>
+    <!-- Retired personal e-mail -->
+    <foaf:mbox>
+      <rdf:Description rdf:about="mailto:waksman@mit.edu">
+        <dct:isReplacedBy rdf:resource="mailto:waksman@alum.mit.edu"/>
+      </rdf:Description>
+    </foaf:mbox>
+    
+    <foaf:workplaceHomepage rdf:resource="http://www.google.com/"/>
+    <foaf:mbox rdf:resource="mailto:waksman@google.com"/>
+    <!-- Retired professional e-mail -->
+    <foaf:mbox>
+      <rdf:Description rdf:about="mailto:gwaksman@pangenx.com">
+        <dct:isReplacedBy rdf:resource="mailto:waksman@google.com"/>
+      </rdf:Description>
+    </foaf:mbox>
+    <foaf:mbox>
+      <rdf:Description rdf:about="mailto:george.waksman@fluiditysoftware.com">
+        <dct:isReplacedBy rdf:resource="mailto:gwaksman@pangenx.com"/>
+      </rdf:Description>
+    </foaf:mbox>
+    <foaf:mbox>
+      <rdf:Description rdf:about="mailto:george.waksman@archimedesmodel.com">
+        <dct:isReplacedBy rdf:resource="mailto:gwaksman@pangenx.com"/>
+      </rdf:Description>
+    </foaf:mbox>
+
+    <foaf:holdsAccount>
+      <foaf:OnlineAccount>
+        <foaf:accountServiceHomepage rdf:resource="http://www.facebook.com/"/>
+        <foaf:accountProfilePage rdf:resource="http://www.facebook.com/waksman"/>
+        <foaf:accountName>waksman</foaf:accountName>
+      </foaf:OnlineAccount>
+    </foaf:holdsAccount>
+
+    <foaf:holdsAccount>
+      <foaf:OnlineAccount>
+        <foaf:accountServiceHomepage rdf:resource="http://www.linkedin.com/"/>
+        <foaf:accountProfilePage rdf:resource="http://www.linkedin.com/in/gwaksman"/>
+        <foaf:accountName>gwaksman</foaf:accountName>
+      </foaf:OnlineAccount>
+    </foaf:holdsAccount>
+
+    <foaf:holdsAccount>
+      <foaf:OnlineAccount>
+        <foaf:accountServiceHomepage rdf:resource="http://www.reddit.com/"/>
+        <foaf:accountProfilePage rdf:resource="http://www.reddit.com/user/gwax"/>
+        <foaf:accountName>gwax</foaf:accountName>
+      </foaf:OnlineAccount>
+    </foaf:holdsAccount>
+
+    <rel:spouseOf>
+      <foaf:Person rdf:about="http://gwax.com/people/grace">
+        <owl:sameAs rdf:resource="#grace"/>
+        <foaf:name>Grace Victoria Leslie-Waksman</foaf:name>
+        <swum:maidenName>Grace Victoria Leslie</swum:maidenName>
+        <foaf:givenName>Grace</foaf:givenName>
+        <foaf:givenName>Victoria</foaf:givenName>
+        <foaf:familyName>Leslie-Waksman</foaf:familyName>
+        <rel:spouseOf rdf:resource="http://gwax.com/people/gwax"/>
+      </foaf:Person>
+    </rel:spouseOf>
+  </foaf:Person>
+</rdf:RDF>

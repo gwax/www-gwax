@@ -1,0 +1,32 @@
+/*
+ * front.css - style sheet for the cover page on my web site
+ * (c)2003 George Waksman
+ */
+
+#title, #slogan
+{
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	margin-bottom: 0;
+	font-size: xx-large;
+	background-color: Transparent;
+}
+
+#slogan
+{
+	color: #808080;
+	font-style: italic;
+	font-weight: bold;
+	font-size: large;
+	margin-bottom: 1em;
+}
+
+.leftcolumn, .centercolumn, .rightcolumn
+{
+	width: 33%;
+	float: left;
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
