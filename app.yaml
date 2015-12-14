@@ -7,6 +7,10 @@ threadsafe: true
 default_expiration: "30d"
 
 handlers:
+- url: /\.well-known/.*
+  script: letsencrypt_handler.app
+
+# Static handlers
 - url: /(.*\.(c$|h$))
   mime_type: text/x-c
   static_files: static/\1
