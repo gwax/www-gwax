@@ -34,9 +34,6 @@
 
     <contact:nearestAirport rdf:resource="http://www.w3.org/2005/05/airports/data#SFO"/>
 
-    <foaf:tipjar rdf:resource="http://www.amazon.com/registry/wishlist/2RSQS2GD9ERMT"/>
-    <foaf:tipjar rdf:resource="http://www.amazon.com/registry/wishlist/2I7KM86NL03RL"/>
-
     <foaf:mbox rdf:resource="mailto:waksman@gwax.com"/>
     <foaf:mbox rdf:resource="mailto:waksman@gmail.com"/>
     <foaf:mbox rdf:resource="mailto:waksman@alum.mit.edu"/>
@@ -46,10 +43,15 @@
         <dct:isReplacedBy rdf:resource="mailto:waksman@alum.mit.edu"/>
       </rdf:Description>
     </foaf:mbox>
-    
-    <foaf:workplaceHomepage rdf:resource="http://www.google.com/"/>
-    <foaf:mbox rdf:resource="mailto:waksman@google.com"/>
+
+    <foaf:workplaceHomepage rdf:resource="http://www.cloverhealth.com/"/>
+    <foaf:mbox rdf:resource="mailto:george@cloverhealth.com"/>
     <!-- Retired professional e-mail -->
+    <foaf:mbox>
+      <rdf:Description rdf:about="mailto:waksman@google.com">
+        <dct:isReplacedBy rdf:resource="mailto:george@cloverhealth.com"/>
+      </rdf:Description>
+    </foaf:mbox>
     <foaf:mbox>
       <rdf:Description rdf:about="mailto:gwaksman@pangenx.com">
         <dct:isReplacedBy rdf:resource="mailto:waksman@google.com"/>
@@ -99,7 +101,21 @@
         <foaf:givenName>Victoria</foaf:givenName>
         <foaf:familyName>Leslie-Waksman</foaf:familyName>
         <rel:spouseOf rdf:resource="http://gwax.com/people/gwax"/>
+        <rel:parentOf rdf:resource="http://gwax.com/people/morgan"/>
       </foaf:Person>
     </rel:spouseOf>
+
+    <rel:parentOf>
+      <foad:Person rdf:about="http://gwax.com/people/morgan">
+        <owl:sameAs rdf:resource="#morgan"/>
+        <foaf:name>Morgan Jones Leslie-Waksman</foaf:name>
+        <foaf:givenName>Morgan</foaf:givenName>
+        <foaf:givenName>Jones</foaf:givenName>
+        <foaf:familyName>Leslie-Waksman</foaf:familyName>
+        <rel:childOf rdf:resource="http://gwax.com/people/gwax"/>
+        <rel:childOf rdf:resource="http://gwax.com/people/grace"/>
+      </foad:Person>
+    </rel:parentOf>
+
   </foaf:Person>
 </rdf:RDF>
