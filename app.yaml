@@ -13,15 +13,17 @@ handlers:
   upload: static/(.*\.(c$|h$))
 
 - url: /(.*\.css)
-  mime_type: text/css
+  mime_type: text/css; charset=UTF-8
   static_files: static/\1
   upload: static/(.*\.css)
 
 - url: /(.*\.html)
-  mime_type: text/html
+  mime_type: text/html; charset=UTF-8
   static_files: static/\1
   upload: static/(.*\.html)
   expiration: "1h"
+  http_headers:
+    X-Narwhal: A small arctic whale. The male has a long tusk.
 
 - url: /(.*\.js$)
   mime_type: text/javascript
@@ -40,7 +42,7 @@ handlers:
   upload: static/(.*\.pdf)
 
 - url: /(.*\.rdf)
-  mime_type: application/rdf+xml
+  mime_type: application/rdf+xml; charset=UTF-8
   static_files: static/\1
   upload: static/(.*\.rdf)
   expiration: "1d"
@@ -70,14 +72,20 @@ handlers:
   static_files: static/\1/index.html
   upload: static/(.+)/index.html
   expiration: "15m"
+  http_headers:
+    X-Narwhal: A small arctic whale. The male has a long tusk.
 
 - url: /(.+)
   static_files: static/\1/index.html
   upload: static/(.+)/index.html
   expiration: "15m"
+  http_headers:
+    X-Narwhal: A small arctic whale. The male has a long tusk.
 
 # site root
 - url: /
   static_files: static/index.html
   upload: static/index.html
   expiration: "15m"
+  http_headers:
+    X-Narwhal: A small arctic whale. The male has a long tusk.
