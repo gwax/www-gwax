@@ -7,71 +7,24 @@ threadsafe: true
 default_expiration: "30d"
 
 handlers:
+# Dynamic handlers
 - url: /\.well-known/.*
   script: letsencrypt_handler.app
 
 # Static handlers
-- url: /(.*\.(c$|h$))
-  mime_type: text/x-c
+- url: /(.+\.html$)
   static_files: static/\1
-  upload: static/(.*\.(c$|h$))
-
-- url: /(.*\.css)
-  mime_type: text/css; charset=UTF-8
-  static_files: static/\1
-  upload: static/(.*\.css)
-
-- url: /(.*\.html)
-  mime_type: text/html; charset=UTF-8
-  static_files: static/\1
-  upload: static/(.*\.html)
-  expiration: "1h"
+  upload: static/(.+\.html$)
+  expiration: "15m"
   http_headers:
     X-Narwhal: A small arctic whale. The male has a long tusk.
 
-- url: /(.*\.js$)
-  mime_type: text/javascript
+- url: /(.+\.[A-Za-z0-9]+$)
   static_files: static/\1
-  upload: static/(.*\.js$)
+  upload: static/(.+\.[A-Za-z0-9]+$)
+  http_headers:
+    X-Narwhal: A small arctic whale. The male has a long tusk.
 
-- url: /(.*\.json)
-  mime_type: application/json
-  static_files: static/\1
-  upload: static/(.*\.json)
-  expiration: "1h"
-
-- url: /(.*\.pdf)
-  mime_type: application/pdf
-  static_files: static/\1
-  upload: static/(.*\.pdf)
-
-- url: /(.*\.rdf)
-  mime_type: application/rdf+xml; charset=UTF-8
-  static_files: static/\1
-  upload: static/(.*\.rdf)
-  expiration: "1d"
-
-- url: /(.*\.txt)
-  mime_type: text/plain
-  static_files: static/\1
-  upload: static/(.*\.txt)
-
-# image files
-- url: /(.*\.(bmp|gif|ico|jpeg|jpg|png))
-  static_files: static/\1
-  upload: static/(.*\.(bmp|gif|ico|jpeg|jpg|png))
-
-# audio files
-- url: /(.*\.(mid|midi|mp3|wav))
-  static_files: static/\1
-  upload: static/(.*\.(mid|midi|mp3|wav))
-
-# video files
-- url: /(.*\.(avi|mpg))
-  static_files: static/\1
-  upload: static/(.*\.(avi|mpg))
-
-# index files
 - url: /(.+)/
   static_files: static/\1/index.html
   upload: static/(.+)/index.html
@@ -86,7 +39,6 @@ handlers:
   http_headers:
     X-Narwhal: A small arctic whale. The male has a long tusk.
 
-# site root
 - url: /
   static_files: static/index.html
   upload: static/index.html

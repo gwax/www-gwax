@@ -1,2 +1,4 @@
-User-agent: *
-Disallow:
+Sitemap: https://gwax.com/sitemapindex.xml
+
+User-Agent: *
+Host: gwax.com
