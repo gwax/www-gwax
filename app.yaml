@@ -12,9 +12,9 @@ handlers:
   script: letsencrypt_handler.app
 
 # Static handlers
-- url: /(.+\.html$)
+- url: /(.+\.(html|js|css)$)
   static_files: static/\1
-  upload: static/(.+\.html$)
+  upload: static//(.+\.(html|js|css)$)
   expiration: "15m"
   http_headers:
     X-Narwhal: A small arctic whale. The male has a long tusk.
