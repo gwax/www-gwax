@@ -390,7 +390,7 @@ CACHE_FOLDER = '../cache'
 # <https://getnikola.com/handbook.html#post-processing-filters>
 #
 FILTERS = {
-    '.html': [filters.html_tidy_nowrap],
+    '.html': [filters.html_tidy_mini],
     '.css': [filters.yui_compressor],
     '.js': [filters.closure_compiler],
     '.json': [filters.jsonminify],
@@ -794,8 +794,8 @@ COPY_SOURCES = True
 # <!-- End of custom search -->
 # """ % SITE_URL
 SEARCH_FORM = """
-<span class="navbar-form navbar-right" role="search">
-<input type="text" id="tipue_search_input" placeholder="Search">
+<span class="navbar-form navbar-left">
+<input type="text" id="tipue_search_input" class="form-control" placeholder="Search">
 </span>"""
 
 # Use content distribution networks for jQuery, twitter-bootstrap css and js,
@@ -818,21 +818,50 @@ SEARCH_FORM = """
 # EXTRA_HEAD_DATA = ""
 EXTRA_HEAD_DATA = """
 <link rel="stylesheet" type="text/css" href="/assets/css/tipuesearch.css">
-<div id="tipue_search_content" style="margin-left: auto; margin-right: auto; padding: 20px;"></div>
 """
+
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
 # BODY_END = ""
 BODY_END = """
-<script src="/assets/js/tipuesearch_set.js"></script>
-<script src="/assets/js/tipuesearch.js"></script>
+<!-- Modal -->
+<div id="search-results" class="modal fade" role="dialog" style="height: 80%;">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Search Results:</h4>
+      </div>
+      <div class="modal-body" id="tipue_search_content" style="max-height: 600px; overflow-y: auto;">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+
+  </div>
+</div>
 <script>
 $(document).ready(function() {
-    $('#tipue_search_input').tipuesearch({
-        'mode': 'json',
-        'contentLocation': '/assets/js/tipuesearch_content.json',
-        'showUrl': false
+    $.when(
+        $.getScript( "/assets/js/tipuesearch_set.js" ),
+        $.getScript( "/assets/js/tipuesearch.js" ),
+        $.Deferred(function( deferred ){
+            $( deferred.resolve );
+        })
+    ).done(function() {
+        $('#tipue_search_input').tipuesearch({
+            'mode': 'json',
+            'contentLocation': '/assets/js/tipuesearch_content.json'
+        });
+        $('#tipue_search_input').keyup(function (e) {
+            if (e.keyCode == 13) {
+                $('#search-results').modal()
+            }
+        });
     });
 });
 </script>
