@@ -1,0 +1,8 @@
+.linenodiv a {
+    text-decoration: none !important;
+}
+
+.emoji {
+    height: 1.4em;
+    vertical-align: text-bottom;
+}
