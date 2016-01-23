@@ -42,6 +42,7 @@ TRANSLATIONS = {
 #          with a ``/``, otherwise end them with ``/index.html`` — or
 #          else they won’t be highlighted when active.
 
+ABOUT_PERSON_LINK = "/about/person/"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ((
@@ -51,7 +52,7 @@ NAVIGATION_LINKS = {
             ("/blog/rss.xml", "RSS feed"),
         ), "Blog"),
         ((
-            ("/about/person/", "The person"),
+            (ABOUT_PERSON_LINK, "The person"),
             ("/about/site/", "The site"),
         ), "About"),
     ),
@@ -569,7 +570,7 @@ LICENSE = ""
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
 CONTENT_FOOTER = """
-    Contents &copy; 2005-{date} <a href="/about/person/">{author}</a> |
+    Contents &copy; 2005-{date} <a href="{aboutperson}">{author}</a> |
     Source: <a href="https://github.com/gwax/www-gwax"><i class="fa fa-github"/>GitHub</a> |
     Powered by <a href="https://getnikola.com">Nikola</a> |
     Theme: <a href="https://bootswatch.com/cosmo/">Cosmo</a>
@@ -590,6 +591,7 @@ CONTENT_FOOTER_FORMATS = {
     DEFAULT_LANG: (
         (),
         {
+            "aboutperson": ABOUT_PERSON_LINK,
             "author": BLOG_AUTHOR,
             "date": time.gmtime().tm_year,
             "license": LICENSE
@@ -862,6 +864,10 @@ $(document).ready(function() {
         });
     });
 });
+</script>
+<!-- Move footnotes to the end -->
+<script>
+$('.footnote').appendTo('.entry-content')
 </script>
 """
 

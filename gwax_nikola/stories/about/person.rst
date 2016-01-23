@@ -13,7 +13,9 @@ Write your page here.
 Elsewhere Online
 ================
 
-I am active, to varying degrees (generally low other than GitHub and reddit), on a number of online services:
+I am active, to varying degrees [*]_, on a number of online services:
+
+.. [*] My Internet "social" activity is generally pretty low everywhere other than GitHub and reddit.
 
 * GitHub: |github|
 * reddit: |reddit|
