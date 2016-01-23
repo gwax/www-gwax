@@ -44,13 +44,16 @@ TRANSLATIONS = {
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/about/", "About"),
         ((
             ("/blog/", "<strong>Posts</strong>"),
             ("/blog/archive/", "Archives"),
             ("/blog/categories/", "Tags & Categories"),
-            ("/blog/rss.xml", "RSS feed")
+            ("/blog/rss.xml", "RSS feed"),
         ), "Blog"),
+        ((
+            ("/about/person/", "The person"),
+            ("/about/site/", "The site"),
+        ), "About"),
     ),
 }
 
@@ -566,15 +569,9 @@ LICENSE = ""
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
 CONTENT_FOOTER = """
-    Contents &copy; 2005-{date} <a href="/about/">{author}</a> |
-    Source: <a href="https://github.com/gwax/www-gwax"
-        ><img src="/images/mark-github.svg"
-              style="vertical-align: text-bottom; margin-bottom: 0.1em; height: 0.9em"
-              alt="GitHub mark" />GitHub</a> |
-    Powered by <a href="https://getnikola.com"
-        ><img src="/images/mark-nikola-200x200.png"
-              style="vertical-align: text-bottom; margin-bottom: 0.1em; height: 0.9em"
-              alt="Nikola mark" />Nikola</a> |
+    Contents &copy; 2005-{date} <a href="/about/person/">{author}</a> |
+    Source: <a href="https://github.com/gwax/www-gwax"><i class="fa fa-github"/>GitHub</a> |
+    Powered by <a href="https://getnikola.com">Nikola</a> |
     Theme: <a href="https://bootswatch.com/cosmo/">Cosmo</a>
 """
 
@@ -794,7 +791,7 @@ COPY_SOURCES = True
 # <!-- End of custom search -->
 # """ % SITE_URL
 SEARCH_FORM = """
-<span class="navbar-form navbar-left">
+<span class="navbar-form navbar-right">
 <input type="text" id="tipue_search_input" class="form-control" placeholder="Search">
 </span>"""
 
@@ -818,6 +815,7 @@ SEARCH_FORM = """
 # EXTRA_HEAD_DATA = ""
 EXTRA_HEAD_DATA = """
 <link rel="stylesheet" type="text/css" href="/assets/css/tipuesearch.css">
+<link rel="stylesheet" type="text/css" href="/assets/css/font-awesome.min.css">
 """
 
 # Google Analytics or whatever else you use. Added to the bottom of <body>
