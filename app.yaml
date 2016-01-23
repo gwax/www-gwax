@@ -8,8 +8,11 @@ default_expiration: "30d"
 
 handlers:
 # Dynamic handlers
-- url: /\.well-known/.*
-  script: letsencrypt_handler.app
+#- url: /\.well-known/.*
+#  script: letsencrypt_handler.app
+
+#- url: /dynamictest
+#  script: gwax_flask.app
 
 # Static handlers
 - url: /(.+\.(html|js|css)$)

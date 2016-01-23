@@ -1,5 +1,8 @@
 static/
 
+# Secrets
+secrets.py
+
 # Nikola caching
 .doit.db
 cache/
