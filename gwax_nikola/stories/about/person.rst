@@ -28,7 +28,7 @@ I spent a number of years at a (now defunct) company called Archimedes, Inc. wri
 
 Eventually, I ended up at `Google <https://www.google.com>`_ as a Datacenter Software Engineer and couldn't really keep up the illusion that I was a scientist that wrote software. It's for the best really, I like the practicality of engineering. Working at Google was an enlightening experience but, ultimately, there is a ceiling on the interest I can muster for tracking networking equipment parts in a datacenter.
 
-As of now, I am back in the rich data world of healthcare, working for `Clover Health <https://www.cloverhealth.com/>`_, a startup health insurance company, that also happens to be a technology company. We are trying to fix healthcare for old people by bringing 21:sup:`st` century technology to the data, operations, and managed care. It's hard, but I would love if we could do even a little something to dent the massive problem that is modern healthcare.
+As of now, I am back in the rich data world of healthcare, working for `Clover Health <https://www.cloverhealth.com/>`_, a startup health insurance company, that also happens to be a technology company. We are trying to fix healthcare for old people by bringing 21st century technology to the data, operations, and managed care. It's hard, but I would love if we could do even a little something to dent the massive problem that is modern healthcare.
 
 If you want more professional details, there's something close enough to my résumé available through |linkedin|. If you happen to want a proper résumé or other details, you'll have to email me.
 
@@ -37,6 +37,11 @@ Non-professionally, I have a wife and daughter, both of whom I love to a degree,
 I am an avid player of `Magic: the Gathering <http://magic.wizards.com/>`_ and many boardgames.
 
 I also fancy myself an amateur mixologist of middling skill.
+
+Contact
+=======
+
+The best way to contact me is by email: waksman (at) this domain
 
 Elsewhere Online
 ================
