@@ -45,6 +45,7 @@ TRANSLATIONS = {
 ABOUT_PERSON_LINK = "/about/person/"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
+        ("/projects/", "Projects"),
         ((
             ("/blog/", "<strong>Posts</strong>"),
             ("/blog/archive/", "Archives"),
@@ -95,6 +96,14 @@ PAGES = (
     ("stories/*.txt", "", "story.tmpl"),
 )
 
+# Post's dates are considered in UTC by default, if you want to use
+# another time zone, please set TIMEZONE to match. Check the available
+# list from Wikipedia:
+# https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# (e.g. 'Europe/Zurich')
+# Also, if you want to use a different time zone in some of your posts,
+# you can use the ISO 8601/RFC 3339 format (ex. 2012-03-30T23:00:00+02:00)
+# TIMEZONE = "America/Los_Angeles"
 
 # If you want to use ISO 8601 (also valid RFC 3339) throughout Nikola
 # (especially in new_post), set this to True.
@@ -573,7 +582,8 @@ CONTENT_FOOTER = """
     Contents &copy; 2005-{date} <a href="{aboutperson}">{author}</a> |
     Source: <a href="https://github.com/gwax/www-gwax"><i class="fa fa-github"/>GitHub</a> |
     Powered by <a href="https://getnikola.com">Nikola</a> |
-    Theme: <a href="https://bootswatch.com/cosmo/">Cosmo</a>
+    Theme: <a href="https://bootswatch.com/cosmo/">Cosmo</a> <br />
+    {disclaimer}
 """
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
@@ -587,6 +597,10 @@ CONTENT_FOOTER = """
 #          still needs to be a dict of this format.  (it can be empty if you
 #          do not need formatting)
 # (translatable)
+DISCLAIMER = """
+The views and opinions expressed are those of the author(s) and do not
+necessarily reflect the position of any other entity or organization.
+"""
 CONTENT_FOOTER_FORMATS = {
     DEFAULT_LANG: (
         (),
@@ -594,7 +608,8 @@ CONTENT_FOOTER_FORMATS = {
             "aboutperson": ABOUT_PERSON_LINK,
             "author": BLOG_AUTHOR,
             "date": time.gmtime().tm_year,
-            "license": LICENSE
+            "license": LICENSE,
+            "disclaimer": DISCLAIMER,
         }
     )
 }

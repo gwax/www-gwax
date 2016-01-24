@@ -7,4 +7,12 @@
 .. description:
 .. type: text
 
-Write your post here.
+It has been a very long time since I've done any serious work on my website. Now, that changes.
+
+I've migrated all of gwax\\.(com\|org\|net) to Google Cloud infrastructure.
+
+Now, I'm embarking on a thorough site rewrite using `Nikola <https://getnikola.com>`_ for the static site management.
+
+Bonus: free blogging feature that I probably won't use very much.
+
+If you happen to see any entries before this point, it means that I've pulled old content from previous incarnations in my site and back dated it as posts in the current incarnation.
