@@ -867,9 +867,11 @@ $(document).ready(function() {
 </script>
 <!-- Move footnotes to the end -->
 <script>
-$('.footnote').each(function(i, el) {
-    $(el).appendTo(
-        el.closest('.entry-content'));
+$(document).ready(function() {
+    $('.footnote').each(function(i, el) {
+        $(el).appendTo(
+            $(el).closest('.entry-content'));
+    });
 });
 </script>
 """
