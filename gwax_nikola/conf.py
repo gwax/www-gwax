@@ -116,7 +116,7 @@ FORCE_ISO8601 = True
 
 # Date format used to display post dates, if local dates are used. (translatable)
 # (str used by moment.js)
-# JS_DATE_FORMAT = 'YYYY-MM-DD HH:mm'
+JS_DATE_FORMAT = 'YYYY-MM-DD hh:mm a'
 
 # Date fanciness.
 #
@@ -125,7 +125,7 @@ FORCE_ISO8601 = True
 # 2 = using a string like “2 days ago”
 #
 # Your theme must support it, bootstrap and bootstrap3 already do.
-# DATE_FANCINESS = 0
+DATE_FANCINESS = 1
 
 # While Nikola can select a sensible locale for each language,
 # sometimes explicit control can come handy.

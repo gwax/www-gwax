@@ -1,6 +1,6 @@
 .. title: Ironhide
 .. slug: ironhide
-.. date: 2010-10-28 17:02:00-08:00
+.. date: 2010-10-28 17:02:00-07:00
 .. tags: cocktails, recipes
 .. category: recipes
 .. link:
