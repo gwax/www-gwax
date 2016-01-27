@@ -89,11 +89,10 @@ THEME = "bootstrap3_cosmo"
 
 POSTS = (
     ("posts/*.rst", "blog", "post.tmpl"),
-    ("posts/*.txt", "blog", "post.tmpl"),
 )
 PAGES = (
     ("stories/*.rst", "", "story.tmpl"),
-    ("stories/*.txt", "", "story.tmpl"),
+    ("stories/*.html", "", "story.tmpl"),
 )
 
 # Post's dates are considered in UTC by default, if you want to use
