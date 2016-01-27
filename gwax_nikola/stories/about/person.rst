@@ -1,4 +1,4 @@
-.. title: George Leslie-Waksman
+.. title: About George Leslie-Waksman
 .. slug: about-person
 .. type: text
 
@@ -125,15 +125,3 @@ I am active, to varying degrees\ [#]_, on a number of online services:
     <a class="reference external" href="https://en.wikipedia.org/wiki/User:Gwax">
         <i class="fa fa-wikipedia-w"/> User:Gwax
     </a>
-
-
-Rules to Live by
-================
-
-Over the years, I've managed to cobble together a short list of rules that I try to live by:
-
-#. When you're chucking a danish, everything's a cop car.
-#. When in doubt, go left.
-#. When in doubt, buy double.
-#. Even floors do not exist.
-#. Apathy is the lazy man's whatever.

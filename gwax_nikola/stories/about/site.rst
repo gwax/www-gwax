@@ -1,4 +1,4 @@
-.. title: gwax.com
+.. title: About gwax.com
 .. slug: about-site
 .. type: text
 
