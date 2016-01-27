@@ -5,6 +5,7 @@
 .. category:
 .. link:
 .. description:
+.. hidetitle: True
 .. type: text
 
 .. class:: jumbotron col-md-6
