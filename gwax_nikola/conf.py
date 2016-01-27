@@ -42,7 +42,7 @@ TRANSLATIONS = {
 #          with a ``/``, otherwise end them with ``/index.html`` — or
 #          else they won’t be highlighted when active.
 
-ABOUT_PERSON_LINK = "/about/person/"
+ABOUT_PERSON_LINK = "/about/about-person/"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/projects/", "Projects"),
@@ -54,7 +54,7 @@ NAVIGATION_LINKS = {
         ), "Blog"),
         ((
             (ABOUT_PERSON_LINK, "The person"),
-            ("/about/site/", "The site"),
+            ("/about/about-site/", "The site"),
         ), "About"),
     ),
 }

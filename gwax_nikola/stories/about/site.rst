@@ -1,5 +1,5 @@
 .. title: About: gwax.com
-.. slug: site
+.. slug: about-site
 .. type: text
 
 Code

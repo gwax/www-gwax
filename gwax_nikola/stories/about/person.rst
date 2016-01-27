@@ -1,5 +1,5 @@
 .. title: About: George Leslie-Waksman
-.. slug: person
+.. slug: about-person
 .. type: text
 
 Who am I?
@@ -57,6 +57,7 @@ I am active, to varying degrees [#]_, on a number of online services:
 * twitter: |twitter|
 * Tapped Out: `gwax <http://tappedout.net/users/gwax/>`__
 * The Source: `gwax <http://www.mtgthesource.com/forums/member.php?35876-gwax>`__
+* Uncyclopedia: `gwax <http://uncyclopedia.wikia.com/wiki/User:Gwax>`__
 * Google+: |gplus|
 * AngelList: |angellist|
 * Facebook: |facebook|
