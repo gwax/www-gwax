@@ -18,7 +18,7 @@ I'm a software engineer in the San Francisco Bay Area. My software contributions
 
 .. [#] I often prefer to avoid the term "data engineer" because I feel it is often conflated with the concept of a DBA or a hands-off software "architect" role. Personally, I view a data engineer as just another hands-on software engineer that happens to spend more time dealing with data and backend data management than anything else.
 
-Long ago, I graduated from `MIT <http://web.mit.edu/>`_ with a degree in Materials Science and Engineering. During my time at MIT, I had a pretty strong focus on structural materials and computer simulations of material behavior. Subsequent to graduating, I spent a number of years [#]_ taking increasingly software-focused jobs but always trying to keep my focus on math, science, or the like.
+Long ago, I graduated from `MIT <http://web.mit.edu/>`_ with a degree in Materials Science and Engineering (course 3 to fellow alums). During my time at MIT, I had a pretty strong focus on structural materials and computer simulations of material behavior. Subsequent to graduating, I spent a number of years [#]_ taking increasingly software-focused jobs but always trying to keep my focus on math, science, or the like.
 
 .. [#] Along the way to accepting that I was a software engineer, I took a brief detour to law school. I only made it through about three quarters of a year before I decided it wasn't for me. As such, I feel it's really more of a footnote issue than a body content matter.
 
