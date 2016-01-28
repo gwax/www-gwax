@@ -60,7 +60,7 @@ NAVIGATION_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootstrap3_cosmo"
+THEME = "bootstrap3_yeti"
 
 # POSTS and PAGES contains (wildcard, destination, template) tuples.
 #
@@ -581,7 +581,7 @@ CONTENT_FOOTER = """
     Contents &copy; 2005-{date} <a href="{aboutperson}">{author}</a> |
     Source: <a href="https://github.com/gwax/www-gwax"><i class="fa fa-github"/>GitHub</a> |
     Powered by <a href="https://getnikola.com">Nikola</a> |
-    Theme: <a href="https://bootswatch.com/cosmo/">Cosmo</a> <br />
+    Theme: <a href="http://bootswatch.com/yeti/">Yeti</a> <br />
     {disclaimer}
 """
 
