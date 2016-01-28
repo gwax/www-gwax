@@ -7,9 +7,16 @@
 .. description:
 .. type: text
 
-Some num­ber of weeks ago, hav­ing dis­cov­ered Maraschino liqueur, I con­cocted a vari­a­tion on my beloved Manhattan. I have been mean­ing to write up the recipe here for a while but had been stuck on com­ing up with a name; I needed a name befit­ting a strong whiskey cock­tail with con­nec­tions to myself and the color red. Having thought for quite a while and come up with a bunch of names that were already taken by other cock­tails, I set­tled on nam­ing the drink after the griz­zled, old Autobot, Ironhide. So, with­out fur­ther ado:
+Some number of weeks ago, having discovered Maraschino liqueur, I concocted a
+variation on my beloved Manhattan. I have been meaning to write up the recipe
+here for a while but had been stuck on coming up with a name; I needed a name
+befitting a strong whiskey cocktail with connections to myself and the color
+red. Having thought for quite a while and come up with a bunch of names that
+were already taken by other cocktails, I settled on naming the drink after the
+grizzled, old Autobot, Ironhide. So, without further ado:
 
-Ironhide recipe:
+Ironhide recipe
+---------------
 
 * 3 oz Bourbon whiskey
 * 3/4 oz Maraschino
@@ -17,10 +24,16 @@ Ironhide recipe:
 * 2 dashes Angostura bitters
 * 1 Maraschino cherry
 
-Serve shaken or stirred with ice in a cock­tail glass; gar­nish with the Maraschino cherry.
+Serve shaken or stirred with ice in a cocktail glass; garnish with the
+Maraschino cherry.
 
-Notes:
+Notes
+-----
 
-I have mostly been drink­ing these on the rocks, which is an accept­able but infe­rior vari­a­tion. Being a Manhattan-like cock­tail, up-high is really the cor­rect way to serve an Ironhide.
+I have mostly been drinking these on the rocks, which is an acceptable but
+inferior variation. Being a Manhattan-like cocktail, up-high is really the
+correct way to serve an Ironhide.
 
-Corn syrup based grena­dine or “maraschino” cher­ries will ruin the fla­vors imparted by the bit­ters and Maraschino; you will make a bet­ter cock­tail by skip­ping the grena­dine and cherry than using cheap, fake ones.
+Corn syrup based grenadine or "maraschino" cherries will ruin the flavors
+imparted by the bitters and Maraschino; you will make a better cocktail by
+skipping the grenadine and cherry than using cheap, fake ones.
