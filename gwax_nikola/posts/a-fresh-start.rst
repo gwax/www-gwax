@@ -1,7 +1,7 @@
 .. title: A Fresh Start
 .. slug: a-fresh-start
 .. date: 2016-01-21 22:38:32+00:00
-.. tags: nikola, meta, blog
+.. tags: nikola, meta
 .. category: meta
 .. link:
 .. description:
@@ -15,4 +15,4 @@ Now, I'm embarking on a thorough site rewrite using `Nikola <https://getnikola.c
 
 Bonus: free blogging feature that I probably won't use very much.
 
-If you happen to see any entries before this point, it means that I've pulled old content from previous incarnations in my site and back dated it as posts in the current incarnation.
+Entries from before this point have been dredged from my archives.
