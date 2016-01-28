@@ -402,7 +402,7 @@ CACHE_FOLDER = '../cache'
 # <https://getnikola.com/handbook.html#post-processing-filters>
 #
 FILTERS = {
-    '.html': [filters.html_tidy_mini],
+    '.html': [filters.html_tidy_nowrap],
     '.css': [filters.yui_compressor],
     '.js': [filters.closure_compiler],
     '.json': [filters.jsonminify],
