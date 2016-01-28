@@ -115,7 +115,7 @@ Step 3
 
 Having noted in Step 2 that the arc intersections trisect the arcs, the highlighted wedge becomes one twelfth of a circle with radius of unit length. The area can be found simply.
 
-:math:`A = \frac{\pi}{6}`
+:math:`A = \frac{\pi}{12}`
 
 
 Step 4
