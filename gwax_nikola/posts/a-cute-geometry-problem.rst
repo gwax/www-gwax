@@ -285,23 +285,23 @@ Commentary
 Riad
 ----
 
-Alternatively (I guess this is a trig solution), start by labeling the wide, squat sections along each edge “A”, the pseudo-triangular sections B, and the center section C. Then
+Alternatively (I guess this is a trig solution), start by labeling the wide, squat sections along each edge "A", the pseudo-triangular sections B, and the center section C. Then
 
-4A + 4B + C = 1
-2A + 3B + C = pi/4
-thus 2A + B = 1 – pi/4
+| :math:`4A + 4B + C = 1`
+| :math:`2A + 3B + C = \frac{\pi}{4}`
+| thus :math:`2A + B = 1 – \frac{\pi}{4}`
 
-Now, redraw only with one unit circle and the outer box with its lower left corner at the origin. Draw in a vertical line at x=1/2, and draw a radius of the circle such that it hits the point where the vertical line intersects the circle.
+Now, redraw only with one unit circle and the outer box with its lower left corner at the origin. Draw in a vertical line at :math:`x=\frac{1}{2}`, and draw a radius of the circle such that it hits the point where the vertical line intersects the circle.
 
-Since this radius hits the circle at x=1/2, the angle formed between the radius and the x-axis is arcsin(0.5) = pi/6. The rest of this angle is then pi/3, or 1/6th of a circle. So the area underneath the circle and to the left of the vertical line must be equal to pi/6 + 1/2 \* 1/2 \* cos(pi/6). In other words, the area of a section A is 1 – 2\*(pi/6 + 1/4\*cos(pi/6)) = 1 – pi/3 – 1/2\*cos(pi/6).
+Since this radius hits the circle at :math:`x=\frac{1}{2}`, the angle formed between the radius and the x-axis is :math:`\arcsin \frac{1}{2} = \frac{\pi}{6}`. The rest of this angle is then :math:`\frac{\pi}{3}`, or 1/6th of a circle. So the area underneath the circle and to the left of the vertical line must be equal to :math:`\frac{\pi}{6} + \frac{1}{2} \cdot \frac{1}{2} \cdot \cos \frac{\pi}{6}`. In other words, the area of a section A is :math:`1 – 2 \cdot (\frac{\pi}{6} + \frac{1}{4} \cos \frac{\pi}{6}) = 1 – \frac{\pi}{3} – \frac{1}{2} \cos \frac{\pi}{6}`.
 
 Now, from the last equation above,
 
-A+B = 1-pi/4-1+pi/3+1/2\*cos(pi/6) = 1/2\*cos(pi/6)+pi/12
+:math:`A + B = 1 - \frac{\pi}{4} - 1 + \frac{\pi}{3} + \frac{1}{2} \cos \frac{\pi}{6} = \frac{1}{2} \cos \frac{\pi}{6} + \frac{\pi}{12}`
 
 Thus,
 
-C = 1 – 4(1/2\*cos(pi/6)+pi/12) = 1 + pi/3 – 2\*cos(pi/6).
+:math:`C = 1 – 4 \cdot (\frac{1}{2} \cos \frac{\pi}{6} + \frac{\pi}{12}) = 1 + \frac{\pi}{3} – 2 \cos \frac{\pi}{6}`.
 
 Same as you've got.
 
@@ -323,10 +323,10 @@ Say you sum the areas associated with two quarter-circles originating from the s
 
 In doing so, you have covered the target area twice, the bullet-shaped areas below it on either side twice, the “wide, squat” region directly below twice, and two more bullet-shaped and wide, squat areas each. The only area not covered is the wide, squart region directly above the target area. Tabulating:
 
-TAs: 2
-BSAs: 1 + 1 + 2 + 2 = 6
-WSAs: 1 + 1 + 2 = 4
+| TAs: 2
+| BSAs: 1 + 1 + 2 + 2 = 6
+| WSAs: 1 + 1 + 2 = 4
 
-The square contains 4 WSAs, 4 BSAs, and 1 TA. So we subtract off the square (for an area of (pi-2)/2) and find that we have 2 BSAs and 1 TA left. All we have to do is determine the area of those bullety bits and subtract 'em off. Now follow your work up to step 6. Instead of subtracting off one WSA from the area highlighted in step 1, we subtract off both. The area of the bullety region is (pi-12+6sqrt(3))/12.
+The square contains 4 WSAs, 4 BSAs, and 1 TA. So we subtract off the square (for an area of :math:`\frac{\pi-2}{2}` and find that we have 2 BSAs and 1 TA left. All we have to do is determine the area of those bullety bits and subtract 'em off. Now follow your work up to step 6. Instead of subtracting off one WSA from the area highlighted in step 1, we subtract off both. The area of the bullety region is :math:`\frac {\pi - 12 + 6 \sqrt{3}}{12}`.
 
-Now we just subtract off the BSAs, and we can evaluate (pi-2)/2 – (pi-12+6sqrt(3))/6 to get the exact same answer you did.
+Now we just subtract off the BSAs, and we can evaluate :math:`\frac{\pi-2}{2} – \frac{\pi-12+6\sqrt{3}}{6}` to get the exact same answer you did.
