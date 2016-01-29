@@ -98,6 +98,16 @@ Solution: build a unit testing framework for Google Apps Scripts.
 GwTest is a unit testing framework in the spirit of PyUnit, JUnit, and SUnit.
 
 
+Novel Potentials for the Simulation of Polyethylene and other Polymeric Systems
+===============================================================================
+
+* Page: `Novel Potentials for the Simulation of Polyethylene and other Polymeric Systems <link://slug/thesis>`__
+
+To complete my undergraduate degree in Materials Science, I had to write a
+thesis. I chose to write my thesis on discrete element simulations of polymer
+chains. I was quite proud of the software that I built and work that I did.
+
+
 How many licks?
 ===============
 
@@ -106,3 +116,5 @@ How many licks?
 Long ago, I started trying to systematically approach the question of how many
 licks it takes to get to the center of a Tootsie Roll Pop. This is the
 document, in progress (stalled), detailing my efforts.
+
+
