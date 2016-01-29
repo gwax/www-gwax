@@ -13,3 +13,6 @@ __pycache__/
 
 # Environment specific files
 .python-version
+
+# OSX Attributes
+.DS_Store
