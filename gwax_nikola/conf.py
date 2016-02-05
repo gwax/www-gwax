@@ -60,7 +60,10 @@ NAVIGATION_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootstrap3_yeti"
+THEME = "pure"
+
+# Color for theming browser elements
+THEME_COLOR = '#606060'
 
 # POSTS and PAGES contains (wildcard, destination, template) tuples.
 #
@@ -403,16 +406,16 @@ CACHE_FOLDER = '../cache'
 #
 FILTERS = {
     '.html': [filters.html_tidy_nowrap],
-    '.css': [filters.yui_compressor],
-    '.js': [filters.closure_compiler],
-    '.json': [filters.jsonminify],
-    '.png': [filters.optipng],
-    '.jpg': [filters.jpegoptim],
-    '.jpeg': [filters.jpegoptim],
+#    '.css': [filters.yui_compressor],
+#    '.js': [filters.closure_compiler],
+#    '.json': [filters.jsonminify],
+#    '.png': [filters.optipng],
+#    '.jpg': [filters.jpegoptim],
+#    '.jpeg': [filters.jpegoptim],
 }
 
 # Compiler to process LESS files.
-# LESS_COMPILER = 'lessc'
+LESS_COMPILER = 'lessc'
 
 # A list of options to pass to the LESS compiler.
 # Final command is: LESS_COMPILER LESS_OPTIONS file.less
@@ -580,8 +583,7 @@ LICENSE = ""
 CONTENT_FOOTER = """
     Contents &copy; 2005-{date} <a href="{aboutperson}">{author}</a> |
     Source: <a href="https://github.com/gwax/www-gwax"><i class="fa fa-github"/>GitHub</a> |
-    Powered by <a href="https://getnikola.com">Nikola</a> |
-    Theme: <a href="http://bootswatch.com/yeti/">Yeti</a> <br />
+    Powered by <a href="https://getnikola.com">Nikola</a> <br />
     {disclaimer}
 """
 
@@ -724,7 +726,7 @@ SOCIAL_BUTTONS_CODE = ""
 
 # Show link to source for the posts?
 # Formerly known as HIDE_SOURCELINK (inverse)
-SHOW_SOURCELINK = False
+SHOW_SOURCELINK = True
 # Copy the source files for your pages?
 # Setting it to False implies SHOW_SOURCELINK = False
 COPY_SOURCES = True
@@ -807,9 +809,7 @@ COPY_SOURCES = True
 # <!-- End of custom search -->
 # """ % SITE_URL
 SEARCH_FORM = """
-<span class="navbar-form navbar-right">
-<input type="text" id="tipue_search_input" class="form-control" placeholder="Search">
-</span>"""
+"""
 
 # Use content distribution networks for jQuery, twitter-bootstrap css and js,
 # and html5shiv (for older versions of Internet Explorer)
@@ -830,8 +830,6 @@ SEARCH_FORM = """
 # (translatable)
 # EXTRA_HEAD_DATA = ""
 EXTRA_HEAD_DATA = """
-<link rel="stylesheet" type="text/css" href="/assets/css/tipuesearch.css">
-<link rel="stylesheet" type="text/css" href="/assets/css/font-awesome.min.css">
 """
 
 # Google Analytics or whatever else you use. Added to the bottom of <body>
@@ -839,46 +837,6 @@ EXTRA_HEAD_DATA = """
 # (translatable)
 # BODY_END = ""
 BODY_END = """
-<!-- Modal -->
-<div id="search-results" class="modal fade" role="dialog" style="height: 80%;">
-  <div class="modal-dialog">
-
-    <!-- Modal content-->
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">Search Results:</h4>
-      </div>
-      <div class="modal-body" id="tipue_search_content" style="max-height: 600px; overflow-y: auto;">
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-
-  </div>
-</div>
-<script>
-$(document).ready(function() {
-    $.when(
-        $.getScript( "/assets/js/tipuesearch_set.js" ),
-        $.getScript( "/assets/js/tipuesearch.js" ),
-        $.Deferred(function( deferred ){
-            $( deferred.resolve );
-        })
-    ).done(function() {
-        $('#tipue_search_input').tipuesearch({
-            'mode': 'json',
-            'contentLocation': '/assets/js/tipuesearch_content.json'
-        });
-        $('#tipue_search_input').keyup(function (e) {
-            if (e.keyCode == 13) {
-                $('#search-results').modal()
-            }
-        });
-    });
-});
-</script>
 <!-- Move footnotes to the end -->
 <script>
 $(document).ready(function() {
@@ -915,7 +873,7 @@ UNSLUGIFY_TITLES = True
 # Nikola supports Open Graph Protocol data for enhancing link sharing and
 # discoverability of your site on Facebook, Google+, and other services.
 # Open Graph is enabled by default.
-# USE_OPEN_GRAPH = True
+USE_OPEN_GRAPH = False
 
 # If webassets is installed, bundle JS and CSS into single files to make
 # site loading faster in a HTTP/1.1 environment but is not recommended for

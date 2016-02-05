@@ -3,9 +3,8 @@
 .. type: text
 
 .. thumbnail:: /images/gwax.jpg
-    :height: 200px
     :alt: George Leslie-Waksman portrait
-    :class: pull-left img-responsive img-thumbnail
+    :class: pull-left pure-img-responsive img-thumbnail pure-u-1-4
 
 Basic Info
 ==========
