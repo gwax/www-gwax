@@ -1,7 +1,7 @@
 .. title: Fixing Nikola Footnote Locations
 .. slug: fixing-nikola-footnote-locations
 .. date: 2016-01-23 23:44:17+00:00
-.. tags: nikola, meta
+.. tags: nikola, meta, code snippets
 .. category: meta
 .. link:
 .. description:
