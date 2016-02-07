@@ -1,0 +1,14 @@
+/* code listing tweaks */
+table.codetable {
+    border: 1px solid grey;
+}
+
+.codetable td {
+    padding: 0.25em;
+    border: 1px solid grey;
+}
+
+.codetable pre {
+    margin: 0;
+    line-height: 1.25em;
+}

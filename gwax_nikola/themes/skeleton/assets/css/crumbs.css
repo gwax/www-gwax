@@ -1,0 +1,72 @@
+/*! Derived from http://line25.com/tutorials/how-to-create-flat-style-breadcrumb-links-with-css */
+
+.breadcrumbs {
+    margin: 2rem 0 2rem 0;
+}
+
+.breadcrumbs ul {
+    list-style: none;
+    display: inline-table;
+    margin: 0;
+}
+
+.breadcrumbs ul li {
+    display: inline;
+}
+
+.breadcrumbs ul li a {
+    display: block;
+    float: left;
+    height: 2rem;
+    background: #a0a0a0;
+    text-align: center;
+    padding: 1rem 2rem 1rem 4rem;
+    position: relative;
+    margin: 0 1rem 0 0;
+
+    text-decoration: none;
+    color: #fff;
+}
+
+.breadcrumbs ul li a:after {
+    content: "";
+    border-top: 2rem solid transparent;
+    border-bottom: 2rem solid transparent;
+    border-left: 2rem solid #a0a0a0;
+    position: absolute; right: -2rem; top: 0;
+    z-index: 1;
+}
+
+.breadcrumbs ul li a:before {
+    content: "";
+    border-top: 2rem solid transparent;
+    border-bottom: 2rem solid transparent;
+    border-left: 2rem solid white;
+    position: absolute; left: 0; top: 0;
+}
+
+.breadcrumbs ul li:first-child a {
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+}
+.breadcrumbs ul li:first-child a:before {
+    display: none;
+}
+
+.breadcrumbs ul li:last-child a {
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    margin: 0;
+}
+.breadcrumbs ul li:last-child a:after {
+    display: none;
+}
+
+.breadcrumbs ul li a:hover {
+    background: #606060;
+}
+
+.breadcrumbs ul li a:hover:after {
+    border-left-color: #606060;
+}
+

@@ -60,7 +60,7 @@ NAVIGATION_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "pure"
+THEME = "skeleton"
 
 # Color for theming browser elements
 THEME_COLOR = '#606060'
@@ -808,8 +808,6 @@ COPY_SOURCES = True
 # </form>
 # <!-- End of custom search -->
 # """ % SITE_URL
-SEARCH_FORM = """
-"""
 
 # Use content distribution networks for jQuery, twitter-bootstrap css and js,
 # and html5shiv (for older versions of Internet Explorer)
