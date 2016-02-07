@@ -581,9 +581,11 @@ LICENSE = ""
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
 CONTENT_FOOTER = """
-    Contents &copy; 2005-{date} <a href="{aboutperson}">{author}</a> |
-    Source: <a href="https://github.com/gwax/www-gwax"><i class="fa fa-github"/>GitHub</a> |
-    Powered by <a href="https://getnikola.com">Nikola</a> <br />
+    Contents &copy; 2005-{date} <a href="{aboutperson}">{author}</a>
+    | Source: <a href="https://github.com/gwax/www-gwax"><i class="fa fa-github"/>GitHub</a> |
+    | Powered by <a href="https://getnikola.com">Nikola</a>
+    | Styled with <a href="http://getskeleton.com">Skeleton</a>
+    <br />
     {disclaimer}
 """
 

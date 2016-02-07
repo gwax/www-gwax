@@ -12,3 +12,16 @@ table.codetable {
     margin: 0;
     line-height: 1.25em;
 }
+
+/* breadcrumbs */
+.breadcrumb li {
+    display: inline;
+}
+
+.breadcrumb li:before {
+    content: " > ";
+}
+
+.breadcrumb li:first-child:before {
+    content: none;
+}
