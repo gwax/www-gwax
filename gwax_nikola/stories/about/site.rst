@@ -18,8 +18,6 @@ The static portions of this site are built using `Nikola <https://getnikola.com>
 
 The Nikola theme is a custom built theme using `Skeleton <http://getskeleton.com/>`_ css boilerplate with a little custom css and js.
 
-Searching is `Tipue Search <http://www.tipue.com/search/>`_ running locally through the Nikola "localsearch" plugin.
-
 Dynamic
 -------
 
