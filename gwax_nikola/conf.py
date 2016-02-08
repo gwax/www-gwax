@@ -92,6 +92,7 @@ THEME_COLOR = '#606060'
 
 POSTS = (
     ("posts/*.rst", "blog", "post.tmpl"),
+    ("posts/*.html", "blog", "post.tmpl"),
 )
 PAGES = (
     ("stories/*.rst", "", "story.tmpl"),
