@@ -4,7 +4,7 @@
 <%def name="html_header()">
     <header>
         <div class="row">
-            <div class="four columns">
+            <div class="six columns">
                 ${html_site_title()}
             </div>
             ${html_translation_header()}
@@ -99,7 +99,7 @@
 
 <%def name="html_translation_header()">
     %if len(translations) > 1:
-        <div class="two columns u-pull-right">
+        <div class="three columns u-pull-right">
             <h2>${messages("Languages:")}</h2>
             ${base.html_translations()}
         </div>
@@ -108,7 +108,7 @@
 
 <%def name="search_form_header()">
     %if search_formt:
-        <div class="two columns u-pull-right">
+        <div class="three columns u-pull-right">
             <span class="searchform" role="search">
                 $search_form
             </span>
