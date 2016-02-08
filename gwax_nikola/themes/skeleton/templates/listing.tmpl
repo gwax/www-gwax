@@ -14,15 +14,15 @@ ${ui.bar(crumbs)}
 % endfor
 </ul>
 %endif
-% if code:
-    ${code}
-% endif
 % if source_link:
     <p class="sourceline">
         <a href="${source_link}" id="sourcelink">
             <i class="fa fa-file"></i> ${messages("Source")}
         </a>
     </p>
+% endif
+% if code:
+    ${code}
 % endif
 </%block>
 
