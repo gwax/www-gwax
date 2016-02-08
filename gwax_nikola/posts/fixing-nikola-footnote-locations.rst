@@ -7,7 +7,9 @@
 .. description:
 .. type: text
 
-Personally, I prefer to intersperse my footnote declarations with the text that is being footnoted when writing my. For example:
+Personally, I prefer to intersperse my footnote declarations with the text that is being footnoted when writing my. For example:[#]_
+
+.. [#] This is just an example.
 
 .. code:: ReST
 
