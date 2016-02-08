@@ -16,7 +16,7 @@ Static
 
 The static portions of this site are built using `Nikola <https://getnikola.com>`_ running under `Python <https://www.python.org>`_ (3.5).
 
-The Nikola theme is `bootstrap3 <https://themes.getnikola.com/#bootstrap3>`_ with the `yeti <https://bootswatch.com/yeti/>`_ bootswatch theme and mild tweaking to my tastes. Additional icons are provided by `font-awesome <http://fortawesome.github.io/Font-Awesome/>`_.
+The Nikola theme is a custom built theme using `Skeleton <http://getskeleton.com/>`_ css boilerplate with a little custom css and js.
 
 Searching is `Tipue Search <http://www.tipue.com/search/>`_ running locally through the Nikola "localsearch" plugin.
 
