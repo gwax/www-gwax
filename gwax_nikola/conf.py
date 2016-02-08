@@ -63,7 +63,7 @@ NAVIGATION_LINKS = {
 THEME = "skeleton"
 
 # Color for theming browser elements
-THEME_COLOR = '#606060'
+THEME_COLOR = '#1EAEDB'
 
 # POSTS and PAGES contains (wildcard, destination, template) tuples.
 #
@@ -416,7 +416,7 @@ FILTERS = {
 }
 
 # Compiler to process LESS files.
-LESS_COMPILER = 'lessc'
+# LESS_COMPILER = 'lessc'
 
 # A list of options to pass to the LESS compiler.
 # Final command is: LESS_COMPILER LESS_OPTIONS file.less
@@ -830,8 +830,6 @@ COPY_SOURCES = True
 # before </head>
 # (translatable)
 # EXTRA_HEAD_DATA = ""
-EXTRA_HEAD_DATA = """
-"""
 
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).

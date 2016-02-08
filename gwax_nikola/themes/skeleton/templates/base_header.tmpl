@@ -107,11 +107,11 @@
 </%def>
 
 <%def name="search_form_header()">
-    %if search_formt:
+    %if search_form:
         <div class="three columns u-pull-right">
-            <span class="searchform" role="search">
-                $search_form
-            </span>
+            <div class="searchform" role="search">
+                ${search_form}
+            </div>
         </div>
     %endif
 </%def>
