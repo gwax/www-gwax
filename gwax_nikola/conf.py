@@ -841,7 +841,7 @@ BODY_END = """
 $(document).ready(function() {
     $('.footnote').each(function(i, el) {
         $(el).appendTo(
-            $(el).closest('.entry-content'));
+            $(el).closest('article'));
     });
 });
 </script>

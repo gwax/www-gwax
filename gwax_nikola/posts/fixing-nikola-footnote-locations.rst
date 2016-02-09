@@ -26,7 +26,7 @@ Wherever they are declared, I prefer to have all of my footnotes appear at the e
     $(document).ready(function() {
         $('.footnote').each(function(i, el) {
             $(el).appendTo(
-                $(el).closest('.entry-content'));
+                $(el).closest('article'));
         });
     });
 

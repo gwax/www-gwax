@@ -1,4 +1,4 @@
-assets/css/all-nocdn.css=
-assets/css/all.css=
-assets/js/all-nocden.js=
-assets/js/all.js=
+assets/css/all-nocdn.css=normalize.css,skeleton.css,font-awesome.min.css,menu-popover.css,menu-dropdown.css,rst.css,code.css,theme.css,custom.css
+assets/css/all.css=menu-popover.css,menu-dropdown.css,rst.css,code.css,theme.css,custom.css
+assets/js/all-nocdn.js=jquery.min.js,menu-popover.js,menu-dropdown.js
+assets/js/all.js=menu-popover.js,menu-dropdown.js
