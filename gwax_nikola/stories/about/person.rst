@@ -5,17 +5,16 @@
 .. raw:: html
 
     <div class="row">
-        <div class="six columns">
+        <div class="four columns">
 
 .. thumbnail:: /images/gwax.jpg
-    :width: 20em
     :alt: George Leslie-Waksman portrait
-    :class: u-pull-left u-max-full-width img-thumbnail
+    :class: u-max-full-width thumbnail
 
 .. raw:: html
 
         </div>
-        <div class="six columns">
+        <div class="eight columns">
 
 Basic Info
 ==========

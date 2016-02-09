@@ -14,9 +14,12 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
     font-family: "Times New Roman", Times, serif;
 }
 
-.img-thumbnail {
-    border: 4px outset #1E9EBB;
-    padding: 1px;
+img.thumbnail {
+    border: 3px outset grey;
+}
+
+a img.thumbnail {
+    border: 3px outset #1E9EBB;
 }
 
 #page-footer {
@@ -29,6 +32,21 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 }
 
 .postlist li {
+    display: inline;
+}
+
+/* slides carousel */
+.carousel-indicators, .carousel-control {
+    display: none;
+}
+
+.carousel-inner {
+    white-space: nowrap;
+    overflow-x: auto;
+    text-align: center;
+}
+
+.carousel-inner div {
     display: inline;
 }
 

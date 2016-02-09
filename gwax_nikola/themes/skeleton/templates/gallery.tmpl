@@ -17,18 +17,28 @@
     %if folders:
     <ul>
     % for folder, ftitle in folders:
-        <li><a href="${folder|u}"><i
+        <li><a href="${folder}"><i
         class="fa fa-folder-open"></i>&nbsp;${ftitle|h}</a></li>
     % endfor
     </ul>
     %endif
     %if photo_array:
-    <ul class="thumbnails">
-        %for image in photo_array:
-            <li><a href="${image['url']}" class="thumbnail image-reference" title="${image['title']}">
-                <img src="${image['url_thumb']}" alt="${image['title']|h}" /></a>
+        %for i, image in enumerate(photo_array):
+            %if i % 3 == 0:
+            <div class="row">
+            %endif
+                <div class="four columns">
+                    <a class="reference external image-reference" href="${image['url']}" title="${image['title']}">
+                        <img class="u-max-full-width thumbnail" src="${image['url_thumb']}" alt="${image['title']|h}" />
+                    </a>
+                </div>
+            %if i % 3 == 2:
+            </div>
+            %endif
         %endfor
-    </ul>
+        %if i % 3 != 2:
+            </div>
+        %endif
     %endif
 %if site_has_comments and enable_comments:
     ${comments.comment_form(None, permalink, title)}
