@@ -20,16 +20,19 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 }
 
 #page-footer {
-    margin: 0 -9999rem;
-    padding: 0.25rem 9999rem;
-    border-top: 1px solid grey;
-    width: 100%;
+    padding-top: 0.25rem;
+    border-top: 3px double grey;
 }
 
 #page-footer p {
     margin: 0.5rem 0 0.5rem 0;
 }
 
+.postlist li {
+    display: inline;
+}
+
+/* footnotes */
 .footnote-reference {
     top: -0.5em;
     font-size: 75%;
