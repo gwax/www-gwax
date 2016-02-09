@@ -1,0 +1,11 @@
+<%def name="css()">
+    <link href="http://assets.annotateit.org/annotator/v1.2.10/annotator.min.css" rel="stylesheet" />
+</%def>
+
+<%def name="code()">
+    <script src="http://assets.annotateit.org/annotator/v1.2.10/annotator-full.min.js"></script>
+    <script>
+    var ann = Annotator(document.body); 
+    ann.setupPlugins();
+    </script>
+</%def>
