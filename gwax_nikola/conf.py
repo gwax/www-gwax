@@ -407,12 +407,12 @@ CACHE_FOLDER = '../cache'
 #
 FILTERS = {
     '.html': [filters.html_tidy_nowrap],
-#    '.css': [filters.yui_compressor],
-#    '.js': [filters.closure_compiler],
-#    '.json': [filters.jsonminify],
-#    '.png': [filters.optipng],
-#    '.jpg': [filters.jpegoptim],
-#    '.jpeg': [filters.jpegoptim],
+    '.css': [filters.yui_compressor],
+    '.js': [filters.closure_compiler],
+    '.json': [filters.jsonminify],
+    '.png': [filters.optipng],
+    '.jpg': [filters.jpegoptim],
+    '.jpeg': [filters.jpegoptim],
 }
 
 # Compiler to process LESS files.
