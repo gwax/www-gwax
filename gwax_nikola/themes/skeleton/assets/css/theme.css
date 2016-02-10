@@ -44,6 +44,11 @@ a img.thumbnail {
     border-bottom: none;
 }
 
+/* listings */
+.linenos .linenodiv a {
+    text-decoration: none !important;
+}
+
 /* slides carousel */
 .carousel-indicators, .carousel-control {
     display: none;
@@ -66,6 +71,11 @@ a img.thumbnail {
     line-height: 0;
     position: relative;
     vertical-align: baseline;
+}
+
+table.footnote {
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 .footnote td {

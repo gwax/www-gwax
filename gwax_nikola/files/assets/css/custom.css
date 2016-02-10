@@ -1,17 +1,4 @@
-img {
-    margin: 4px;
-}
-
-.linenos .linenodiv a {
-    text-decoration: none !important;
-}
-
 .emoji {
-    height: 1.4em;
+    height: 1.4;
     vertical-align: text-bottom;
-}
-
-table.footnote {
-    margin-top: 0;
-    margin-bottom: 0;
 }
