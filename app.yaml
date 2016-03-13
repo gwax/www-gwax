@@ -7,14 +7,16 @@ threadsafe: true
 default_expiration: "30d"
 
 handlers:
-# Dynamic handlers
-#- url: /\.well-known/.*
-#  script: letsencrypt_handler.app
-
 #- url: /dynamictest
 #  script: gwax_flask.app
 
-# Static handlers
+# Let's Encrypt handlers
+- url: /\.well-known/acme-challenge/(.+)
+  static_files: letsencrypt/\1
+  upload: letsencrypt/(.+)
+  mime_type: text/plain
+
+# Static site handlers
 - url: /(.+\.(html|js|css)$)
   static_files: static/\1
   upload: static/(.+\.(html|js|css)$)
