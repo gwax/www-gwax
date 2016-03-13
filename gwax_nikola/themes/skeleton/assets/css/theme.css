@@ -44,6 +44,10 @@ a img.thumbnail {
     border-bottom: none;
 }
 
+pre.literal-block {
+    background: #f8f8f8;
+}
+
 /* listings */
 .linenos .linenodiv a {
     text-decoration: none !important;
