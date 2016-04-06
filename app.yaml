@@ -12,8 +12,8 @@ handlers:
 
 # Let's Encrypt handlers
 - url: /\.well-known/acme-challenge/(.+)
-  static_files: letsencrypt/\1
-  upload: letsencrypt/(.+)
+  static_files: well-known/\1
+  upload: well-known/(.+)
   mime_type: text/plain
 
 # Static site handlers
