@@ -53,7 +53,7 @@ Eventually, I ended up at `Google <https://www.google.com>`_ as a Datacenter Sof
 
 As of now, I am back in the rich data world of healthcare, working for `Clover Health <https://www.cloverhealth.com/>`_, a startup health insurance company, that also happens to be a technology company. We are trying to fix healthcare for old people by bringing 21st century technology to the data, operations, and managed care. It's hard, but I would love if we could do even a little something to dent the massive problem that is modern healthcare.
 
-If you want more professional details, there's something close enough to my résumé available through |linkedin|. If you happen to want a proper résumé or other details, you'll have to email me.
+If you want more professional details, there's something close enough to my résumé available through LinkedIn: |linkedin|. If you happen to want a proper résumé or other details, you'll have to email me.
 
 Non-professionally, I have a wife and daughter, both of whom I love to a degree, the expression of which exceeds my writing skills.
 
