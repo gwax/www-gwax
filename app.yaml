@@ -11,7 +11,7 @@ handlers:
 #  script: gwax_flask.app
 
 # Let's Encrypt handlers
-- url: /\.well-known/acme-challenge/(.+)
+- url: /\.well-known/(.+)
   static_files: well-known/\1
   upload: well-known/(.+)
   mime_type: text/plain
