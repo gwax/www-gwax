@@ -4,7 +4,7 @@
 .. type: text
 
 | Principal Investigator: George Waksman
-| Copyright &copy;2004-2009 George Waksman
+| Copyright ©2004-2009 George Waksman
 | Data Contributors: George Waksman, Rachel Dillon, Megan Cohen, Jared Coffman, Brad Shilling, Cassidy Verlie
 
 
