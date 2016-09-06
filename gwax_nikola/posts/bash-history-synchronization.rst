@@ -84,3 +84,6 @@ First we just set up some basic configuration:
         export PROMPT_COMMAND="${PROMPT_COMMAND:+$PROMPT_COMMAND$'\n'}histsync"
 
 There might be better ways, but it works.
+
+P.S. I keep my `.bashrc on GitHub <https://github.com/gwax/dotfiles/blob/master/bashrc>`__
+(along with the rest of my core dotfiles).
