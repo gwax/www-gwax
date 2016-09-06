@@ -4,7 +4,7 @@ runtime: python27
 api_version: 1
 threadsafe: true
 
-default_expiration: "30d"
+default_expiration: "3d"
 
 handlers:
 #- url: /dynamictest
@@ -21,6 +21,7 @@ handlers:
   static_files: static/\1
   upload: static/(.+\.(html|js|css)$)
   secure: always
+  expiration: 10m
   http_headers:
     X-Narwhal: A small arctic whale. The male has a long tusk.
 
@@ -51,6 +52,7 @@ handlers:
   static_files: static/\1/index.html
   upload: static/(.+)/index.html
   secure: always
+  expiration: 10m
   http_headers:
     X-Narwhal: A small arctic whale. The male has a long tusk.
 
@@ -58,6 +60,7 @@ handlers:
   static_files: static/\1/index.html
   upload: static/(.+)/index.html
   secure: always
+  expiration: 10m
   http_headers:
     X-Narwhal: A small arctic whale. The male has a long tusk.
 
@@ -65,5 +68,6 @@ handlers:
   static_files: static/index.html
   upload: static/index.html
   secure: always
+  expiration: 10m
   http_headers:
     X-Narwhal: A small arctic whale. The male has a long tusk.
