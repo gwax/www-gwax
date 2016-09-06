@@ -43,6 +43,7 @@ TRANSLATIONS = {
 #          else they won’t be highlighted when active.
 
 ABOUT_PERSON_LINK = "/about/about-person/"
+CONTACT_LINK = ABOUT_PERSON_LINK + "#contact"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/projects/", "Projects"),
@@ -56,6 +57,7 @@ NAVIGATION_LINKS = {
             (ABOUT_PERSON_LINK, "The person"),
             ("/about/about-site/", "The site"),
         ), "About"),
+        (CONTACT_LINK, "Contact"),
     ),
 }
 
