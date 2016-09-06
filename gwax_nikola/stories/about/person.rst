@@ -2,19 +2,10 @@
 .. slug: about-person
 .. type: text
 
-.. raw:: html
-
-    <div class="row">
-        <div class="four columns">
 
 .. thumbnail:: /images/gwax.jpg
     :alt: George Leslie-Waksman portrait
-    :class: u-max-full-width thumbnail
-
-.. raw:: html
-
-        </div>
-        <div class="eight columns">
+    :class: u-pull-right thumbnail
 
 Basic Info
 ==========
@@ -24,11 +15,6 @@ Basic Info
 * Current Region: SF Bay Area, CA, USA
 * Favorite Number: 3
 * Favorite Color: Blue
-
-.. raw:: html
-
-        </div>
-    </div>
 
 Who am I?
 =========

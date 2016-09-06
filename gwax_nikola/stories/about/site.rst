@@ -18,10 +18,10 @@ The static portions of this site are built using `Nikola <https://getnikola.com>
 
 The Nikola theme is a custom built theme using `Skeleton <http://getskeleton.com/>`_ css boilerplate with a little custom css and js. Icons and glyphs are from `Font Awesome <http://fortawesome.github.io/Font-Awesome/>`_.
 
-Dynamic
--------
+.. Dynamic
+   -------
 
-The dynamic portions of this site are built using `Flask <http://flask.pocoo.org>`_ with `Mako <http://www.makotemplates.org>`_ running under Python_ (2.7).
+.. The dynamic portions of this site are built using `Flask <http://flask.pocoo.org>`_ with `Mako <http://www.makotemplates.org>`_ running under Python_ (2.7).
 
 
 Hosting

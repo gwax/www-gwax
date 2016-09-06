@@ -15,10 +15,12 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 }
 
 img.thumbnail {
+    magin: 1rem;
     border: 3px outset grey;
 }
 
 a img.thumbnail {
+    margin: 1rem;
     border: 3px outset #1E9EBB;
 }
 
@@ -145,4 +147,10 @@ header .metadata {
 
 .metadata .sourceline:after {
     content: ")";
+}
+
+/* reST list tweaks */
+ol.simple, ul.simple, ol.arabic, ol.loweralpha, ol.upperalpha, ol.lowerroman, ol.upperroman {
+  list-style-position: inside;
+  padding-left: 1rem;
 }
