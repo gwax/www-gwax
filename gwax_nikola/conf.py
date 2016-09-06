@@ -582,7 +582,7 @@ LICENSE = ""
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
 CONTENT_FOOTER = """
-    Contents &copy; 2005-{date} <a href="{aboutperson}">{author}</a>
+    Contents &copy;2005-{date} <a href="{aboutperson}">{author}</a>
     | Source: <a href="https://github.com/gwax/www-gwax"><i class="fa fa-github"/>GitHub</a> |
     | Powered by <a href="https://getnikola.com">Nikola</a>
     | Styled with <a href="http://getskeleton.com">Skeleton</a>
@@ -838,17 +838,7 @@ EXTRA_HEAD_DATA = """
 # in the default template (base.tmpl).
 # (translatable)
 # BODY_END = ""
-BODY_END = """
-<!-- Move footnotes to the end -->
-<script>
-$(document).ready(function() {
-    $('.footnote').each(function(i, el) {
-        $(el).appendTo(
-            $(el).closest('article'));
-    });
-});
-</script>
-"""
+BODY_END = ""
 
 # The possibility to extract metadata from the filename by using a
 # regular expression.
