@@ -7,9 +7,13 @@
 .. description:
 .. type: text
 
+.. thumbnail:: /images/slowcooker-yogurt/yield.jpg
+    :alt: Some jars of homemade yogurt
+    :class: u-pull-right thumbnail
+
 I have a 14 month old daughter, a wife that likes yogurt with granola, and I
-kind of like it, so we go through a lot of yogurt in my house. Specifically,
-we go through a lot of plain, whole milk, greek yogurt.
+kind of like the stuff too. Needless to say, we go through a lot of yogurt in
+my house. Specifically, we go through a lot of plain, whole milk, greek yogurt.
 
 We were recently visiting my wife's aunt and uncle (my daughter's graunt and
 gruncle), and we had yogurt most mornings. They use an
@@ -39,8 +43,8 @@ Slowcooker Greek Yogurt recipe
 Instructions
 ============
 
-.. thumbnail:: /images/slowcooker-yogurt/yield.jpg
-    :alt: Some jars of yogurt
+.. thumbnail:: /images/slowcooker-yogurt/straining.jpg
+    :alt: Straining yogurt
     :class: u-pull-right thumbnail
 
 1. Pour the full gallon of milk into the slowcooker.
@@ -76,8 +80,8 @@ Instructions
 10. Scoop out a cup of the yogurt and set it aside so it can be a starter for
     your next batch.
 
-.. thumbnail:: /images/slowcooker-yogurt/straining.jpg
-    :alt: Straining yogurt
+.. thumbnail:: /images/slowcooker-yogurt/whey.jpg
+    :alt: A jug of fresh whey
     :class: u-pull-left thumbnail
 
 11. Set a colander in a bowl, with cheesecloth in the colander, and start
