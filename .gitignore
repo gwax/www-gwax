@@ -1,4 +1,6 @@
+# generated content
 static/
+app.yaml
 
 # Secrets
 secrets.py
