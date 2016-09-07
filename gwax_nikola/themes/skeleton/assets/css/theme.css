@@ -24,6 +24,15 @@ a img.thumbnail {
     border: 3px outset #1E9EBB;
 }
 
+div.pager {
+    border-top: 3px double grey;
+}
+
+div.pager .button {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
 #page-footer {
     padding-top: 0.25rem;
     border-top: 3px double grey;
