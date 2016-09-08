@@ -42,7 +42,7 @@ div.pager .button {
     margin: 0.5rem 0 0.5rem 0;
 }
 
-.postlist li {
+.taglist li {
     display: inline;
 }
 
@@ -130,6 +130,17 @@ table.codetable {
     content: none;
 }
 
+/* time entries */
+time {
+    font-size: 75%;
+    font-style: italic;
+}
+time:before {
+    content: "(";
+}
+time:after {
+    content: ")";
+}
 
 /* metadata headers */
 header .metadata {

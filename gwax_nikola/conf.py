@@ -118,10 +118,11 @@ FORCE_ISO8601 = True
 # Date format used to display post dates. (translatable)
 # (str used by datetime.datetime.strftime)
 # DATE_FORMAT = '%Y-%m-%d %H:%M'
+DATE_FORMAT = 'webiso'
 
 # Date format used to display post dates, if local dates are used. (translatable)
 # (str used by moment.js)
-JS_DATE_FORMAT = 'YYYY-MM-DD hh:mm a'
+# JS_DATE_FORMAT = 'YYYY-MM-DD hh:mm a'
 
 # Date fanciness.
 #
@@ -130,7 +131,7 @@ JS_DATE_FORMAT = 'YYYY-MM-DD hh:mm a'
 # 2 = using a string like “2 days ago”
 #
 # Your theme must support it, bootstrap and bootstrap3 already do.
-DATE_FANCINESS = 1
+# DATE_FANCINESS = 0
 
 # While Nikola can select a sensible locale for each language,
 # sometimes explicit control can come handy.
