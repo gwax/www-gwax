@@ -3,57 +3,59 @@
 <%def name="html_headstart()">
 <!DOCTYPE html>
 <html \
-prefix='\
-%if use_open_graph or (twitter_card and twitter_card['use_twitter_cards']):
-og: http://ogp.me/ns# article: http://ogp.me/ns/article# \
-%endif
-%if comment_system == 'facebook':
-fb: http://ogp.me/ns/fb#
-%endif
-' \
-%if use_open_graph or (twitter_card and twitter_card['use_twitter_cards']):
-vocab="http://ogp.me/ns" \
+% if use_open_graph or (twitter_card and twitter_card['use_twitter_cards']) or (comment_system == 'facebook'):
+    prefix='\
+        %if use_open_graph or (twitter_card and twitter_card['use_twitter_cards']):
+            og: http://ogp.me/ns# article: http://ogp.me/ns/article# \
+        %endif
+        %if comment_system == 'facebook':
+            fb: http://ogp.me/ns/fb#
+        %endif
+    ' \
+    %if use_open_graph or (twitter_card and twitter_card['use_twitter_cards']):
+        vocab="http://ogp.me/ns" \
+    %endif
 %endif
 % if is_rtl:
-dir="rtl" \
+    dir="rtl" \
 % endif
 \
 lang="${lang}">
 <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
     % if use_base_tag:
-    <base href="${abs_link(permalink)}">
+    <base href="${abs_link(permalink)}" />
     % endif
     %if description:
-    <meta name="description" content="${description|h}">
+    <meta name="description" content="${description|h}" />
     %endif
-    <meta name="viewport" content="width=device-width">
+    <meta name="viewport" content="width=device-width" />
     %if title == blog_title:
-        <title>${blog_title|h}</title>
+    <title>${blog_title|h}</title>
     %else:
-        <title>${title|h} | ${blog_title|h}</title>
+    <title>${title|h} | ${blog_title|h}</title>
     %endif
 
     ${html_stylesheets()}
-    <meta content="${theme_color}" name="theme-color">
+    <meta content="${theme_color}" name="theme-color" />
     ${html_feedlinks()}
-    <link rel="canonical" href="${abs_link(permalink)}">
+    <link rel="canonical" href="${abs_link(permalink)}" />
 
     %if favicons:
         %for name, file, size in favicons:
-            <link rel="${name}" href="${file}" sizes="${size}"/>
+    <link rel="${name}" href="${file}" sizes="${size}" />
         %endfor
     %endif
 
     % if comment_system == 'facebook':
-        <meta property="fb:app_id" content="${comment_system_id}">
+    <meta property="fb:app_id" content="${comment_system_id}" />
     % endif
 
     %if prevlink:
-        <link rel="prev" href="${prevlink}" type="text/html">
+    <link rel="prev" href="${prevlink}" type="text/html" />
     %endif
     %if nextlink:
-        <link rel="next" href="${nextlink}" type="text/html">
+    <link rel="next" href="${nextlink}" type="text/html" />
     %endif
 
     ${mathjax_config}

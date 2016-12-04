@@ -1,1 +1,5 @@
-This is an even more stripped down and bare-bones version of the "base" theme that ships with nikola.
+This theme has no styling information beyond what is built in for handling
+reStructuredText.
+
+This template supports all the functionality of nikola and can be used for
+building out framework agnostic themes.

@@ -1,11 +1,31 @@
+
 <%def name="css()">
-    <link href="http://assets.annotateit.org/annotator/v1.2.10/annotator.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="http://assets.annotateit.org/annotator/v1.2.5/annotator.min.css">
+</%def>
+
+<%def name="head()">
+    % if annotations and post and not post.meta('noannotations'):
+        ${css()}
+    % elif not annotations and post and post.meta('annotations'):
+        ${css()}
+    % endif
 </%def>
 
 <%def name="code()">
-    <script src="http://assets.annotateit.org/annotator/v1.2.10/annotator-full.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+    <script src="http://assets.annotateit.org/annotator/v1.2.5/annotator-full.min.js"></script>
     <script>
-    var ann = Annotator(document.body); 
-    ann.setupPlugins();
+    jQuery(function ($) {
+        $('#content').annotator()
+                     .annotator('setupPlugins');
+    });
     </script>
+</%def>
+
+<%def name="body_end()">
+    % if annotations and post and not post.meta('noannotations'):
+        ${code()}
+    % elif not annotations and post and post.meta('annotations'):
+        ${code()}
+    % endif
 </%def>
