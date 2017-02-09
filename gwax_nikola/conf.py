@@ -408,14 +408,17 @@ CACHE_FOLDER = '../cache'
 # Many filters are shipped with Nikola. A list is available in the manual:
 # <https://getnikola.com/handbook.html#post-processing-filters>
 #
+def jpegoptim_progressive(infile):
+    """variant of jpegoptim filter to convert everything to progressive."""
+    return filters.runinplace('jpegoptim -p --strip-all --all-progressive -q %1', infile)
 FILTERS = {
     '.html': [filters.html_tidy_nowrap],
     '.css': [filters.yui_compressor],
     '.js': [filters.closure_compiler],
     '.json': [filters.jsonminify],
     '.png': [filters.optipng],
-    '.jpg': [filters.jpegoptim],
-    '.jpeg': [filters.jpegoptim],
+    '.jpg': [jpegoptim_progressive],
+    '.jpeg': [jpegoptim_progressive],
 }
 
 # Compiler to process LESS files.
