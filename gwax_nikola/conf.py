@@ -51,7 +51,7 @@ NAVIGATION_LINKS = {
             ("/blog/", "<strong>Posts</strong>"),
             ("/blog/archive/", "Archives"),
             ("/blog/categories/", "Tags & Categories"),
-            ("/blog/rss.xml", "RSS feed"),
+            ("/blog.xml", "RSS feed"),
         ), "Blog"),
         ((
             (ABOUT_PERSON_LINK, "The person"),
