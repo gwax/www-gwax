@@ -512,17 +512,16 @@ CACHE_FOLDER = '../cache'
 #
 # Many filters are shipped with Nikola. A list is available in the manual:
 # <https://getnikola.com/handbook.html#post-processing-filters>
-def jpegoptim_progressive(infile):
-    """variant of jpegoptim filter to convert everything to progressive."""
-    return filters.runinplace('jpegoptim -p --strip-all --all-progressive -q %1', infile)
 FILTERS = {
     '.html': [filters.html_tidy_nowrap],
     '.css': [filters.yui_compressor],
     '.js': [filters.closure_compiler],
     '.json': [filters.jsonminify],
     '.png': [filters.optipng],
-    '.jpg': [jpegoptim_progressive],
-    '.jpeg': [jpegoptim_progressive],
+    '.jpg': [filters.jpegoptim_progressive],
+    '.jpeg': [filters.jpegoptim_progressive],
+    '.xml': [filters.xmlminify],
+    '.atom': [filters.xmlminify],
 }
 
 # Executable for the "yui_compressor" filter (defaults to 'yui-compressor').
@@ -532,7 +531,7 @@ FILTERS = {
 # CLOSURE_COMPILER_EXECUTABLE = 'closure-compiler'
 
 # Executable for the "optipng" filter (defaults to 'optipng').
-OPTIPNG_EXECUTABLE = 'optipng'
+# OPTIPNG_EXECUTABLE = 'optipng'
 
 # Executable for the "jpegoptim" filter (defaults to 'jpegoptim').
 # JPEGOPTIM_EXECUTABLE = 'jpegoptim'
