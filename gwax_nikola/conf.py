@@ -1,21 +1,114 @@
+# -*- coding: utf-8 -*-
 """gwax.com Nikola configuration."""
 
+from __future__ import unicode_literals
 import time
 
 from nikola import filters
 
+# !! This is the configuration of Nikola. !! #
+# !!  You should edit it to your liking.  !! #
+
+
+# ! Some settings can be different in different languages.
+# ! A comment stating (translatable) is used to denote those.
+# ! There are two ways to specify a translatable setting:
+# ! (a) BLOG_TITLE = "My Blog"
+# ! (b) BLOG_TITLE = {"en": "My Blog", "es": "Mi Blog"}
+# ! Option (a) is used when you don't want that setting translated.
+# ! Option (b) is used for settings that are different in different languages.
+
+
 # Data about this site
-BLOG_AUTHOR = "George Leslie-Waksman"
-BLOG_TITLE = "gwax"
+BLOG_AUTHOR = "George Leslie-Waksman"  # (translatable)
+BLOG_TITLE = "gwax"  # (translatable)
+# This is the main URL for your site. It will be used
+# in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://gwax.com/"
+# This is the URL where Nikola's output will be deployed.
+# If not set, defaults to SITE_URL
+# BASE_URL = "https://example.com/"
 BLOG_EMAIL = "waksman@gwax.com"
 BLOG_DESCRIPTION = "The personal website of George Leslie-Waksman."
 
+# Nikola is multilingual!
+#
+# Currently supported languages are:
+#
+# en        English
+# ar        Arabic
+# az        Azerbaijani
+# bg        Bulgarian
+# bs        Bosnian
+# ca        Catalan
+# cs        Czech [ALTERNATIVELY cz]
+# da        Danish
+# de        German
+# el        Greek [NOT gr]
+# eo        Esperanto
+# es        Spanish
+# et        Estonian
+# eu        Basque
+# fa        Persian
+# fi        Finnish
+# fr        French
+# gl        Galician
+# he        Hebrew
+# hi        Hindi
+# hr        Croatian
+# hu        Hungarian
+# id        Indonesian
+# it        Italian
+# ja        Japanese [NOT jp]
+# ko        Korean
+# lt        Lithuanian
+# nb        Norwegian (Bokmål)
+# nl        Dutch
+# pa        Punjabi
+# pl        Polish
+# pt        Portuguese
+# pt_br     Portuguese (Brazil)
+# ru        Russian
+# sk        Slovak
+# sl        Slovene
+# sq        Albanian
+# sr        Serbian (Cyrillic)
+# sr_latin  Serbian (Latin)
+# sv        Swedish
+# te        Telugu
+# tr        Turkish [NOT tr_TR]
+# uk        Ukrainian
+# ur        Urdu
+# zh_cn     Chinese (Simplified)
+# zh_tw     Chinese (Traditional)
+#
+# If you want to use Nikola with a non-supported language you have to provide
+# a module containing the necessary translations
+# (cf. the modules at nikola/data/themes/base/messages/).
+# If a specific post is not translated to a language, then the version
+# in the default language will be shown instead.
 
+# What is the default language?
 DEFAULT_LANG = "en"
+
+# What other languages do you have?
+# The format is {"translationcode" : "path/to/translation" }
+# the path will be used as a prefix for the generated pages location
 TRANSLATIONS = {
     DEFAULT_LANG: "",
+    # Example for another language:
+    # "es": "./es",
 }
+
+# What will translated input files be named like?
+
+# If you have a page something.rst, then something.pl.rst will be considered
+# its Polish translation.
+#     (in the above example: path == "something", ext == "rst", lang == "pl")
+# this pattern is also used for metadata:
+#     something.meta -> something.pl.meta
+
+TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 # Links for the sidebar / navigation bar.  (translatable)
 # This is a dict.  The keys are languages, and values are tuples.
@@ -38,9 +131,9 @@ TRANSLATIONS = {
 #          may present issues if the menu is too large.
 #          (in bootstrap3, the navbar can grow too large and cover contents.)
 # WARNING: If you link to directories, make sure to follow
-#          ``STRIP_INDEXES``.  If it's set to ``True``, end your links
-#          with a ``/``, otherwise end them with ``/index.html`` - or
-#          else they won't be highlighted when active.
+#          ``STRIP_INDEXES``.  If it’s set to ``True``, end your links
+#          with a ``/``, otherwise end them with ``/index.html`` — or
+#          else they won’t be highlighted when active.
 
 ABOUT_PERSON_LINK = "/about/about-person/"
 CONTACT_LINK = ABOUT_PERSON_LINK + "#contact"
@@ -64,17 +157,19 @@ NAVIGATION_LINKS = {
 # Name of the theme to use.
 THEME = "skeleton"
 
-# Color for theming browser elements
+# Primary color of your theme. This will be used to customize your theme and
+# auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
 THEME_COLOR = '#1EAEDB'
 
 # POSTS and PAGES contains (wildcard, destination, template) tuples.
+# (translatable)
 #
-# The wildcard is used to generate a list of reSt source files
-# (whatever/thing.txt).
+# The wildcard is used to generate a list of source files
+# (whatever/thing.rst, for example).
 #
 # That fragment could have an associated metadata file (whatever/thing.meta),
 # and optionally translated files (example for Spanish, with code "es"):
-#     whatever/thing.es.txt and whatever/thing.es.meta
+#     whatever/thing.es.rst and whatever/thing.es.meta
 #
 #     This assumes you use the default TRANSLATIONS_PATTERN.
 #
@@ -83,23 +178,34 @@ THEME_COLOR = '#1EAEDB'
 #
 # These files are combined with the template to produce rendered
 # pages, which will be placed at
-# output / TRANSLATIONS[lang] / destination / pagename.html
+# output/TRANSLATIONS[lang]/destination/pagename.html
 #
 # where "pagename" is the "slug" specified in the metadata file.
+# The page might also be placed in /destination/pagename/index.html
+# if PRETTY_URLS are enabled.
 #
 # The difference between POSTS and PAGES is that POSTS are added
-# to feeds and are considered part of a blog, while PAGES are
-# just independent HTML pages.
+# to feeds, indexes, tag lists and archives and are considered part
+# of a blog, while PAGES are just independent HTML pages.
 #
+# Finally, note that destination can be translated, i.e. you can
+# specify a different translation folder per language. Example:
+#     PAGES = (
+#         ("pages/*.rst", {"en": "pages", "de": "seiten"}, "story.tmpl"),
+#         ("pages/*.md", {"en": "pages", "de": "seiten"}, "story.tmpl"),
+#     )
 
 POSTS = (
     ("posts/*.rst", "blog", "post.tmpl"),
     ("posts/*.html", "blog", "post.tmpl"),
 )
 PAGES = (
-    ("stories/*.rst", "", "story.tmpl"),
-    ("stories/*.html", "", "story.tmpl"),
+    ("pages/*.rst", "", "story.tmpl"),
+    ("pages/*.html", "", "story.tmpl"),
 )
+
+
+# Below this point, everything is optional
 
 # Post's dates are considered in UTC by default, if you want to use
 # another time zone, please set TIMEZONE to match. Check the available
@@ -122,13 +228,13 @@ DATE_FORMAT = 'webiso'
 
 # Date format used to display post dates, if local dates are used. (translatable)
 # (str used by moment.js)
-# JS_DATE_FORMAT = 'YYYY-MM-DD hh:mm a'
+# JS_DATE_FORMAT = 'YYYY-MM-DD HH:mm'
 
 # Date fanciness.
 #
 # 0 = using DATE_FORMAT and TIMEZONE
 # 1 = using JS_DATE_FORMAT and local user time (via moment.js)
-# 2 = using a string like "2 days ago"
+# 2 = using a string like “2 days ago”
 #
 # Your theme must support it, bootstrap and bootstrap3 already do.
 # DATE_FANCINESS = 0
@@ -143,7 +249,10 @@ DATE_FORMAT = 'webiso'
 # LOCALE_FALLBACK = locale to use when an explicit locale is unavailable
 # LOCALE_DEFAULT = locale to use for languages not mentioned in LOCALES; if
 # not set the default Nikola mapping is used.
+
 LOCALES = {"en": "en_US.UTF-8"}
+# LOCALE_FALLBACK = None
+# LOCALE_DEFAULT = None
 
 # One or more folders containing files to be copied as-is into the output.
 # The format is a dictionary of {source: relative destination}.
@@ -151,8 +260,8 @@ LOCALES = {"en": "en_US.UTF-8"}
 # FILES_FOLDERS = {'files': ''}
 # Which means copy 'files' into 'output'
 
-# One or more folders containing listings to be processed and stored into
-# the output. The format is a dictionary of {source: relative destination}.
+# One or more folders containing code listings to be processed and published on
+# the site. The format is a dictionary of {source: relative destination}.
 # Default is:
 # LISTINGS_FOLDERS = {'listings': 'listings'}
 # Which means process listings from 'listings' into 'output/listings'
@@ -173,11 +282,35 @@ COMPILERS = {
     "wiki": ('.wiki',),
     "ipynb": ('.ipynb',),
     "html": ('.html', '.htm'),
+    # PHP files are rendered the usual way (i.e. with the full templates).
+    # The resulting files have .php extensions, making it possible to run
+    # them without reconfiguring your server to recognize them.
+    # "php": ('.php',),
     # Pandoc detects the input from the source filename
     # but is disabled by default as it would conflict
     # with many of the others.
     # "pandoc": ('.rst', '.md', '.txt'),
 }
+
+# Create by default posts in one file format?
+# Set to False for two-file posts, with separate metadata.
+# ONE_FILE_POSTS = True
+
+# Use date-based path when creating posts?
+# Can be enabled on a per-post basis with `nikola new_post -d`.
+# The setting is ignored when creating pages (`-d` still works).
+# NEW_POST_DATE_PATH = False
+
+# What format to use when creating posts with date paths?
+# Default is '%Y/%m/%d', other possibilities include '%Y' or '%Y/%m'.
+# NEW_POST_DATE_PATH_FORMAT = '%Y/%m/%d'
+
+# If this is set to True, the DEFAULT_LANG version will be displayed for
+# untranslated posts.
+# If this is set to False, then posts that are not translated to a language
+# LANG will not be visible at all in the pages in that language.
+# Formerly known as HIDE_UNTRANSLATED_POSTS (inverse)
+# SHOW_UNTRANSLATED_POSTS = True
 
 # Nikola supports logo display.  If you have one, you can put the URL here.
 # Final output is <img src="LOGO_URL" id="logo" alt="BLOG_TITLE">.
@@ -267,7 +400,7 @@ TAG_PATH = "blog/categories"
 
 # Set descriptions for tag pages to make them more interesting. The
 # default is no description. The value is used in the meta description
-# and displayed underneath the tag list or index page's title.
+# and displayed underneath the tag list or index page’s title.
 # TAG_PAGES_DESCRIPTIONS = {
 #    DEFAULT_LANG: {
 #        "blogging": "Meta-blog posts about blogging about blogging.",
@@ -326,7 +459,7 @@ CATEGORY_OUTPUT_FLAT_HIERARCHY = False
 
 # Set descriptions for category pages to make them more interesting. The
 # default is no description. The value is used in the meta description
-# and displayed underneath the category list or index page's title.
+# and displayed underneath the category list or index page’s title.
 # CATEGORY_PAGES_DESCRIPTIONS = {
 #    DEFAULT_LANG: {
 #        "blogging": "Meta-blog posts about blogging about blogging.",
@@ -364,7 +497,7 @@ ENABLE_AUTHOR_PAGES = False
 
 # Set descriptions for author pages to make them more interesting. The
 # default is no description. The value is used in the meta description
-# and displayed underneath the author list or index page's title.
+# and displayed underneath the author list or index page’s title.
 # AUTHOR_PAGES_DESCRIPTIONS = {
 #    DEFAULT_LANG: {
 #        "Juanjo Conti": "Python coder and writer.",
@@ -383,7 +516,7 @@ ENABLE_AUTHOR_PAGES = False
 # (translatable)
 INDEX_PATH = "blog"
 
-# Optional HTML that displayed on "main" blog index.html files.
+# Optional HTML that displayed on “main” blog index.html files.
 # May be used for a greeting. (translatable)
 FRONT_INDEX_HEADER = {
     DEFAULT_LANG: ''
@@ -422,8 +555,8 @@ URL_TYPE = 'full_path'
 # If USE_BASE_TAG is True, then all HTML files will include
 # something like <base href=http://foo.var.com/baz/bat> to help
 # the browser resolve relative links.
-# Most people don't need this tag; major websites don't use it. Use
-# only if you know what you're doing. If this is True, your website
+# Most people don’t need this tag; major websites don’t use it. Use
+# only if you know what you’re doing. If this is True, your website
 # will not be fully usable by manually opening .html files in your web
 # browser (`nikola serve` or `nikola auto` is mandatory). Also, if you
 # have mirrors of your site, they will point to SITE_URL everywhere.
@@ -508,21 +641,37 @@ CACHE_FOLDER = '../cache'
 # argument.
 #
 # By default, only .php files uses filters to inject PHP into
-# Nikola's templates. All other filters must be enabled through FILTERS.
+# Nikola’s templates. All other filters must be enabled through FILTERS.
 #
 # Many filters are shipped with Nikola. A list is available in the manual:
 # <https://getnikola.com/handbook.html#post-processing-filters>
-def jpegoptim_progressive(infile):
-    """variant of jpegoptim filter to convert everything to progressive."""
-    return filters.runinplace('jpegoptim -p --strip-all --all-progressive -q %1', infile)
+#
+
+
+@filters.apply_to_binary_file
+def xmltidy(data):
+    """Variation of filters.xmltidy with pretty_print=True"""
+    import lxml.etree
+    parser = lxml.etree.XMLParser(remove_blank_text=True)
+    newdata = lxml.etree.XML(data, parser=parser)
+    return lxml.etree.tostring(
+        newdata,
+        encoding='utf-8',
+        method='xml',
+        xml_declaration=True,
+        pretty_print=True)
+
+
 FILTERS = {
     '.html': [filters.html_tidy_nowrap],
     '.css': [filters.yui_compressor],
     '.js': [filters.closure_compiler],
     '.json': [filters.jsonminify],
     '.png': [filters.optipng],
-    '.jpg': [jpegoptim_progressive],
-    '.jpeg': [jpegoptim_progressive],
+    '.jpg': [filters.jpegoptim_progressive],
+    '.jpeg': [filters.jpegoptim_progressive],
+    '.xml': [xmltidy],
+    '.atom': [xmltidy],
 }
 
 # Executable for the "yui_compressor" filter (defaults to 'yui-compressor').
@@ -532,7 +681,7 @@ FILTERS = {
 # CLOSURE_COMPILER_EXECUTABLE = 'closure-compiler'
 
 # Executable for the "optipng" filter (defaults to 'optipng').
-OPTIPNG_EXECUTABLE = 'optipng'
+# OPTIPNG_EXECUTABLE = 'optipng'
 
 # Executable for the "jpegoptim" filter (defaults to 'jpegoptim').
 # JPEGOPTIM_EXECUTABLE = 'jpegoptim'
@@ -637,8 +786,8 @@ OPTIPNG_EXECUTABLE = 'optipng'
 #
 #   .. image:: /images/tesla.jpg
 #
-# See the Nikola Handbook for details (in the "Embedding Images" and
-# "Thumbnails" sections)
+# See the Nikola Handbook for details (in the “Embedding Images” and
+# “Thumbnails” sections)
 
 # Images will be scaled down according to IMAGE_THUMBNAIL_SIZE and MAX_IMAGE_SIZE
 # options, but will have to be referenced manually to be visible on the site
@@ -694,7 +843,6 @@ INDEXES_STATIC = True
 # Note that in case INDEXES_PAGES_MAIN is set to True, a redirection will be created
 # for the full URL with the page number of the main page to the normal (shorter) main
 # page URL.
-# INDEXES_PRETTY_PAGE_URL = False
 INDEXES_PRETTY_PAGE_URL = ('{number}', '{index_file}')
 
 # If the following is true, a page range navigation will be inserted to indices.
@@ -763,10 +911,10 @@ INDEX_TEASERS = True
 # HTML fragments with the Read more... links.
 # The following tags exist and are replaced for you:
 # {link}                        A link to the full post page.
-# {read_more}                   The string "Read more" in the current language.
+# {read_more}                   The string “Read more” in the current language.
 # {reading_time}                An estimate of how long it will take to read the post.
 # {remaining_reading_time}      An estimate of how long it will take to read the post, sans the teaser.
-# {min_remaining_read}          The string "{remaining_reading_time} min remaining to read" in the current language.
+# {min_remaining_read}          The string “{remaining_reading_time} min remaining to read” in the current language.
 # {paragraph_count}             The amount of paragraphs in the post.
 # {remaining_paragraph_count}   The amount of paragraphs in the post, sans the teaser.
 # {{                            A literal { (U+007B LEFT CURLY BRACKET)
@@ -790,6 +938,13 @@ FEED_LINKS_APPEND_QUERY = False
 # A HTML fragment describing the license, for the sidebar.
 # (translatable)
 LICENSE = ""
+# I recommend using the Creative Commons' wizard:
+# https://creativecommons.org/choose/
+# LICENSE = """
+# <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+# <img alt="Creative Commons License BY-NC-SA"
+# style="border-width:0; margin-bottom:12px;"
+# src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"></a>"""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
@@ -978,6 +1133,19 @@ MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite', 'extra']
 # long time). Insert anything you want here, or even make it empty (which is
 # the default right now)
 # (translatable)
+# SOCIAL_BUTTONS_CODE = """
+# <!-- Social buttons -->
+# <div id="addthisbox" class="addthis_toolbox addthis_peekaboo_style addthis_default_style addthis_label_style addthis_32x32_style">
+# <a class="addthis_button_more">Share</a>
+# <ul><li><a class="addthis_button_facebook"></a>
+# <li><a class="addthis_button_google_plusone_share"></a>
+# <li><a class="addthis_button_linkedin"></a>
+# <li><a class="addthis_button_twitter"></a>
+# </ul>
+# </div>
+# <script src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f7088a56bb93798"></script>
+# <!-- End of social buttons -->
+# """
 SOCIAL_BUTTONS_CODE = ""
 
 # Show link to source for the posts?
@@ -1172,7 +1340,7 @@ USE_BUNDLES = False
 # HYPHENATE = False
 
 # The <hN> tags in HTML generated by certain compilers (reST/Markdown)
-# will be demoted by that much (1 -> h1 will become h2 and so on)
+# will be demoted by that much (1 → h1 will become h2 and so on)
 # This was a hidden feature of the Markdown and reST compilers in the
 # past.  Useful especially if your post titles are in <h1> tags too, for
 # example.
@@ -1185,7 +1353,7 @@ USE_BUNDLES = False
 # this option to True will prevent it.
 # NO_DOCUTILS_TITLE_TRANSFORM = False
 
-# If you don't like slugified file names ([a-z0-9] and a literal dash),
+# If you don’t like slugified file names ([a-z0-9] and a literal dash),
 # and would prefer to use all the characters your file system allows.
 # USE WITH CARE!  This is also not guaranteed to be perfect, and may
 # sometimes crash Nikola, your web server, or eat your cat.
