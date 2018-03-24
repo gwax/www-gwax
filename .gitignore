@@ -10,6 +10,7 @@ certbot.log
 
 # Nikola caching
 .doit.db
+.doit.db.db
 cache/
 
 # Byte-compiled / optimized / DLL files
