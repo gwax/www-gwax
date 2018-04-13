@@ -2,13 +2,19 @@
 <%namespace name="base" file="base_helper.tmpl" import="*"/>
 
 <%def name="html_header()">
-    <header>
+    <header id="header">
         <div class="row">
             <div class="six columns">
                 ${html_site_title()}
             </div>
             ${html_translation_header()}
-            ${search_form_header()}
+            %if search_form:
+                <div class="three columns u-pull-right">
+                    <div class="searchform" role="search">
+                        ${search_form}
+                    </div>
+                </div>
+            %endif
         </div>
     </header>
     ${html_navigation_links()}
@@ -39,7 +45,7 @@
                 <div id="popover${i}" class="popover">
                 <ul class="popover-list">
                 %for suburl, text in url:
-                    %if rel_link(permalink, suburl) == "#":
+                    %if rel_link(permalink, url_replacer('/', suburl)) == "#":
                         <li class="popover-item active">
                             <a class="popover-link" href="${permalink}">${text}</a>
                         </li>
@@ -53,7 +59,7 @@
                 </div>
             </li>
         %else:
-            %if rel_link(permalink, url) == "#":
+            %if rel_link(permalink, url_replacer('/', url)) == "#":
                 <li class="navbar-item active">
                     <a class="navbar-link" href="${permalink}">${text}</a>
                 </li>
@@ -78,17 +84,17 @@
         %if isinstance(url, tuple):
             <option value="#" disabled>${text}</option>
             %for suburl, text in url:
-                %if rel_link(permalink, suburl) == "#":
+                %if rel_link(permalink, url_replacer('/', suburl)) == "#":
                     <option value="${permalink}" disabled>- ${text}</option>
                 %else:
-                    <option value="${suburl}">- ${text}</option>
+                    <option value="${url_replacer('/', suburl)}">- ${text}</option>
                 %endif
             %endfor
         %else:
-            %if rel_link(permalink, url) == "#":
+            %if rel_link(permalink, url_replacer('/', url)) == "#":
                 <option value="${permalink}" disabled>${text}</option>
             %else:
-                <option value="${url}">${text}</option>
+                <option value="${url_replacer('/', url)}">${text}</option>
             %endif
         %endif
     %endfor
@@ -102,16 +108,6 @@
         <div class="three columns u-pull-right">
             <h2>${messages("Languages:")}</h2>
             ${base.html_translations()}
-        </div>
-    %endif
-</%def>
-
-<%def name="search_form_header()">
-    %if search_form:
-        <div class="three columns u-pull-right">
-            <div class="searchform" role="search">
-                ${search_form}
-            </div>
         </div>
     %endif
 </%def>

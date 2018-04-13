@@ -1,21 +1,22 @@
 ## -*- coding: utf-8 -*-
+<%namespace name="feeds_translations" file="feeds_translations_helper.tmpl" import="*"/>
 
 <%def name="html_headstart()">
 <!DOCTYPE html>
 <html \
 % if use_open_graph or (twitter_card and twitter_card['use_twitter_cards']) or (comment_system == 'facebook'):
     prefix='\
-        %if use_open_graph or (twitter_card and twitter_card['use_twitter_cards']):
+        % if use_open_graph or (twitter_card and twitter_card['use_twitter_cards']):
             og: http://ogp.me/ns# article: http://ogp.me/ns/article# \
         %endif
         %if comment_system == 'facebook':
-            fb: http://ogp.me/ns/fb#
+            fb: http://ogp.me/ns/fb# \
         %endif
     ' \
     %if use_open_graph or (twitter_card and twitter_card['use_twitter_cards']):
         vocab="http://ogp.me/ns" \
     %endif
-%endif
+% endif
 % if is_rtl:
     dir="rtl" \
 % endif
@@ -37,8 +38,11 @@ lang="${lang}">
     %endif
 
     ${html_stylesheets()}
-    <meta content="${theme_color}" name="theme-color">
-    ${html_feedlinks()}
+    <meta name="theme-color" content="${theme_color}">
+    % if meta_generator_tag:
+        <meta name="generator" content="Nikola (getnikola.com)">
+    % endif
+    ${feeds_translations.head()}
     <link rel="canonical" href="${abs_link(permalink)}">
 
     %if favicons:
@@ -58,61 +62,77 @@ lang="${lang}">
         <link rel="next" href="${nextlink}" type="text/html">
     %endif
 
-    ${mathjax_config}
     %if use_cdn:
-    <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script><![endif]-->
+        <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script><![endif]-->
     %else:
-    <!--[if lt IE 9]><script src="/assets/js/html5shiv-printshiv.min.js"></script><![endif]-->
+        <!--[if lt IE 9]><script src="${url_replacer(permalink, '/assets/js/html5shiv-printshiv.min.js', lang, url_type)}"></script><![endif]-->
     %endif
+
     ${extra_head_data}
 </%def>
 
-
 <%def name="late_load_js()">
-    %if use_bundles:
-        %if use_cdn:
+    % if use_bundles:
+        % if use_cdn:
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.9.1/baguetteBox.min.js" integrity="sha256-SoEATAB7PgNWyyK100I7yQXYm5V08k5SFupDP0h72MY=" crossorigin="anonymous"></script>
             <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+            % if date_fanciness != 0:
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.1/moment-with-locales.min.js"></script>
+            % endif
             <script src="/assets/js/all.js"></script>
-        %else:
+        % else:
             <script src="/assets/js/all-nocdn.js"></script>
-        %endif
-    %else:
-        %if use_cdn:
+        % endif
+    % else:
+        % if use_cdn:
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.9.1/baguetteBox.min.js" integrity="sha256-SoEATAB7PgNWyyK100I7yQXYm5V08k5SFupDP0h72MY=" crossorigin="anonymous"></script>
             <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
-        %else:
+            % if date_fanciness != 0:
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.1/moment-with-locales.min.js"></script>
+            % endif
+        % else:
+            <script src="/assets/js/baguetteBox.min.js"></script>
             <script src="/assets/js/jquery.min.js"></script>
-        %endif
+            % if date_fanciness != 0:
+                <script src="/assets/js/moment-with-locales.min.js"></script>
+            % endif
+        % endif
+        % if date_fanciness != 0:
+            <script src="/assets/js/fancydates.js"></script>
+        % endif
         <script src="/assets/js/menu-popover.js"></script>
         <script src="/assets/js/menu-dropdown.js"></script>
         <script src="/assets/js/theme.js"></script>
-    %endif
+    % endif
     ${social_buttons_code}
 </%def>
 
-
 <%def name="html_stylesheets()">
-    %if use_bundles:
-        %if use_cdn:
+    % if use_bundles:
+        % if use_cdn:
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.9.1/baguetteBox.min.css" integrity="sha256-GrjD69ygFQ+lWqlAOC6LzoNUE4jKrvgkQJrtIukHAi4=" crossorigin="anonymous" />
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.min.css">
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
             <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
             <link href="/assets/css/all.css" rel="stylesheet" type="text/css">
-        %else:
+        % else:
             <link href="/assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
         %endif
-    %else:
-        %if use_cdn:
+    % else:
+        % if use_cdn:
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.9.1/baguetteBox.min.css" integrity="sha256-GrjD69ygFQ+lWqlAOC6LzoNUE4jKrvgkQJrtIukHAi4=" crossorigin="anonymous" />
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.min.css">
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
             <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-        %else:
+        % else:
+            <link href="/assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
             <link rel="stylesheet" href="/assets/css/normalize.css" type="text/css">
             <link rel="stylesheet" href="/assets/css/skeleton.css" type="text/css">
             <link rel="stylesheet" href="/assets/css/font-awesome.min.css" type="text/css">
-        %endif
+        % endif
         <link href="/assets/css/menu-popover.css" rel="stylesheet" type="text/css">
         <link href="/assets/css/menu-dropdown.css" rel="stylesheet" type="text/css">
-        <link href="/assets/css/rst.css" rel="stylesheet" type="text/css">
+        <link href="/assets/css/html4css1.css" rel="stylesheet" type="text/css">
         <link href="/assets/css/code.css" rel="stylesheet" type="text/css">
         <link href="/assets/css/theme.css" rel="stylesheet" type="text/css">
         %if has_custom_css:
@@ -121,31 +141,12 @@ lang="${lang}">
     %endif
     % if needs_ipython_css:
         <link href="/assets/css/ipython.min.css" rel="stylesheet" type="text/css">
-        <link href="/assets/css/nikola_ipython.css" rel="stylesheet" type="text/css">
     % endif
 </%def>
 
+### This function is deprecated; use feed_helper directly.
 <%def name="html_feedlinks()">
-    %if rss_link:
-        ${rss_link}
-    %elif generate_rss:
-        %if len(translations) > 1:
-            %for language in sorted(translations):
-                <link rel="alternate" type="application/rss+xml" title="RSS (${language})" href="${_link('rss', None, language)}">
-            %endfor
-        %else:
-            <link rel="alternate" type="application/rss+xml" title="RSS" href="${_link('rss', None)}">
-        %endif
-    %endif
-    %if generate_atom:
-        %if len(translations) > 1:
-            %for language in sorted(translations):
-                <link rel="alternate" type="application/atom+xml" title="Atom (${language})" href="${_link('index_atom', None, language)}">
-            %endfor
-        %else:
-            <link rel="alternate" type="application/atom+xml" title="Atom" href="${_link('index_atom', None)}">
-        %endif
-    %endif
+    ${feeds_translations.head()}
 </%def>
 
 <%def name="html_translations()">

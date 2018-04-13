@@ -2,8 +2,9 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
     text-decoration: none;
 }
 
-.title {
+h1.title {
     margin: 0;
+    text-align: left;
 }
 
 .searchform {
@@ -24,22 +25,23 @@ a img.thumbnail {
     border: 3px outset #1E9EBB;
 }
 
-div.pager {
+.postpromonav {
     border-top: 3px double grey;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
 
-div.pager .button {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-}
-
-#page-footer {
+#footer {
     padding-top: 0.25rem;
     border-top: 3px double grey;
 }
 
-#page-footer p {
+#footer p {
     margin: 0.5rem 0 0.5rem 0;
+}
+
+div.tags {
+    text-align: center;
 }
 
 .taglist li {
@@ -131,15 +133,13 @@ table.codetable {
 }
 
 /* time entries */
-time {
+.updated, time.updated {
+    color: red;
+}
+
+.dateline {
     font-size: 75%;
     font-style: italic;
-}
-time:before {
-    content: "(";
-}
-time:after {
-    content: ")";
 }
 
 /* metadata headers */

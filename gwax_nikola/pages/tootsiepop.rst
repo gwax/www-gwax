@@ -1,7 +1,9 @@
-.. title: Tootsie Roll Pop: How many licks?
-.. slug: tootsiepop
-.. tags: mathjax
-.. type: text
+Tootsie Roll Pop: How many licks?
+=================================
+
+:slug: tootsiepop
+:tags: mathjax
+:type: text
 
 | Principal Investigator: George Waksman
 | Copyright ©2004-2009 George Waksman
@@ -9,7 +11,7 @@
 
 
 Abstract
-========
+--------
 
 Since the invention of the Tootsie Roll Pop, many men (and women and owls)
 have asked the question, "How many licks does it take to get to the center of
@@ -20,7 +22,7 @@ preliminary results have been obtained, towards solving the problem.
 
 
 Purpose
-=======
+-------
 
 The purpose of the research that is being conducted is to systematically
 determine how many licks it takes to get to the center of a Tootsie Roll
@@ -28,21 +30,21 @@ Pop.
 
 
 Method
-======
+------
 
 Materials
----------
+~~~~~~~~~
 
 * 1 Tootsie Roll Pop
 * 1 Person
 
 Setup
------
+~~~~~
 
 #. Unwrap the Tootsie Roll Pop
 
 Procedure
----------
+~~~~~~~~~
 
 #. Lick [#lick]_ side [#side]_ of the Tootsie Roll Pop
 #. Rotate to other side of Tootsie Roll Pop
@@ -66,7 +68,7 @@ Procedure
 
 
 Data
-====
+----
 
 +---------+----------------+------------+----------+------------+----------------+
 | Trial # | Contributor    | Trial Date | Color    | # Of Licks | Trial Duration |
@@ -118,31 +120,31 @@ Data
 
 
 Calculations
-============
+------------
 
 Minimum Licks
--------------
+~~~~~~~~~~~~~
 
 Since the obtained data represents the licking of both sides, the minimum
 number of licks for a given Tootsie Roll Pop is half (round up) the number
 of licks obtained in the trial
 
 Mean
-----
+~~~~
 
 | :math:`x_0 = \frac{1}{N} \sum_{i = 1}^N x_i`
 | double sided: :math:`x_0 = 508`
 | single sided: :math:`x_0 = 254`
 
 Standard Deviation
-------------------
+~~~~~~~~~~~~~~~~~~
 
 | :math:`\sigma = \sqrt{\frac{1}{N} \sum_{i = 1}^N (x_i - x_0)^2}`
 | double sided: :math:`\sigma = 164`
 | single sided: :math:`\sigma = 82`
 
 Tabulated
----------
+~~~~~~~~~
 
 +-----------+-------------+---------------+
 | Trial #   | Total Licks | Minimum Licks |
@@ -198,7 +200,7 @@ Tabulated
 
 
 Conclusions
-===========
+-----------
 
 The data suggests that it takes approximately 508 licks to reach the center
 of a Tootsie Roll Pop when alternating the licking side. Since the procedure
@@ -214,7 +216,7 @@ sided licking and 82 for single side licking.
 
 
 Error Sources
-=============
+-------------
 
 The small number of trials makes for a very large standard deviation. The
 standard deviation is so large, in fact, that it is not reasonable to assume
@@ -222,7 +224,7 @@ the conclusions are accurate.
 
 
 Further Research
-================
+----------------
 
 More trials must be conducted to obtain more data points.
 
@@ -233,7 +235,7 @@ experimentation.
 
 
 Outside Data Contributors
-=========================
+-------------------------
 
 Outside data contributions are accepted and greatly appreciated as long as
 the outlined procedure is strictly adhered to. Contributions may be made by
@@ -244,13 +246,13 @@ data.
 
 
 References
-==========
+----------
 
 * `Tootsie Gallery: How Many Licks Does It Take? <http://www.tootsie.com/howmanylick-experiments>`_
 
 
 Licensing
-=========
+---------
 
 |license|
 

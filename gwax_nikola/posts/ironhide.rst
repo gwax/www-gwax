@@ -1,11 +1,11 @@
-.. title: Ironhide
-.. slug: ironhide
-.. date: 2010-10-28 17:02:00-07:00
-.. tags: cocktails, recipes
-.. category: recipes
-.. link:
-.. description:
-.. type: text
+Ironhide
+========
+
+:slug: ironhide
+:date: 2010-10-28 17:02:00-07:00
+:guid: 1e3f5aeb-dc99-424d-9525-fab841dfc94f
+:tags: cocktails, recipes
+:category: recipes
 
 Some number of weeks ago, having discovered Maraschino liqueur, I concocted a
 variation on my beloved Manhattan. I have been meaning to write up the recipe

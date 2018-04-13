@@ -1,11 +1,11 @@
-.. title: Internet Time Now script
-.. slug: internet-time-now-script
-.. date: 2016-02-05 19:40:05+00:00
-.. tags: time, code snippets
-.. category: rumblings
-.. link:
-.. description:
-.. type: text
+Internet Time Now script
+========================
+
+:slug: internet-time-now-script
+:date: 2016-02-05 19:40:05+00:00
+:guid: b17776c2-7bc3-44e0-9c1b-1cd6d073e613
+:tags: time, code snippets
+:category: rumblings
 
 On account of being mentioned by `Reply All <https://gimletmedia.com/show/reply-all/>`__,
 I've been listening to back episodes of

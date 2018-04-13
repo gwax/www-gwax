@@ -1,13 +1,15 @@
-.. title: Projects
-.. slug: projects
-.. type: text
+Projects
+========
+
+:slug: projects
+:type: text
 
 Personal projects that I consider noteworthy, in some manner or other, are
 described below:
 
 
 gwax.(com\|net\|org)
-====================
+--------------------
 
 * Source: |gwax_com_github|
 
@@ -25,7 +27,7 @@ likely to show up in `Blog > Categories > meta <link://category/meta>`__.
 
 
 mtg-ssm
-=======
+-------
 
 * Source: |mtg_ssm_github|
 * Package: |mtg_ssm_pypi|
@@ -43,7 +45,7 @@ mtg-ssm
     </a>
 
 Magic: the Gathering Spreadsheet Manager
-----------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Magic: the Gathering Spreadsheet Manager (mtg-ssm) for short is a command line
 tool, written in `Python <https://www.python.org>`_ (3), that generates Excel
@@ -63,7 +65,7 @@ collection.
 
 
 GsMtgJson
-=========
+---------
 
 * Source: |gsmtgjson_github|
 
@@ -79,7 +81,7 @@ essentially dead at this point, having been supplanted by `mtg-ssm`_.
 
 
 GwTest
-======
+------
 
 * Source: |gwtest_github|
 
@@ -99,7 +101,7 @@ GwTest is a unit testing framework in the spirit of PyUnit, JUnit, and SUnit.
 
 
 Novel Potentials for the Simulation of Polyethylene and other Polymeric Systems
-===============================================================================
+-------------------------------------------------------------------------------
 
 * Page: `Novel Potentials for the Simulation of Polyethylene and other Polymeric Systems <link://slug/thesis>`__
 
@@ -109,7 +111,7 @@ chains. I was quite proud of the software that I built and work that I did.
 
 
 How many licks?
-===============
+---------------
 
 * Draft: `How many licks? <link://slug/tootsiepop>`__
 

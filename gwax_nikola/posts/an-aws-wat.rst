@@ -1,11 +1,11 @@
-.. title: An AWS wat?!
-.. slug: an-aws-wat
-.. date: 2016-04-05 23:59:01+00:00
-.. tags: code snippets, wat
-.. category: rumblings
-.. link: 
-.. description: 
-.. type: text
+An AWS wat?!
+============
+
+:slug: an-aws-wat
+:date: 2016-04-05 23:59:01+00:00
+:guid: 1bcc1fdf-8a65-4d17-8166-94ff97c136f7
+:tags: code snippets, wat
+:category: rumblings
 
 tl;dr different AWS regions have different APIs.
 

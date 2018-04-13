@@ -1,11 +1,11 @@
-.. title: Bash history synchronization
-.. slug: bash-history-synchronization
-.. date: 2016-09-06 08:05:13+00:00
-.. tags: code snippets, bash
-.. category: rumblings
-.. link:
-.. description:
-.. type: text
+Bash history synchronization
+============================
+
+:slug: bash-history-synchronization
+:date: 2016-09-06 08:05:13+00:00
+:guid: 42d5ffed-0b3a-49c9-b234-f55b711ea91d
+:tags: code snippets, bash
+:category: rumblings
 
 Bash is my go to shell. I've tried fish; I've heard about zsh; but Bash is my
 go to.

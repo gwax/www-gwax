@@ -1,11 +1,12 @@
-.. title: Fixing Nikola Footnote Locations
-.. slug: fixing-nikola-footnote-locations
-.. date: 2016-01-23 23:44:17+00:00
-.. tags: nikola, meta, code snippets
-.. category: meta
-.. link:
-.. description:
-.. type: text
+Fixing Nikola Footnote Locations
+================================
+
+:slug: fixing-nikola-footnote-locations
+:date: 2016-01-23 23:44:17+00:00
+:guid: f167543f-3c92-4155-8d48-578bd865be0f
+:updated: 2018-04-16T06:06:57.494348+00:00
+:tags: nikola, meta, code snippets
+:category: meta
 
 Personally, I prefer to intersperse my footnote declarations with the text that is being footnoted when writing my. For example:[#]_
 
@@ -26,8 +27,8 @@ Wherever they are declared, I prefer to have all of my footnotes appear at the e
     $(document).ready(function() {
         $('.footnote').each(function(i, el) {
             $(el).appendTo(
-                $(el).closest('article'));
+                $(el).closest('.entry-content,.entry-summary'));
         });
     });
 
-Simply wrap in a <script> tag and include in the BODY_END section of conf.py
+Simply wrap in a <script> tag and include in the BODY_END section of conf.py or add it to your theme.

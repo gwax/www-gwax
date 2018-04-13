@@ -1,11 +1,11 @@
-.. title: Let's Encrypt on App Engine
-.. slug: lets-encrypt-on-app-engine
-.. date: 2016-03-13 07:25:01+00:00
-.. tags: meta, code snippets
-.. category: meta
-.. link:
-.. description:
-.. type: text
+Let's Encrypt on App Engine
+===========================
+
+:slug: lets-encrypt-on-app-engine
+:date: 2016-03-13 07:25:01+00:00
+:guid: 9e2aff89-98fd-413b-9d42-32c6a044fcd4
+:tags: meta, code snippets
+:category: meta
 
 `Let's Encrypt <https://letsencrypt.org/>`_ is a fantastically convenient way
 to get SSL certificates for your website without paying a bunch of money or
@@ -19,7 +19,7 @@ be pretty straightforward.
 
 
 Prepare Your App
-================
+----------------
 
 We need to modify our app.yaml file and set up a static route for the
 let's encrypt challenge/response data. Add the following to the beginning of
@@ -36,7 +36,7 @@ Also create a "letsencrypt" folder in your app directory.
 
 
 Fire up Let's Encrypt
-=====================
+---------------------
 
 Starting from the instructions on the `Let's Encrypt GitHub repo <https://github.com/letsencrypt/letsencrypt>`__,
 let's retrieve and fire up letsencrypt. Outside your app folder, in a separate
@@ -79,8 +79,8 @@ In this case, {ABC} is the challenge and {ABC}.{DEF} is the response.
 Don't press enter yet.
 
 
-Prepare the challenge/response:
-===============================
+Prepare the challenge/response
+------------------------------
 
 Switch to the terminal in your app directory and run a modified version of
 the printf command letsencrypt suggests:
@@ -97,7 +97,7 @@ Now, re-upload your app to app engine:
 
 
 Finish building the certificate
-===============================
+-------------------------------
 
 Now go back and press enter in letsencrypt-auto.
 
@@ -119,7 +119,7 @@ Hopefully you should see a message to the effect of:
 
 
 Upload your certificates
-========================
+------------------------
 
 Fire up the `cloud console <https://console.cloud.google.com/>`__. Go to
 App Engine > Settings > SSL Certificates and click Upload a new

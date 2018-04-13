@@ -1,11 +1,11 @@
-.. title: Grenadine
-.. slug: grenadine
-.. date: 2017-11-06 05:30:20+00:00
-.. tags: cocktails, recipes, syrups
-.. category: recipes
-.. link:
-.. description:
-.. type: text
+Grenadine
+=========
+
+:slug: grenadine
+:date: 2017-11-06 05:30:20+00:00
+:guid: 571759c9-928c-4cbd-92f1-268446c5d108
+:tags: cocktails, recipes, syrups
+:category: recipes
 
 In my ongoing quest to make delicious alcoholic beverages, I have increasingly
 found myself digging into my ingredients.  Syrups, as a class of ingredient,
@@ -16,7 +16,7 @@ made with real pomegranate and without high fructose corn syrup or food
 coloring.  So, I've started to make my own:
 
 Grenadine
-=========
+---------
 
 A pomegranate syrup that adds a sweet tartness to drinks and a distinctive
 red color.  Noteable in small quantities in a great many drinks and also as
@@ -24,7 +24,7 @@ the second ingredient in a Shirley Temple, a drink the actress was apparently
 never fond of.
 
 Ingredients
------------
+~~~~~~~~~~~
 
 *   1 cup fresh Pomegranate Juice (~2 large pomegranates)
 *   1 oz Pomegranate Molasses
@@ -36,7 +36,7 @@ Ingredients
 .. TEASER_END
 
 Procedure
----------
+~~~~~~~~~
 
 #.  Juice your pomegranates and run the juice through a strainer to remove
     the seeds and larger pulp.  I find an electric citrus reamer works quite
@@ -56,7 +56,7 @@ Procedure
 
 
 Notes
------
+~~~~~
 
 *   Not all pomegranate molasses is created equal.  It took me a few tries
     before I found a brand that I like.  Most recently, I'm using Carlo brand
@@ -77,7 +77,7 @@ Notes
 drink ...
 
 Jack Rose
-=========
+---------
 
 I feel the Jack Rose is a perfect drink to show off grenadine (it's also
 perfect to show off an apple brandy).  The grenadine and the Applejack
@@ -87,7 +87,7 @@ finding the drink overly discordant.
 
 
 Ingredients
------------
+~~~~~~~~~~~
 
 *   3/4 oz Grenadine
 *   3/4 oz Lime Juice
@@ -95,7 +95,7 @@ Ingredients
 
 
 Procedure
----------
+~~~~~~~~~
 
 #.  Shake ingredients with ice.
 #.  Serve in a single rocks glass.
@@ -103,7 +103,7 @@ Procedure
 
 
 Notes
------
+~~~~~
 
 *   Following David Wondrich's lead from `Imbibe`_, I've gone with lime juice
     over lemon juice.  I think it makes for a more balanced, well-rounded

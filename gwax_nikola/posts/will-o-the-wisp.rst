@@ -1,11 +1,11 @@
-.. title: Will O' The Wisp
-.. slug: will-o-the-wisp
-.. date: 2011-01-16 20:04:00-08:00
-.. tags: cocktails, recipes
-.. category: recipes
-.. link:
-.. description:
-.. type: text
+Will O' The Wisp
+================
+
+:slug: will-o-the-wisp
+:date: 2011-01-16 20:04:00-08:00
+:guid: 13a76bf5-462d-433a-b57b-52a227db960f
+:tags: cocktails, recipes
+:category: recipes
 
 Continuing `my earlier work <link://slug/ironhide>`__ in the realm of mixology,
 I would like to present my second cocktail invention. The invention of this

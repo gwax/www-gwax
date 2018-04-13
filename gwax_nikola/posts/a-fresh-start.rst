@@ -1,11 +1,11 @@
-.. title: A Fresh Start
-.. slug: a-fresh-start
-.. date: 2016-01-21 22:38:32+00:00
-.. tags: nikola, meta
-.. category: meta
-.. link:
-.. description:
-.. type: text
+A Fresh Start
+=============
+
+:slug: a-fresh-start
+:date: 2016-01-21 22:38:32+00:00
+:guid: 447393f0-9cbc-448b-8072-2122efc2cc89
+:tags: nikola, meta
+:category: meta
 
 It has been a very long time since I've done any serious work on my website. Now, that changes.
 

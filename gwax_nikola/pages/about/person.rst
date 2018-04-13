@@ -1,6 +1,8 @@
-.. title: About George Leslie-Waksman
-.. slug: about-person
-.. type: text
+About George Leslie-Waksman
+===========================
+
+:slug: about-person
+:type: text
 
 
 .. thumbnail:: /images/gwax.jpg
@@ -8,7 +10,7 @@
     :class: u-pull-right thumbnail
 
 Basic Info
-==========
+----------
 
 * Birthday: April 3\ :sup:`rd`
 * Hometown: Concord, MA, USA
@@ -17,7 +19,7 @@ Basic Info
 * Favorite Color: Blue
 
 Who am I?
-=========
+---------
 
 Just to get out of the gate, let's set aside the `epistemological <https://en.wikipedia.org/wiki/Epistemology>`_ question and work from an assumption grounded in some form of `realism <https://en.wikipedia.org/wiki/Philosophical_realism>`_\ [#]_.
 
@@ -48,12 +50,12 @@ I am an avid player of `Magic: the Gathering <http://magic.wizards.com/>`_ and m
 I also fancy myself an amateur mixologist of middling skill.
 
 Contact
-=======
+-------
 
 The best way to contact me is by email: waksman (at) this domain
 
 Elsewhere Online
-================
+----------------
 
 I am active, to varying degrees\ [#]_, on a number of online services:
 

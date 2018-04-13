@@ -1,11 +1,11 @@
-.. title: Slowcooker Yogurt
-.. slug: slowcooker-yogurt
-.. date: 2016-09-06 06:30:48+00:00
-.. tags: recipes
-.. category: recipes
-.. link:
-.. description:
-.. type: text
+Slowcooker Yogurt
+=================
+
+:slug: slowcooker-yogurt
+:date: 2016-09-06 06:30:48+00:00
+:guid: a4f4e3a5-a031-4490-a775-f821927f7804
+:tags: recipes
+:category: recipes
 
 .. thumbnail:: /images/slowcooker-yogurt/yield.jpg
     :alt: Some jars of homemade yogurt
@@ -41,7 +41,7 @@ Slowcooker Greek Yogurt recipe
 * ½ to 1 cup starter plain (not-greek) yogurt
 
 Instructions
-============
+~~~~~~~~~~~~
 
 .. thumbnail:: /images/slowcooker-yogurt/straining.jpg
     :alt: Straining yogurt
