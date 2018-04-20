@@ -3,6 +3,7 @@ Bash history synchronization
 
 :slug: bash-history-synchronization
 :date: 2016-09-06 08:05:13+00:00
+:updated: 2018-04-20T07:55:00.339805+00:00
 :guid: 42d5ffed-0b3a-49c9-b234-f55b711ea91d
 :tags: code snippets, bash
 :category: rumblings
@@ -22,6 +23,28 @@ few specific behaviors that I want in my history:
 
 Turns out all of this is a little tricky with bash, but I've mostly managed it:
 
+.. TEASER_END
+
+Updated: 2018-04-20
+-------------------
+
+I've been finding cases where my original solution lost commands, which is
+very not good in my book. As such, I've reverted back to a simpler, safer,
+synchronization scheme that doesn't always get the order right but seems to
+lose stuff less often:
+
+.. code:: bash
+
+    export HISTCONTROL=ignoredups:erasedups
+    export HISTSIZE=100000
+    export HISTFILESIZE=100000
+    shopt -s extglob
+    shopt -s histappend
+    export PROMPT_COMMAND="history -n; history -w; history -c; history -r; $PROMPT_COMMAND"
+
+Original
+--------
+
 .. code:: bash
 
     export HISTSIZE="INFINITE"
@@ -30,8 +53,6 @@ Turns out all of this is a little tricky with bash, but I've mostly managed it:
     shopt -s cmdhist
     alias histsync='history -a && history -c && history -r && history | sort -k2 -k1nr | uniq -f1 | sort -n | tr -s " " | cut -d " " -f3- > ~/.tmp$$ && history -c && history -r ~/.tmp$$ && history -w && rm ~/.tmp$$'
     export PROMPT_COMMAND="${PROMPT_COMMAND:+$PROMPT_COMMAND$'\n'}histsync"
-
-.. TEASER_END
 
 Here's how it (mostly) works:
 
