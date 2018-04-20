@@ -56,14 +56,6 @@ BASE = [
 ]
 
 
-LE_WELL_KNOWN = collections.OrderedDict([
-    ('url', r'/\.well-known/(.+)'),
-    ('static_files', r'well-known/\1'),
-    ('upload', r'well-known/(.+)'),
-    ('mime_type', 'text/plain')
-])
-
-
 def asset_handler(extension, mime):
     url = r'/(.+\.{ext}$)'.format(ext=extension)
     handler = collections.OrderedDict([
@@ -121,7 +113,6 @@ def main():
     app_dict = collections.OrderedDict([
         *BASE,
         ('handlers', [
-            LE_WELL_KNOWN,
             *(asset_handler(ext, mime) for ext, mime in EXTENSION_MIME),
             file_catch_all_handler(),
             *index_handlers()
