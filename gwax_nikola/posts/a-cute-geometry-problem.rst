@@ -4,8 +4,8 @@ A cute geometry problem
 :slug: a-cute-geometry-problem
 :date: 2010-03-11 11:57:00-08:00
 :guid: 99fe09cf-ccf2-407c-9f24-15a68b08960e
-:tags: mathjax
 :category: rumblings
+:has_math: yes
 
 I came across a cute geometry problem recently and I would like to pass it along.
 

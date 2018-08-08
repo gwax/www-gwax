@@ -2,8 +2,8 @@ Tootsie Roll Pop: How many licks?
 =================================
 
 :slug: tootsiepop
-:tags: mathjax
 :type: text
+:has_math: yes
 
 | Principal Investigator: George Waksman
 | Copyright ©2004-2009 George Waksman

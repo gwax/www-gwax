@@ -28,10 +28,12 @@ ${template_hooks['extra_head']()}
     <!-- end fancy dates -->
     % endif
     <%block name="extra_js"></%block>
-    <script>baguetteBox.run('a.reference', {
+    <script>
+    baguetteBox.run('a.reference', {
         captions: function(element) {
             return element.getElementsByTagName('img')[0].alt;
-    }});</script>
+    }});
+    </script>
     ${body_end}
     ${template_hooks['body_end']()}
 </body>

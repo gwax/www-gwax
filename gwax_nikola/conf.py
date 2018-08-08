@@ -225,7 +225,7 @@ FORCE_ISO8601 = True
 
 # Date format used to display post dates. (translatable)
 # (str used by datetime.datetime.strftime)
-DATE_FORMAT = '%Y-%m-%d %H:%M%z'
+DATE_FORMAT = 'YYYY-MM-dd HH:MMz'
 
 # Date format used to display post dates, if local dates are used. (translatable)
 # (str used by moment.js)
@@ -303,6 +303,7 @@ COMPILERS = {
 # "TOML": TOML wrapped in "+++"
 # "Pelican": Native markdown metadata or reST docinfo fields. Nikola style for other formats.
 METADATA_FORMAT = "Pelican"
+USE_REST_DOCINFO_METADATA = True
 
 # Use date-based path when creating posts?
 # Can be enabled on a per-post basis with `nikola new_post -d`.
@@ -1309,7 +1310,7 @@ HIDE_REST_DOCINFO = True
 
 # If you hate "Filenames with Capital Letters and Spaces.md", you should
 # set this to true.
-UNSLUGIFY_TITLES = True
+FILE_METADATA_UNSLUGIFY_TITLES = True
 
 # Additional metadata that is added to a post when creating a new_post
 # ADDITIONAL_METADATA = {}
