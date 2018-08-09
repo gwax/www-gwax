@@ -253,11 +253,11 @@ FORCE_ISO8601 = True
 # Date format used to display post dates. (translatable)
 # Used by babel.dates, CLDR style: http://cldr.unicode.org/translation/date-time
 # You can also use 'full', 'long', 'medium', or 'short'
-# DATE_FORMAT = 'YYYY-MM-dd HH:mm z'
+DATE_FORMAT = 'YYYY-MM-dd HH:mm z'
 
 # Date format used to display post dates, if local dates are used. (translatable)
 # Used by moment.js: https://momentjs.com/docs/#/displaying/format/
-# JS_DATE_FORMAT = 'YYYY-MM-DD h:mm a'
+JS_DATE_FORMAT = 'YYYY-MM-DD h:mm a'
 
 # Date fanciness.
 #
