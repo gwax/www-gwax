@@ -38,7 +38,27 @@
     <nav class="navbar">
     <div class="container">
     <ul class="navbar-list">
-    %for i, (url, text) in enumerate(navigation_links[lang]):
+    ${html_navbar_links_entries(navigation_links)}
+    ${html_navbar_links_entries(navigation_alt_links)}
+    ${template_hooks['menu']()}
+    ${template_hooks['menu_alt']()}
+    </ul>
+    </div>
+    </nav>
+
+    <nav class="navmenu">
+    <div class="container">
+    <select class="navbar-dropdown">
+    <option selected="selected" value disabled>Go to...</option>
+    ${html_navmenu_links_entries(navigation_links)}
+    ${html_navmenu_links_entries(navigation_alt_links)}
+    </select>
+    </div>
+    </nav>
+</%def>
+
+<%def name="html_navbar_links_entries(navigation_links_source)">
+    %for i, (url, text) in enumerate(navigation_links_source[lang]):
         %if isinstance(url, tuple):
             <li class="navbar-item">
                 <a class="navbar-link" href="#" data-popover="#popover${i}">${text}</a>
@@ -70,17 +90,10 @@
             %endif
         %endif
     %endfor
-    ${template_hooks['menu']()}
-    ${template_hooks['menu_alt']()}
-    </ul>
-    </div>
-    </nav>
+</%def>
 
-    <nav class="navmenu">
-    <div class="container">
-    <select class="navbar-dropdown">
-    <option selected="selected" value disabled>Go to...</option>
-    %for url, text in navigation_links[lang]:
+<%def name="html_navmenu_links_entries(navigation_links_source)">
+    %for url, text in navigation_links_source[lang]:
         %if isinstance(url, tuple):
             <option value="#" disabled>${text}</option>
             %for suburl, text in url:
@@ -98,9 +111,6 @@
             %endif
         %endif
     %endfor
-    </select>
-    </div>
-    </nav>
 </%def>
 
 <%def name="html_translation_header()">
