@@ -5,14 +5,14 @@ cache:
   - pip
 python: 3.6
 
-before_install:
-  - sudo add-apt-repository ppa:jonathonf/backports -y
-  - sudo apt-get update -q
-  - >
-      sudo apt-get install
-        jpegoptim
-        optipng
-        tidy-html5
+addons:
+  apt:
+    sources:
+      - sourceline: 'ppa:jonathonf/backports'
+    packages:
+      - jpegoptim
+      - optipng
+      - tidy-html5
 
 install:
   - pip install -r requirements.txt
