@@ -1,4 +1,5 @@
 aiohttp==3.3.2
+python-magic==0.4.15
 watchdog==0.8.3
 ws4py==0.5.1
 # We require >8.0.0b3; this should be updated when a release happens

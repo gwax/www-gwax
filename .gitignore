@@ -2,12 +2,6 @@
 static/
 app.yaml
 
-# Secrets
-secrets.py
-
-# letsencrypt
-certbot.log
-
 # Nikola caching
 .doit.db
 .doit.db.db
