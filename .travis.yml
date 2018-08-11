@@ -10,6 +10,11 @@ addons:
       - optipng
       - tidy
 
+before_install:
+  - jpegoptim --version
+  - optipng --version
+  - tidy --version
+
 install:
   - pip install -r requirements.txt
 
