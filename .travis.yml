@@ -12,7 +12,7 @@ addons:
     packages:
       - jpegoptim
       - optipng
-      - tidy-html5
+      - tidy
 
 install:
   - pip install -r requirements.txt
