@@ -35,7 +35,7 @@ deploy:
   provider: gae
   skip_cleanup: true
   keyfile: client-secret.json
-  project: ambient-empire-213021
+  project: www-gwax
   default: true
   on:
-    all_branches: true
+    branch: master
