@@ -1,0 +1,51 @@
+sudo: false
+language: python
+python: 3.6
+cache:
+  - apt
+  - pip
+
+addons:
+  apt:
+    sources:
+      - sourceline: ppa:jonathonf/backports
+    packages:
+      - jpegoptim
+      - optipng
+      - tidy
+
+before_install:
+  - openssl aes-256-cbc -K $encrypted_09d2171e7ce3_key -iv $encrypted_09d2171e7ce3_iv
+    -in client-secret.json.enc -out client-secret.json -d
+
+install:
+  - pip install -U pip
+  - pip install -r requirements.txt
+
+before_script:
+  - jpegoptim --version
+  - optipng --version
+  - tidy --version
+
+script:
+  - "./scripts/build_app_yaml.py > app.yaml"
+  - nikola build
+
+deploy:
+  - provider: gae
+    skip_cleanup: true
+    keyfile: client-secret.json
+    project: www-gwax
+    default: true
+    version: production
+    on:
+      branch: master
+  - provider: gae
+    skip_cleanup: true
+    keyfile: client-secret.json
+    project: www-gwax
+    default: false
+    no_promote: true
+    version: ci-test
+    on:
+      all_branches: true
