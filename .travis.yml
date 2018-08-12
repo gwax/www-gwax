@@ -37,6 +37,7 @@ deploy:
     keyfile: client-secret.json
     project: www-gwax
     default: true
+    version: production
     on:
       branch: master
   - provider: gae
