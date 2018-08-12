@@ -2,31 +2,26 @@ sudo: false
 language: python
 python: 3.6
 cache:
-  - apt
-  - pip
-
+- apt
+- pip
 addons:
   apt:
     sources:
-      - sourceline: ppa:jonathonf/backports
+    - sourceline: ppa:jonathonf/backports
     packages:
-      - jpegoptim
-      - optipng
-      - tidy
-
+    - jpegoptim
+    - optipng
+    - tidy
 before_install:
-  - openssl aes-256-cbc -K $encrypted_09d2171e7ce3_key -iv $encrypted_09d2171e7ce3_iv
-    -in client-secret.json.enc -out client-secret.json -d
-
+- openssl aes-256-cbc -K $encrypted_09d2171e7ce3_key -iv $encrypted_09d2171e7ce3_iv
+  -in client-secret.json.enc -out client-secret.json -d
 install:
-  - pip install -U pip
-  - pip install -r requirements.txt
-
+- pip install -U pip
+- pip install -r requirements.txt
 before_script:
-  - jpegoptim --version
-  - optipng --version
-  - tidy --version
-
+- jpegoptim --version
+- optipng --version
+- tidy --version
 script:
-  - "./scripts/build_app_yaml.py > app.yaml"
-  - nikola build
+- "./scripts/build_app_yaml.py > app.yaml"
+- nikola build
