@@ -32,10 +32,19 @@ script:
   - nikola build
 
 deploy:
-  provider: gae
-  skip_cleanup: true
-  keyfile: client-secret.json
-  project: www-gwax
-  default: true
-  on:
-    branch: master
+  - provider: gae
+    skip_cleanup: true
+    keyfile: client-secret.json
+    project: www-gwax
+    default: true
+    on:
+      branch: master
+  - provider: gae
+    skip_cleanup: true
+    keyfile: client-secret.json
+    project: www-gwax
+    default: false
+    no_promote: true
+    version: ci-test
+    on:
+      all_branches: true
