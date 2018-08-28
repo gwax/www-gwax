@@ -1113,6 +1113,7 @@ MARKDOWN_EXTENSIONS = [
 # Default is {} (no config at all)
 # MARKDOWN_EXTENSION_CONFIGS = {}
 
+
 # Extra options to pass to the pandoc command.
 # by default, it's empty, is a list of strings, for example
 # ['-F', 'pandoc-citeproc', '--bibliography=/Users/foo/references.bib']
