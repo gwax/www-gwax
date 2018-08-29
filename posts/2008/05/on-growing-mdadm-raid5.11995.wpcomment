@@ -1,0 +1,17 @@
+.. id: 11995
+.. author: gwax
+.. author_email: waksman@gwax.com
+.. author_url: http://blog.gwax.com
+.. date_utc: 2009-09-22 21:28:42
+.. compiler: rest
+
+Glad that I could help.
+
+FYI, if you forget the Linux RAID Autodetect partition type, any
+unmarked drives will not be added to your array on reboot. I missed the
+flag on one of the drives in my current RAID6 setup and every time that
+I rebooted, I had to manually re-add the missing drive and rebuild the
+array. HOWTOs are, indeed, somewhat sparse and I had rather a tough time
+tracking down the problem. My rebuilds are quick, RAID6 has extra
+redundancy, and Linux reboots are rare, though, so it took me a while to
+get fed up enough to actually fix the problem.

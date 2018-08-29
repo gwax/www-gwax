@@ -1,0 +1,32 @@
+.. id: 11808
+.. author: Eph
+.. author_email: hemmabio@msn.com
+.. date_utc: 2009-09-20 15:56:19
+.. compiler: rest
+
+Ah!
+
+I wish I had read this a couple of days ago. I just finished growing my
+RAID5 (2x1TB) with another drive. Have been impatient about the long
+process but finally, today, it finished the rebuild.
+
+Before I was going to resize the RAID I thought I'd do a fdisk -l and
+then I noticed that also I forgot to add the Linux Raid Autodetect flag
+on the partition :(
+
+I followed your guide here and hope I (my data) will be OK, I'm sure it
+will.
+
+I reinstalled the system the other day and really do appreciate the
+autodetect of RAIDs so I would't want it any other way. It's probably
+possible to set the RAID up also without the flag but since I'm no linux
+guru I have no idea how to do it - do you know?
+
+Too bad there are several RAID HOWTOs out there that neglect to mention
+that you should set the Linux Raid Autodetect flag. The GROW HOWTO I
+followed did not and I didn't really pay attention to the fact that it
+should be partitioned before hand, even though I knew I should and
+intended to but forgot in my impatience of getting the larger disk
+space.
+
+Anywho, thanks for your mini-guide :)

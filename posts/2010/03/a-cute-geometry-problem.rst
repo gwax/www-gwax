@@ -2,8 +2,9 @@ A cute geometry problem
 =======================
 
 :slug: a-cute-geometry-problem
-:date: 2010-03-11 11:57:00-08:00
-:guid: 99fe09cf-ccf2-407c-9f24-15a68b08960e
+:date: 2010-03-11 19:57:13+00:00
+:updated: 2010-05-06 23:26:10+00:00
+:tags: musings, science & technology
 :category: rumblings
 :has_math: yes
 

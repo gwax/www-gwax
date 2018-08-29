@@ -1,0 +1,11 @@
+.. id: 17673
+.. author: gwax
+.. author_email: waksman@gwax.com
+.. author_url: http://blog.gwax.com
+.. date_utc: 2011-03-01 16:47:10
+.. compiler: rest
+
+1) You're absolute right; there were two typos in the code and they have
+now been fixed
+
+2) The second version of the code should now be less than O(n^2).
