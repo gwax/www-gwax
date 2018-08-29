@@ -31,6 +31,12 @@ a img.thumbnail {
     padding-bottom: 1rem;
 }
 
+section.comments {
+    border-top: 3px double grey;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
 #footer {
     padding-top: 0.25rem;
     border-top: 3px double grey;
@@ -146,7 +152,7 @@ table.codetable {
 header .metadata {
     margin-top: -1.5rem;
     margin-left: 2.5rem;
-    margin-bottom: 2.5rem;
+    margin-bottom: 1rem;
 }
 
 .metadata p {
@@ -167,6 +173,25 @@ header .metadata {
 
 .metadata .sourceline:after {
     content: ")";
+}
+
+/* static comment entries */
+.comment-level {
+    margin-left: 1.5rem;
+}
+
+.comment {
+    margin-top: -1.5rem;
+}
+
+.comment-header {
+    display: inline-block;
+    border-bottom: 1px solid grey;
+}
+
+.comment-content {
+    padding-left: 1.5rem;
+    border-left: 1px solid grey;
 }
 
 /* reST list tweaks */

@@ -1,0 +1,19 @@
+.. id: 17620
+.. author: Sherv
+.. author_email: fatehi@berkeley.edu
+.. date_utc: 2010-03-19 22:36:48
+.. compiler: rest
+
+My geometric solution basically follows yours from Steps 2-6, but for very different reasons.
+
+Say you sum the areas associated with two quarter-circles originating from the same side of the square. (I chose the two quarter-circles that are convex with respect to the top side, though you don't have to.) You get an associated area of :math:`\frac{\pi}{2}`.
+
+In doing so, you have covered the target area twice, the bullet-shaped areas below it on either side twice, the “wide, squat” region directly below twice, and two more bullet-shaped and wide, squat areas each. The only area not covered is the wide, squart region directly above the target area. Tabulating:
+
+| TAs: 2
+| BSAs: 1 + 1 + 2 + 2 = 6
+| WSAs: 1 + 1 + 2 = 4
+
+The square contains 4 WSAs, 4 BSAs, and 1 TA. So we subtract off the square (for an area of :math:`\frac{\pi-2}{2}` and find that we have 2 BSAs and 1 TA left. All we have to do is determine the area of those bullety bits and subtract 'em off. Now follow your work up to step 6. Instead of subtracting off one WSA from the area highlighted in step 1, we subtract off both. The area of the bullety region is :math:`\frac {\pi - 12 + 6 \sqrt{3}}{12}`.
+
+Now we just subtract off the BSAs, and we can evaluate :math:`\frac{\pi-2}{2} - \frac{\pi-12+6\sqrt{3}}{6}` to get the exact same answer you did.

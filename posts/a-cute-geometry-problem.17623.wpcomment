@@ -1,0 +1,7 @@
+.. id: 17623
+.. author: Peter W.
+.. author_email: pwaksman@yahoo.com
+.. date_utc: 2010-04-19 19:41:36
+.. compiler: rest
+
+Kind of makes me wonder whether there is a general principle involved. Taking regular polygons with side length 1 and centering circles at the corners and asking about the various figures that can be drawn. EG an equilateral triangle, using circles of radius :math:`\frac{\sqrt{3}}{2}`. Or pentagons, using circles of radius 1; or etc. How come some of them are solvable and not others? I don't even know how to find the area of a pentagon.
