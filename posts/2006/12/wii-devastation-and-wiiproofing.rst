@@ -56,6 +56,5 @@ So, the morals of this post are: 1) make sure that you *always* use the
 wrist strap, and 2) replace your screen with Polycarbonate or put a
 sheet of Polycarbonate in front of your TV.
 
-.. |Wiimote takes out our TV| image:: http://blog.gwax.com/pics/Wiimote2TV.thumbnail.jpg
-   :class: alignright
-   :target: http://blog.gwax.com/pics/Wiimote2TV.jpg
+.. |Wiimote takes out our TV| thumbnail:: /images/posts/Wiimote2TV.jpg
+    :class: u-pull-right thumbnail

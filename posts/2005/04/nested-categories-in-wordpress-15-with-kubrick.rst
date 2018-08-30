@@ -15,7 +15,7 @@ categories in Wordpress 1.5:
 
 In wp-content/themes/{yourtheme}/sidebar.php change this:
 
-::
+.. code:: php
 
    <li><h2><?php _e('Categories'); ?></h2>
        <ul>
@@ -26,7 +26,7 @@ In wp-content/themes/{yourtheme}/sidebar.php change this:
 
 to this
 
-::
+.. code:: php
 
    <li><h2><?php _e('Categories'); ?></h2>
        <ul>

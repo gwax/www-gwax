@@ -20,7 +20,6 @@ fun costume to make and it got me more than a few comments and funny
 looks on the BART to and from work today. I think that I'll try for
 something even fancier next year.
 
-.. |gwax is Phineas Gage| image:: http://blog.gwax.com/pics/2007/11/phineasgwax.thumbnail.jpg
-   :class: alignright
-   :name: image591
-   :target: http://blog.gwax.com/pics/2007/11/phineasgwax.jpg
+.. |gwax is Phineas Gage| thumbnail:: /images/posts/2007/11/phineasgwax.jpg
+    :alt: gwax is Phineas Gage
+    :class: u-pull-right thumbnail

@@ -14,15 +14,8 @@ day I post. I've decided to set it to report over the past 351 days, for
 obvious reasons. The graph is displayed here and should also appear at
 the bottom of pages.
 
-.. raw:: html
+.. container::
 
-   <div>
-
-|Blog Post Times Graph|
-
-.. raw:: html
-
-   </div>
-
-.. |Blog Post Times Graph| image:: /wp-images/blogtimes.png
-   :class: centered
+    .. image:: /wp-images/blogtimes.png
+        :alt: Blog Post Times Graph
+        :class: centered

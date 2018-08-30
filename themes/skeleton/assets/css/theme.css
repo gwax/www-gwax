@@ -7,6 +7,13 @@ h1.title {
     text-align: left;
 }
 
+.entry-content:after {
+    /* ensure that all images are cleared before ending content */
+    content: "";
+    display: table;
+    clear: both;
+}
+
 .searchform {
     margin-top: 1rem;
 }

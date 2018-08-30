@@ -7,8 +7,8 @@ Merry Xmas 2k6
 :tags: waksman
 
 For those of you that don't
-`recall <http://blog.gwax.com/2004/12/25/merry-xmas-2k4/>`__ the
-`past <http://blog.gwax.com/2005/12/25/merry-xmas-2k5/>`__, I'm usually
+`recall <link://slug/merry-xmas-2k4>`__ the
+`past <link://slug/merry-xmas-2k5>`__, I'm usually
 not a big fan of Christmas. In fact, I would go so far as to say that it
 is usually a holiday that I do not like. It's really all misery that I
 bring upon myself by being overly puristic with regards to principles of

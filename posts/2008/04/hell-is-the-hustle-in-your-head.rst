@@ -7,7 +7,7 @@ Hell is The Hustle in your Head
 :tags: waksman, art & culture
 
 Once, long past, Hell was `Dinosaurs in my
-Head <http://blog.gwax.com/2004/07/20/hell-is-dinosaurs-in-your-head/>`__,
+Head <link://slug/hell-is-dinosaurs-in-your-head>`__,
 but now there is a far more insidious Hell in my head. The Hell from
 which I suffer is the popular `Van
 McCoy <http://en.wikipedia.org/wiki/Van_McCoy>`__ song known as `The

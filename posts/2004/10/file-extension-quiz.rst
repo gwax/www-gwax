@@ -8,25 +8,9 @@ File Extension Quiz
 
 Here's yet another stupid internet quiz, "Which File Extension Are You?"
 
-.. raw:: html
+.. figure:: http://www.bbspot.com/Images/News_Features/2004/10/file_extensions/exe.jpg
+    :alt: You are .exe When given proper orders, you execute them flawlessly. You're familiar to most, and useful to all.
 
-   <div class="multifigure">
+    You are .exe When given proper orders, you execute them flawlessly. You're familiar to most, and useful to all.
 
-.. raw:: html
-
-   <div class="figure">
-
-`|You are .exe When given proper orders, you execute them flawlessly.
-You're familiar to most, and useful to all.|
-Which File Extension are
-You? <http://bbspot.com/News/2004/10/extension_quiz.php>`__
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   </div>
-
-.. |You are .exe When given proper orders, you execute them flawlessly. You're familiar to most, and useful to all.| image:: http://www.bbspot.com/Images/News_Features/2004/10/file_extensions/exe.jpg
+    `Which File Extension are You? <http://bbspot.com/News/2004/10/extension_quiz.php>`__

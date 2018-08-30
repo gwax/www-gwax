@@ -20,9 +20,7 @@ anything really interesting, but I'm open to suggestions.
 
 Things sound so much better now; I'm so pleased.
 
-.. |Ford Factory Amp| image:: http://blog.gwax.com/pics/thumb-FordAmpb.jpg
-   :class: alignleft
-   :target: http://blog.gwax.com/pics/FordAmpb.jpg
-.. |Ford Factory Amp (open)| image:: http://blog.gwax.com/pics/thumb-FordAmpOpenb.jpg
-   :class: alignright
-   :target: http://blog.gwax.com/pics/FordAmpOpenb.jpg
+.. |Ford Factory Amp| thumbnail:: /images/posts/FordAmpb.jpg
+   :class: u-pull-left
+.. |Ford Factory Amp (open)| thumbnail:: /images/posts/FordAmpOpenb.jpg
+   :class: u-pull-right

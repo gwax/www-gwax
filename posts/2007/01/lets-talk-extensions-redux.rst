@@ -10,7 +10,7 @@ I'm still (surprise, surprise) using `Mozilla
 Firefox <http://www.mozilla.com/>`__ as my primary web browser and I
 continue to recommend it as the finest browser that I am aware of. A bit
 over a year ago, I suggested `a bunch of
-extensions <http://blog.gwax.com/2005/12/08/lets-talk-extensions/>`__
+extensions <link://slug/lets-talk-extensions>`__
 for use with Firefox; today I do the same. In the intervening time, many
 new versions of Firefox have come and gone and my needs in extensions
 have changed. Here's an updated list:

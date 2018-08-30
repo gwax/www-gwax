@@ -55,7 +55,6 @@ mentioned, and I would be doing you a disservice if I didn't bring him
 to your attention. Having done so, the disservice of not watching
 Bakshi's works is now yours to remedy.
 
-.. |Wizards poster| image:: http://blog.gwax.com/pics/2008/05/wizards_poster.thumbnail.jpg
-   :class: alignright
-   :name: image620
-   :target: http://blog.gwax.com/pics/2008/05/wizards_poster.jpg
+.. |Wizards poster| thumbnail:: /images/posts/2008/05/wizards_poster.jpg
+    :alt: Wizards poster
+    :class: u-pull-right thumbnail

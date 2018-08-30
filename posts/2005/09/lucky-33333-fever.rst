@@ -6,7 +6,7 @@ Lucky 33333 Fever
 :updated: 2005-10-13 20:19:40+00:00
 :tags: keen, vehicles
 
-|My truck\'s odometer hits 133333| Last Tuesday my truck's odometer read
+|My truck's odometer hits 133333| Last Tuesday my truck's odometer read
 33333 as it hit 133,333 miles (it has no hundred thousands digit) and I
 took a photo of it. Sure it probably wasn't safe taking a photo of my
 dash while driving, but I'm ok and with 3 being my faorite number, it
@@ -19,6 +19,6 @@ turn out at all.
 
 Also the post title is a Final Fantasy VII reference.
 
-.. |My truck\'s odometer hits 133333| image:: http://blog.gwax.com/pics/thumb-Truck133333mi_200509131632.jpg
-   :class: alignright
-   :target: http://blog.gwax.com/pics/Truck133333mi_200509131632.jpg
+.. |My truck's odometer hits 133333| thumbnail:: /images/posts/Truck133333mi_200509131632.jpg
+    :alt: My truck's odometer hits 133333
+    :class: u-pull-right thumbnail

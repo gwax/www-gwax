@@ -7,7 +7,7 @@ F***ing PHP Conventions
 :tags: computers
 
 As a follow-up to my
-`tirade <http://blog.gwax.com/archives/2004/05/20/fing-javascript-conventions/>`__
+`tirade <link://slug/fing-javascript-conventions>`__
 about brace ('{' and '}') conventions in Javascript, I would like to
 bring up that PHP uses the same conventions. Why can't they let me
 vertically line up my braces? This really irritates me a whole heck of a

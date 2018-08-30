@@ -12,6 +12,6 @@ Fortune Cookie: 2006-03-01
 
 Commentary: Fuck you fortune cookie! No, seriously, some of these
 negative
-`fortune <http://blog.gwax.com/2006/02/25/fortune-cookie-2006-02-25/>`__
-`cookies <http://blog.gwax.com/2006/02/09/fortune-cookie-2006-02-08/>`__
+`fortune <link://slug/fortune-cookie-2006-02-25>`__
+`cookies <link://slug/fortune-cookie-2006-02-08>`__
 are really starting to irk me and get under my skin. Guh!

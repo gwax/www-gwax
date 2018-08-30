@@ -30,9 +30,9 @@ Or, better still:
 
 For the curious amongst you, the relatively simple code follows:
 
-::
+.. code:: php
 
-   < ?php
+   <?php
    if(isset($_GET['delay']) && is_numeric($_GET['delay']))
        $delay = max((int)$_GET['delay'], 1);
    else

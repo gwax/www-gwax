@@ -10,7 +10,7 @@ The Liz totally figured out my cinder block plan before I could give her
 one. Having had my plans foiled, I shall have to fall back to giving her
 something else and then telling her the story of why I was going to give
 her a cinder block. Maybe this'll teach me to post `my evil
-schemes <http://blog.gwax.com/2004/02/14/my-valentines-day/>`__ on my
+schemes <link://slug/my-valentines-day>`__ on my
 blog (but probably not).
 
 I am further foiled by having a whole ton and a half of stuff to do

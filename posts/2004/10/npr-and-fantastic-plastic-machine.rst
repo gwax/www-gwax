@@ -7,7 +7,7 @@ NPR and Fantastic Plastic Machine
 :tags: art & culture, cohorts
 
 As a follow up to a previous entry `NPR and The Flaming
-Lips <http://blog.gwax.com/2004/05/20/npr-and-the-flaming-lips/>`__,
+Lips <link://slug/npr-and-the-flaming-lips>`__,
 today I heard a portion of a Fantastic Plastic Machine song during one
 of the short interludes on NPR. Once again, I am thoroughly pleased by
 NPR's ecclectic musical tastes. In case it varies from NPR station to

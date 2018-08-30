@@ -6,7 +6,11 @@ Save the Pacific Northwest Tree Octopus
 :updated: 2007-04-02 19:10:56+00:00
 :tags: keen, politics, science & technology
 
-|Save the Pacific Northwest Tree Octopus| It has come to my attention
+.. image:: /images/posts/tentriblarge.png
+    :alt: Save the Pacific Northwest Tree Octopus
+    :class: u-pull-left
+
+It has come to my attention
 that the endangered Tree Octopus of the Pacific Northwest is suffering
 through even tougher times than it has in the past and I have decided to
 join the effort to preserve this unique species. Normally, I'm too lazy
@@ -21,8 +25,3 @@ Northwest Tree Ocopus, see the `official preservation
 site <http://zapatopi.net/treeoctopus/>`__. For more general cephalopod
 information, I recommend this `blog devoted to
 cephalopods <http://squid.us/>`__.
-
---------------
-
-.. |Save the Pacific Northwest Tree Octopus| image:: /pics/tentriblarge.png
-   :class: alignleft

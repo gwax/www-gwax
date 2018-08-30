@@ -6,8 +6,11 @@ Cannondale Jekyll 600
 :updated: 2009-07-29 21:44:56+00:00
 :tags: biking
 
-[caption align="alignright" width="375" caption="Cannondale Jekyll 600
-(mine is black)"]\ |Red Jekyll 600|\ [/caption]
+.. thumbnail:: /images/posts/4VN6DRED.jpg
+    :alt: Cannondale Jekyll 600 (mine is black)
+    :class: u-pull-right thumbnail
+
+    Cannondale Jekyll 600 (mine is black)
 
 Just because I'm all psyched about my new bike, I thought I might as
 well say what sort of bike it is. I got a `Cannondale Jekyll
@@ -31,6 +34,3 @@ I can go up or down.
 I'm quite pleased overall and if I'm being a little repetitive, it's
 because I'm so enthusiastic about the matter. Now back to work so that I
 can finish paying for the thing.
-
-.. |Red Jekyll 600| image:: http://blog.gwax.com/pics/4VN6DRED.jpg
-   :class: alignright

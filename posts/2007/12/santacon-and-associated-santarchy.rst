@@ -8,7 +8,7 @@ SantaCon and associated Santarchy
 
 This past Saturday, I attended what is probably the finest event that I
 have ever had the pleasure of attending, even topping `drunken cowboy
-faires <http://blog.gwax.com/2006/09/03/ye-olde-cowboy/>`__. This past
+faires <link://slug/ye-olde-cowboy>`__. This past
 Saturday was San Francisco's
 `SantaCon <http://en.wikipedia.org/wiki/SantaCon>`__ (aka. Santarchy),
 which after having heard good tales from Zoz years back and being
@@ -18,7 +18,7 @@ many `other cities <http://santarchy.com/>`__).
 
 The basic idea of SantaCon is simple, get dressed up as Santa or
 something similarly
-`Chrishanukkwanzaastice <http://blog.gwax.com/2006/12/26/merry-chrishanukkwanzaastice/>`__
+`Chrishanukkwanzaastice <link://slug/merry-chrishanukkwanzaastice>`__
 themed, meet up with a a few similarly dressed up folks and proceed to
 have a merry time. There are, some nuanced details that make it all the
 more entertaining, for example, it's more like a few hundred other

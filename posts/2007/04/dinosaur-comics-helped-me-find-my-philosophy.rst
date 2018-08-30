@@ -48,7 +48,7 @@ trying as hard as it can to find a friend to share electrons with
 
 There you have it, I believe in hylopathism with weak emergence.
 
-.. |Dinosaur Panpsychism Explanation| image:: http://blog.gwax.com/pics/2007/04/qwantz-panpsych-panel11.png
-   :class: alignright
-   :name: image553
-   :target: http://www.qwantz.com/index.pl?comic=974
+.. |Dinosaur Panpsychism Explanation| image:: /images/posts/2007/04/qwantz-panpsych-panel11.png
+    :alt: Dinosaur Panpsychism Explanation
+    :class: u-pull-right
+    :target: http://www.qwantz.com/index.pl?comic=974

@@ -20,7 +20,7 @@ From the land of ASCII
        |    *----+----|        |      *--+-----|
        |  ,/     |  ,/         |   ,-'   |   ,-'
        |,/       |,/           |,-'      |,-'
-        ---------'          ---------'
+        ---------'              ---------'
 
 Yeah, I know it's not that great, but I was staring at a whole bunch of
 text a bit ago and I started wondering if you could do half decent 3D

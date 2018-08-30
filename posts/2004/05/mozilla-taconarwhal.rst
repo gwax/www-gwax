@@ -25,5 +25,5 @@ Firefox <http://www.mozilla.org/products/firefox/>`__ is, in my opinion,
 the best browser out there and I highly recommend that you give it a try
 if you haven't before.
 
-.. |Mozilla Taconarwhal screenshot| image:: /pics/taconarwhal.jpg
-   :class: alignright
+.. |Mozilla Taconarwhal screenshot| image:: /images/posts/taconarwhal.jpg
+   :class: u-pull-right

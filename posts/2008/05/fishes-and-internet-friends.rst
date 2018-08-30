@@ -22,7 +22,7 @@ friendship without ever having met in person.
 After moving to the Bay Area, I had been planning to drive down
 California a bunch, meet Kenzie, visit people in LA and do the whole
 SoCal thing but then, as you may
-`recall <http://blog.gwax.com/2008/01/20/and-now-a-five-car-pile-up/>`__,
+`recall <link://slug/and-now-a-five-car-pile-up>`__,
 I ceased to have a car. This week, however, Kenzie was in Monterey with
 her boyfriend, who had business; Monterey being reasonably close by
 California standards, I grabbed a zipcar, ditched out of work early and

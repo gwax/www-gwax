@@ -6,11 +6,14 @@ Snow Biking Rules!
 :updated: 2006-06-09 19:30:35+00:00
 :tags: adventures, biking
 
+.. thumbnail:: /images/posts/extreme294.jpg
+    :alt: Nokian Extreme 294
+    :class: u-pull-right thumbnail
+
 When I realized there was a bunch of snow on the ground (and got off my
 lazy ass) I made a quick run into Cambridge and retrieved my bike. Upon
 returning home I ate dinner and then fitted my bike with the fancy new
-winter tires (`Nokian Extreme
-294 <http://blog.gwax.com/pics/extreme294.jpg>`__) that I bought myself
+winter tires that I bought myself
 a few days ago. Incidentally, the studs are aluminum with silicon
 carbide tips and the rest of the tire is nice and high quality too. I
 have, of course, been wanting to go snow biking for months and months

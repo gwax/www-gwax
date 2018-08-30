@@ -6,7 +6,7 @@ Zipping about
 :tags: vehicles
 
 Since the recent `demise of my poor
-Subaru <http://blog.gwax.com/2008/01/20/and-now-a-five-car-pile-up/>`__,
+Subaru <link://slug/and-now-a-five-car-pile-up>`__,
 I have been effectively without a car. Being without a car isn't such a
 big deal since I live in the city and can use my longboard for most of
 my transportation needs but occasionally I have business out in Sunset,

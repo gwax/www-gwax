@@ -18,7 +18,6 @@ I have attached a particularly cute one that I
 `found <http://www.flickr.com/photos/sharpshutter/3106926317/>`__ to get
 you started, but I have seen others out there.
 
-.. |Baldr the Rein-dog| image:: http://blog.gwax.com/pics/2008/12/reindog.thumbnail.jpg
-   :class: alignright
-   :name: image660
-   :target: http://blog.gwax.com/pics/2008/12/reindog.jpg
+.. |Baldr the Rein-dog| thumbnail:: /images/posts/2008/12/reindog.jpg
+    :alt: Baldr the Rein-dog
+    :class: u-pull-right thumbnail

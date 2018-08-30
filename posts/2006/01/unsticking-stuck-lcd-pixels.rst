@@ -20,8 +20,8 @@ machine has no means of playing .mp4 files (which the PSP pixel fixing
 video is) and rather than trying to figure out how to make it play .mp4
 files, I thought I'd `ImageMagick <http://www.imagemagick.org/>`__
 myself up a quick solution. To that end, I created three animated gifs
-that pulse at different frequencies (`rgb3.gif </pics/rgb3.gif>`__,
-`rgb5.gif </pics/rgb5.gif>`__ and `rgb7.gif </pics/rgb7.gif>`__), which
+that pulse at different frequencies (`rgb3.gif </images/posts/rgb3.gif>`__,
+`rgb5.gif </images/posts/rgb5.gif>`__ and `rgb7.gif </images/posts/rgb7.gif>`__), which
 serve the same purpose as the video and are substantially smaller in
 size (1.2KB vs 1.5MB). The great thing about these is they're
 essentially platform independant and require no video codecs at all. To
@@ -33,4 +33,4 @@ other frequencies and if that doesn't work, I'm sorry.
 
 **UPDATE:** If you're here, you might be interested in `Unsticking Stuck
 LCD Pixels: A
-Script <http://blog.gwax.com/2009/12/08/unsticking-stuck-lcd-pixels-a-script/>`__
+Script <link://slug/unsticking-stuck-lcd-pixels-a-script>`__

@@ -32,6 +32,5 @@ VALUE MEAL SAVINGS -0.49; you save money when you buy a sandwich, fries
 and drink combo, even if it's not listed as a value meal. George: 1,
 McDonald's: >1,000,000,000 served.
 
-.. |Super Secret Value Meal| image:: http://blog.gwax.com/pics/thumb-Super_Secret_Value_Meal.jpg
-   :class: alignright
-   :target: http://blog.gwax.com/pics/Super_Secret_Value_Meal.jpg
+.. |Super Secret Value Meal| thumbnail:: /images/posts/Super_Secret_Value_Meal.jpg
+   :class: u-pull-right thumbnail

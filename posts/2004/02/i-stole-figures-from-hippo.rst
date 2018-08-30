@@ -26,5 +26,5 @@ your amusement.
 figures and instead now use class="alignright" and some CSS taken from
 the default (Kubrick) theme for Wordpress 1.5.
 
-.. |dancing hippo| image:: /pics/hippo.gif
-   :class: alignright
+.. |dancing hippo| image:: /images/posts/hippo.gif
+   :class: u-pull-right

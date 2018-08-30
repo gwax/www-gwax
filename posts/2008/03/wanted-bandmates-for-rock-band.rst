@@ -7,7 +7,7 @@ Wanted: Bandmates for Rock Band
 
 Yesterday, I wandered over to Best Buy and finally picked up a copy of
 Rock Band for my Xbox 360. As I have `already
-establish <http://blog.gwax.com/2007/06/10/rock-band/>`__, Rock Band is
+establish <link://slug/rock-band>`__, Rock Band is
 awesome, so I'm mighty psyched to have a copy at the place now. I wasn't
 properly set up for it earlier but now that we've got a projector and a
 proper sound system, we have an amazing Rock Band setup. Rock Band, of

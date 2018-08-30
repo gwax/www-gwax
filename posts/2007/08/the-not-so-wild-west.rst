@@ -20,7 +20,6 @@ hanging out again. to those of you still here in the East, I'm sorry to
 be leaving again and I'll miss you. To those of you along the way, get
 ready for George to come through town.
 
-.. |Bison Skull Pile| image:: http://blog.gwax.com/pics/2007/08/bison_skull_pile_ca1870.thumbnail.png
-   :class: alignright
-   :name: image576
-   :target: http://blog.gwax.com/pics/2007/08/bison_skull_pile_ca1870.png
+.. |Bison Skull Pile| thumbnail:: /images/posts/2007/08/bison_skull_pile_ca1870.png
+    :alt: Bison Skull Pile
+    :class: u-pull-right thumbnail

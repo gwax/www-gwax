@@ -16,7 +16,6 @@ space program thing. It might also be cool if we didn't waste so much
 money on unneeded and excessive military superiority. I guess somebody
 forgot to tell us that the cold war ended sixteen years ago.
 
-.. |Sputnik I| image:: http://blog.gwax.com/pics/2007/10/sputnik_asm.thumbnail.jpg
-   :class: alignright
-   :name: image588
-   :target: http://blog.gwax.com/pics/2007/10/sputnik_asm.jpg
+.. |Sputnik I| thumbnail:: /images/posts/2007/10/sputnik_asm.jpg
+    :alt: Sputnik I
+    :class: u-pull-right thumbnail

@@ -20,7 +20,7 @@ in an H3? That's a question that I asked myself and, it turns out,
 Smalltime was borrowing a car from his dad--who works at a car
 dealership--and the only one he could borrow at the time was an H3.
 You've probably already encountered `my opinions on the H3 from the
-exterior <http://blog.gwax.com/2005/11/10/h3-even-worse-than-the-h2/>`__
+exterior <link://slug/h3-even-worse-than-the-h2>`__
 but this gave me a chance to back those up with impressions from the
 interior and ride of the thing. My first impression of the interior was
 that they'd done a fantastic job of making it very classy with two-tone
@@ -54,7 +54,7 @@ to more and more ice, an unfortunate thing happened: I slipped, started
 sliding on my butt, tried to stop myself with my left arm and popped it
 right out of the socket. My shoulder dislocated very easily without much
 pressure, implying that `my accident this
-summer <http://blog.gwax.com/2005/08/05/the-shoulder-story-in-4-versions/>`__
+summer <link://slug/the-shoulder-story-in-4-versions>`__
 actually did leave me with a bad shoulder; having discovered this, I'm
 probably going to want to get surgery. So there we were, half way down
 (or half way up, depending on how you want to look at it) a snow and ice

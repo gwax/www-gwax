@@ -23,7 +23,7 @@ overall it was a pretty good year in the life of George.
 
 As tends to be a subject around this time of year, let's talk about New
 Year's resolutions, shall we? `Last
-year <http://blog.gwax.com/2006/01/01/resolutions-2k6/>`__ I resolved to
+year <link://slug/resolutions-2k6>`__ I resolved to
 1) get better at meeting and interacting with new people, and 2) be
 friendlier. In spite of forgetting about those resolutions pretty
 quickly into the year, I'd say that I did a decent job of being

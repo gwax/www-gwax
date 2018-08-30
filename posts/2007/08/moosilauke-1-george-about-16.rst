@@ -6,7 +6,7 @@ Moosilauke: 1, George: about 1.6
 :tags: mountains
 
 if you recall the `last
-time <http://blog.gwax.com/2006/01/07/moosilauke-1-george-a-little-less-than-1/>`__
+time <link://slug/moosilauke-1-george-a-little-less-than-1>`__
 that I tried to climb Moosilauke, you'll note that I failed. Yesterday,
 however, I set out for attempt two and succeeded.
 

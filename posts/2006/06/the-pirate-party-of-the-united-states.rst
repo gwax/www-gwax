@@ -24,5 +24,5 @@ concern me, I think that I might finally have found a reason to stop
 being a registered independant. Also, what could be cooler than to be a
 registered pirate?
 
-.. |Pirate Party of the United States Logo| image:: /pics/parrot_logo_small.jpg
-   :class: alignright
+.. |Pirate Party of the United States Logo| image:: /images/posts/parrot_logo_small.jpg
+    :class: u-pull-right

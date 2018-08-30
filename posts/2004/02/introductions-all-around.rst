@@ -25,6 +25,5 @@ admit that you do have a lot of porn.
 For the love of monkeys, shut the Hell up internet; this is Tickles'
 moment, so just let everyone look at the picture and be happy.
 
-.. |Mr. Tickles| image:: /pics/ticklest.jpg
-   :class: alignright
-   :target: /pics/tickles.jpg
+.. |Mr. Tickles| thumbnail:: /images/posts/tickles.jpg
+    :class: u-pull-right thumbnail
