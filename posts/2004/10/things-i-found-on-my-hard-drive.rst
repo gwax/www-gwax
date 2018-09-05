@@ -8,14 +8,14 @@ Things I found on my hard drive
 I was rooting around my hard drives looking for amusing things to play
 with and I came across a couple of things I wrote in the past. One night
 I was driving around at 3 AM and then wrote me up a short little thing
-that I called `At 3 AM <http://www.gwax.com/content/at3am.html>`__.
+that I called `At 3 AM <link://slug/at3am>`__.
 Another one I found was something that I wrote about having a `Bad
-Day <http://www.gwax.com/content/badday.html>`__ where one or two bad
+Day <link://slug/badday>`__ where one or two bad
 things happened to me and then I exaggerated a bunch of other stuff on
 top of it. The third, and last, thing that I found was something that I
 started writing which was meant to be an experiment in writing with a
 lot of side phrases in
-`Parentheses <http://www.gwax.com/content/parentheses.html>`__.
+`Parentheses <link://slug/parentheses>`__.
 
 I make no assertions about the quality of these compositions, but the
 first two are kind of fun and the third is kind of different. So yeah,

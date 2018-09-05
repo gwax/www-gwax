@@ -1,7 +1,7 @@
-So you're in a dessert, but you're bones, and it grows.
+So you're in a desert, but you're bones, and it grows.
 =======================================================
 
-:slug: so-youre-in-a-dessert-but-youre-bones-and-it
+:slug: so-youre-in-a-desert-but-youre-bones-and-it
 :date: 2010-09-06 00:48:10+00:00
 :updated: 2010-09-06 08:35:30+00:00
 :tags: video games, travel

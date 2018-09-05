@@ -6,7 +6,7 @@ Oubliette (was Abyss)
 :updated: 2009-09-26 02:17:25+00:00
 :tags: computers
 
-I recently considered the naming of `abyss </2008/08/18/abyss/>`__ and
+I recently considered the naming of `abyss <link://slug/abyss>`__ and
 decided that the word
 `oubliette <http://en.wikipedia.org/wiki/Oubliette>`__ made a better
 name. Oubliette is a much more appropriate description in understanding

@@ -8,7 +8,7 @@ Dave: 308, George: 305
 
 .. thumbnail:: /images/posts/D308G305.jpg
     :alt: Dave 308, George 305
-    :class: u-pull-right
+    :class: u-pull-right thumbnail
 
 This was the end result of a Scrabble game that
 my friend Dave and I played a couple nights ago. I post because it's the

@@ -38,12 +38,14 @@ bitter, I'm fine with giving up the hope of getting a good gift.
 
 In closing, bah humbug.
 
-| %!PS
-| /inch (72 mul) def
-| /Times-Roman findfont 12 scalefont setfont
-| 1 inch 1 inch moveto
-| (I did derive some enjoyment from gift giving this year. Gift giving
-  and excessive wrapping, that is.) show
-| %% in case you missed the reference, this funny stuff is postscript
-| %% id est the text in the second set of parentheses was a PS
-| showpage
+.. code:: postscript
+
+    %!PS
+    /inch (72 mul) def
+    /Times-Roman findfont 12 scalefont setfont
+    1 inch 1 inch moveto
+    (I did derive some enjoyment from gift giving this year. Gift giving
+    and excessive wrapping, that is.) show
+    %% in case you missed the reference, this funny stuff is postscript
+    %% id est the text in the second set of parentheses was a PS
+    showpage

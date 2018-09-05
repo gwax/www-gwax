@@ -9,11 +9,14 @@ I'm rather fond of keeping meticulous data about various things and the
 list of such things certainly contains statistics about my car. Having
 finished the trip east, here are some numbers from the trip:
 
-Odometer leaving San Francisco, CA: 1715 Odometer arriving Austin, TX:
-3532 Odometer leaving Austin, TX: 3540 Odometer arriving Atlanta, GA:
-4730 Odometer leaving Atlanta, GA: 4730 Odometer arriving Concord, MA:
-5837 Odometer leaving Concord, MA: 5850 Odometer arriving Woods Hole,
-MA: 5947
+- Odometer leaving San Francisco, CA: 1715
+- Odometer arriving Austin, TX: 3532
+- Odometer leaving Austin, TX: 3540
+- Odometer arriving Atlanta, GA: 4730
+- Odometer leaving Atlanta, GA: 4730
+- Odometer arriving Concord, MA: 5837
+- Odometer leaving Concord, MA: 5850
+- Odometer arriving Woods Hole, MA: 5947
 
 The following numbers are a little off because I started and finished
 with partially full tanks of fuel:

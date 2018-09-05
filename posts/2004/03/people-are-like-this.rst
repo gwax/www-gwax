@@ -36,7 +36,7 @@ she cares about and make sure that there isn't a little cat stuck in a
 tree somewhere.
 
 .. |Sinfest 03/12/04| image:: http://www.sinfest.net/comikaze/comics/2004-03-12.gif
-   :class: alignright
+   :class: u-pull-right
    :width: 331px
    :height: 138px
    :target: http://www.sinfest.net/archive_page.php?comicID=1501

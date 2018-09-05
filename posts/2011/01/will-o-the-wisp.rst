@@ -7,11 +7,15 @@ Will O' The Wisp
 :tags: cocktails, recipes
 :category: recipes
 
-Continuing `my earlier work <link://slug/ironhide>`__ in the realm of mixology,
-I would like to present my second cocktail invention. The invention of this
-cocktail is the result of playing around with gin, Chartreuse, St. Germain, and
-various other liqueurs in an attempt to make something tasty. This cocktail
-earns its name, Will O' The Wisp, from its faint, ghostly, green color.
+Continuing `my earlier work </2010/10/28/ironhide-cocktail-recipe/>`__
+in the realm of mixology, I would like to present my second cocktail
+invention. The invention of this cocktail is the result of playing
+around with gin,
+`Chartreuse <http://en.wikipedia.org/wiki/Chartreuse_%28liqueur%29>`__,
+`St. Germain <http://en.wikipedia.org/wiki/St._Germain_%28liqueur%29>`__, and
+various other liqueurs in an attempt to make something tasty. This
+cocktail earns its name, Will O' The Wisp, from its faint, ghostly,
+green color.
 
 Ingredients
 -----------

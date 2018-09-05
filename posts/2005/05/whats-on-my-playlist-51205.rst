@@ -20,7 +20,7 @@ All of these albums are awesome.
 
 -  Infected Mushroom
 
-   -  B. P. Empire
+   -  B\. P\. Empire
    -  Classical Mushroom
    -  Converting Vegetarians
    -  I'm The Supervisor

@@ -23,7 +23,7 @@ don't care; I'm just so glad that I got the model working.
 
 *UPDATE:* It all worked out reasonably well and I have a video up on the
 page that I just made up for my
-`thesis <http://www.gwax.com/content/thesis.html>`__. Sadly, initial
+`thesis <link://slug/thesis>`__. Sadly, initial
 conditions and physics caused the system to develop a rotational mode
 that, combined with some software limitations, makes most of the video
 rather uninteresting. The first few seconds are nice. Further things

@@ -8,7 +8,7 @@ You cannot be friends with yourself.
 
 .. thumbnail:: /images/posts/noselffriend.jpg
     :alt: facebook: You cannot be friends with yourself.
-    :class: u-pull-right thumbnail
+    :class: thumbnail
 
- Well damn, that's that I guess.
+Well damn, that's that I guess.
 
