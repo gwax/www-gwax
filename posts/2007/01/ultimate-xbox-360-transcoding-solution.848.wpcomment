@@ -1,0 +1,9 @@
+.. id: 848
+.. author: Gautham
+.. date_utc: 2007-02-01 22:49:25
+.. compiler: rest
+
+After a little more digging, it looks like it's they use the standard
+UPnP MediaServer protocol, but with some "embrace and extend" B.S. that
+makes it incompatible with existing implementations except Windows Media
+Connect...

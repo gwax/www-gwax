@@ -1,0 +1,12 @@
+.. id: 643
+.. author: gwax
+.. author_email: waksman@gwax.com
+.. author_url: https://www.gwax.com
+.. date_utc: 2006-01-27 18:10:52
+.. compiler: rest
+
+Yeah, I've encountered mixed success as well. I'm inclined to believe
+that there is more than one way that a pixel can break and that the
+color cycling trick only works for certain types of broken pixels.
+
+Good luck and I hope everything works out for you in the end.
