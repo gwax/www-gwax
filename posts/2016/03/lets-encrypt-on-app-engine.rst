@@ -4,8 +4,14 @@ Let's Encrypt on App Engine
 :slug: lets-encrypt-on-app-engine
 :date: 2016-03-13 07:25:01+00:00
 :guid: 9e2aff89-98fd-413b-9d42-32c6a044fcd4
+:updated: 2018-09-09T07:03:28+00:00
 :tags: meta, code snippets
 :category: meta
+
+**UPDATE**: `As of September, 2017 <https://cloudplatform.googleblog.com/2017/09/introducing-managed-SSL-for-Google-App-Engine.html>`__,
+Google App Engine will `manage SSL certificates for you <https://cloud.google.com/appengine/docs/standard/python/securing-custom-domains-with-ssl>`__.
+
+--------
 
 `Let's Encrypt <https://letsencrypt.org/>`_ is a fantastically convenient way
 to get SSL certificates for your website without paying a bunch of money or
