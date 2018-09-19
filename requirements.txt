@@ -2,5 +2,5 @@ aiohttp==3.3.2
 python-magic==0.4.15
 watchdog==0.8.3
 ws4py==0.5.1
-# We require >8.0.0b3; this should be updated when a release happens
-git+git://github.com/getnikola/nikola.git@961bb42b941755ea3f2badace1adb489d3ab4ee3
+# We require >=8.0.1 due to an incompatible bug in 8.0.0
+git+git://github.com/getnikola/nikola.git@7a604830dc5dd7389a042199dffc87a622b0f5d4
