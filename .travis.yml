@@ -10,8 +10,8 @@ cache:
 
 addons:
   apt:
-    # sources:
-    #   - sourceline: ppa:jonathonf/backports
+    sources:
+      - sourceline: ppa:jonathonf/backports
     packages:
       - jpegoptim
       - optipng
