@@ -1,9 +1,11 @@
-sudo: false
 language: python
 python: 3.6
 cache:
   - apt
   - pip
+  - directories:
+    - cache
+    - static
 
 addons:
   apt:
