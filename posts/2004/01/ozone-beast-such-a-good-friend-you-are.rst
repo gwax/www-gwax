@@ -3,6 +3,7 @@ Ozone Beast, such a good friend you are
 
 :slug: ozone-beast-such-a-good-friend-you-are
 :date: 2004-01-07 18:28:00+00:00
+:updated: 2018-11-26 07:46:10+00:00
 :tags: computers
 
 So, there's this irritating little thing about my personal web page,
@@ -32,3 +33,5 @@ just as much noise. I usually have a love-hate relationship with most of
 my computers, but not ozone-beast, there's no hate there.
 
 Ooh, I almost forgot, it's got wheels too.
+
+Update for posterity: Ozone Beast was a `Dell PowerEdge 4100 <https://en.wikipedia.org/wiki/List_of_Dell_PowerEdge_Servers#Generation_1>`_.

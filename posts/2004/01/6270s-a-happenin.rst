@@ -3,7 +3,7 @@
 
 :slug: 6270s-a-happenin
 :date: 2004-01-06 17:42:00+00:00
-:updated: 2005-01-24 06:49:13+00:00
+:updated: 2018-11-26 07:33:56+00:00
 :tags: school
 
 So, I'm doing this here `6.270 <http://web.mit.edu/6.270/>`__ -
@@ -26,7 +26,7 @@ think that it's not totally unfounded. Following are some of the amusing
 things that exemplify this arrogance:
 
 -  Planning to be done 1-2 weeks before the competition
--  Planning to sit around getting wasted while everyone is frantically
+-  Planning to sit around while everyone is frantically
    trying to make theirs work when the deadline is upon them
 -  Fielding a placebo robot for qualifiers
 -  Naming our robot "# Awesome", where # is the number of points that we
