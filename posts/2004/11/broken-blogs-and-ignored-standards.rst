@@ -9,13 +9,13 @@ Broken blogs and ignored standards
 I am often rather annoyed by the fact that many webpages out there on
 the Internet use broken and disgusting HTML that will not render
 properly in my browser (Firefox). Usually it is the case that the pages
-are trying to do retardedly complex and useless things to look cool or
+are trying to do stupidly complex and useless things to look cool or
 they are being constructed by complete amateurs. Some sites claim to be
 compliant but are in fact not, but more often people don't even bother
 to go that far. Sometimes, however, it is the webpages of people or
 groups that I would expect to know what they're doing. Standards are the
 solution to this problem. In a quick run through, for example, only one
-of the blogs on my blogroll is actually stardards compliant; though some
+of the blogs on my blogroll is actually standards compliant; though some
 come close, most are grossly erroneous.
 
 Folks, it's not that hard to see what you're doing wrong, just swing by

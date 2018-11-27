@@ -18,7 +18,7 @@ Greater Boston to the Bay Area, I passed Shasta and was absolutely blown
 away by the sight of such a massive mountain popping up out of nowhere.
 
 Myself, Hippo and John, set out from the bay area Friday evening.
-Stopping at Chipotle's en route, we got to Finlandia! Motel in Mount
+Stopping at Chipotle en route, we got to Finlandia! Motel in Mount
 Shasta City, California sometime around 1 or 2AM. Repacking lightly and
 getting to sleep, we woke up rather early so that we could pick up our
 rental gear and meet up to take a basic mountaineering course with

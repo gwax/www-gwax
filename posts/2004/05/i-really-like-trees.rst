@@ -18,7 +18,7 @@ begin with the real Bonsai work. By this, I mean that I will spend a
 fair amount of time combing the wooded areas in my region for seedlings
 and small trees that seem to be of a variety that would later be
 pleasant. These seedlings will then be transplanted to the pots and I
-will begin careful maintenace of them. I suspect that I will go out
+will begin careful maintenance of them. I suspect that I will go out
 browsing for trees on a number of occasions so as to get some of the
 breeds that come about later in the season. Hopefully I will obtain
 between ten and forty small trees to take care of.

@@ -1,12 +1,12 @@
-Nonsense as a passtime
-======================
+Nonsense as a pastime
+=====================
 
-:slug: nonsense-as-a-passtime
+:slug: nonsense-as-a-pastime
 :date: 2004-10-17 21:54:00+00:00
 :updated: 2004-12-15 07:53:11+00:00
 :tags: compositions, george waksman
 
-I've come up with a wonderful new passtime for when I to get bored in
+I've come up with a wonderful new pastime for when I to get bored in
 class or otherwise during the day, writing nonsense. It's a ton of fun
 to write and then it's kind of fun to read, although it lacks more than
 very short range coherence. Here is a short excerpt:

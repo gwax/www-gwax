@@ -38,7 +38,7 @@ sweet. So then I got up and set off for town.
 Turns out the traction of studded tires isn't quite so good in four
 inches of powder; the powder provides a barrier between the tires and
 anything solid and doesn't have any cohesion of its own. Also, four
-inches of powder provides a ton of friction and impedence to motion. The
+inches of powder provides a ton of friction and impedance to motion. The
 end result was a very slow and involved trek to town that probably took
 about forty or fifty minutes (to the usual twentyish). I am quite
 certain that the traction was better than my onroad tires and expect

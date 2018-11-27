@@ -13,7 +13,7 @@ Slowcooker Yogurt
 
 I have a 14 month old daughter, a wife that likes yogurt with granola, and I
 kind of like the stuff too. Needless to say, we go through a lot of yogurt in
-my house. Specifically, we go through a lot of plain, whole milk, greek yogurt.
+my house. Specifically, we go through a lot of plain, whole milk, Greek yogurt.
 
 We were recently visiting my wife's aunt and uncle (my daughter's graunt and
 gruncle), and we had yogurt most mornings. They use an
@@ -38,7 +38,7 @@ Slowcooker Greek Yogurt recipe
 ------------------------------
 
 * 1 gallon whole milk
-* ½ to 1 cup starter plain (not-greek) yogurt
+* ½ to 1 cup starter plain (not-Greek) yogurt
 
 Instructions
 ~~~~~~~~~~~~

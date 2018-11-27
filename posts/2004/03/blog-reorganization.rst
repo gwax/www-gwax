@@ -7,5 +7,5 @@ Blog Reorganization
 :tags: this blog
 
 I decided to reorganize the categories of my blog. If this results in
-breaking links or anything like that, I appologize. My blog was getting
+breaking links or anything like that, I apologize. My blog was getting
 kind of messy and I didn't like the trend.

@@ -15,7 +15,7 @@ effort to get things checked off and move on. Assignment 3 was due
 yesterday and Assignment 4 today; these are the only assignments that
 involve our pre-competition robot.
 
-Assignment 3 invovled building a robot that can go forward, backward,
+Assignment 3 involved building a robot that can go forward, backward,
 turn counter-clockwise and respond to a bump sensor. Yesterday we spent
 2 hours building a robot that satisfied the requirements for Assignment
 3 and most of the time was spent debugging code only to find out that I
@@ -23,7 +23,7 @@ had forgotten how to tell the difference between left and right. Having
 finished, we walked into lab and were checked off in about 10 minutes.
 
 Assignment 4 is where the story gets fun. Assignment 4 was to make your
-robot chase after an IR Beacon. We start out oday with some
+robot chase after an IR Beacon. We start out today with some
 modifications to our robot from yesterday, namely mounting the IR Beacon
 and figuring out how to make it work (which is pretty hard because it's
 supposed to be connected to the expansion board, which we aren't using).

@@ -13,7 +13,7 @@ it and changing the characters themselves. Worst of all, though, is that
 they decided to pretty much write out the vast majority of the hero
 contingent of the Trojan War. Basically, the movie was loosely based on
 the concept of the Trojan War and has relatively little to do with The
-Illiad. Besides my disgust, I thought that it was rather well done and
+Iliad. Besides my disgust, I thought that it was rather well done and
 if they had chosen to title the movie Achilles: The Movie, I would have
 been totally cool with the whole thing (the The Movie part is rather
 key).

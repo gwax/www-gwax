@@ -16,7 +16,7 @@ is awesome, you should go get a copy and start playing it.
 Discussing the story behind Prototype won't really give you a sense of
 why you should be playing it so, instead, let me start off by saying
 that it's a game where you can jump kick helicopters. Let me say that
-again, you can jump kick helicopters; this includes apaches, and you can
+again, you can jump kick helicopters; this includes Apaches, and you can
 destroy them by so doing. Other things you can do include consuming
 people for their knowledge and powers, shooting spikes through the
 ground to destroy entire city blocks, or throwing tanks at mutated

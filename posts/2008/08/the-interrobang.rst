@@ -18,7 +18,7 @@ the emphasis being questioned. Now, however, the single typographical
 character provides me the opportunity to concisely express, in writing,
 simultaneous inquiry and surprise.
 
-Unfortunately, although available in unicode, many fonts do not have '‽'
+Unfortunately, although available in Unicode, many fonts do not have '‽'
 and there is no easy character combination that will lead to it.
 
 In the world of HTML, you can often get away with &#8253;

@@ -6,7 +6,7 @@ Not Yo Momma's Climate
 :updated: 2008-04-14 23:46:17+00:00
 :tags: weather
 
-I guess, in a sense though, this is my momma's climate but that's not
+I guess, in a sense though, this is my Momma's climate but that's not
 really the point. Today, October 11th, marks the first time that we've
 received snow here in Minneapolis. As I sit here waiting for the feeling
 to return to my ears, I wanted to let all of you out there in warmer

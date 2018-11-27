@@ -20,4 +20,4 @@ that chances are better of my not needing surgery makes me incredibly
 happy.
 
 It may be a little limited but I have two arms again. [Insert
-exclamation to non-existant higher power]!
+exclamation to non-existent higher power]!

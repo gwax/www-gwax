@@ -25,7 +25,7 @@ little on the cool side, but quite far from cold and the sky is very
 clear. So I was looking at the stars a little, it was quite pleasant.
 
 **DIFFERENT TOPIC:** Yeah, that **needed** to be bold. Anyway, I was
-reminded by the last sentance of my previous paragraph (ooh, I'm getting
+reminded by the last sentence of my previous paragraph (ooh, I'm getting
 all meta and stuff) of how much I like the word pleasant. Just so that
 we're clear:
 
@@ -48,7 +48,7 @@ pleasant is a good word, I like it.
 
 One might point and say that my fondness for the word pleasant is
 transient and will pass soon; history will likely show that to be an
-accurate predicition. My fondness for specific words is often a
+accurate prediction. My fondness for specific words is often a
 transient thing, but it is often the case that I keep coming back to a
 select few over and over again. As to what the choice words that I keep
 returning to are, I can only give a few examples and time will tell on

@@ -6,7 +6,7 @@ Oreos: America's Favorite Cookie
 :updated: 2005-05-04 14:43:37+00:00
 :tags: food & drink
 
-Displayed prominantly on the Oreo package in my freezer (more on this
+Displayed prominently on the Oreo package in my freezer (more on this
 later) is the phrase "America's Favorite Cookie". Some people might
 consider this to be a fairly hefty claim but it turns out to be
 `statistically
@@ -27,4 +27,4 @@ harder and more solid, which I rather like.
 So yeah, Oreos are great and the rest of America agrees. Also, if you
 look at some of the `other
 statistics <http://www.aibonline.org/resources/statistics/cookie.html>`__,
-Nabisco has a stangle-hold on cookies and crackers in the US.
+Nabisco has a strangle-hold on cookies and crackers in the US.

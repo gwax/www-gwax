@@ -13,7 +13,7 @@ CD/DVD to your hard drive and it pisses me off. It's not like it needs
 to be copied to the hard drive, I've seen the very same games run on
 consoles without hard drives to install to and my computer has a faster
 DVD drive than most consoles. It just annoys me to have the number of
-games I can play at a given time limitted by the fact that they all
+games I can play at a given time limited by the fact that they all
 demand to exist on a CD/DVD and my computer, especially considering they
 all demand that you have the CD/DVD in the drive while you play the
 game.

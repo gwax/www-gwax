@@ -15,7 +15,7 @@ especially if you have a sporty car.
 High up in the Big Horns, we met the jerky man. The jerky man was
 partially crippled, using a walker to get around and selling buffalo and
 elk jerky out of the back of his camper trailer. The jerky man gave us
-samples of his wares and we subsequently bought some very tasty jerkies.
+samples of his wares and we subsequently bought some very tasty jerky.
 The jerky man also gave us suggestions as the the most fun route to take
 to get to Cody, which is to stay on US-14 all the way. There were nice
 switchbacks back down the mountains and some very long straights where

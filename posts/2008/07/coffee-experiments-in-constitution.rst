@@ -57,7 +57,7 @@ consume large quantities of caffeinated soda. Every so often, I have
 tried to consume something coffee related, usually trying for very
 minimally coffee options, and I have slowly found myself more capable of
 stomaching them. Most recently, I think that I had a bottled Starbucks
-frappachino drink thing and was only somewhat nauseated by the
+frappuccino drink thing and was only somewhat nauseated by the
 experience.
 
 Today, however, I would say that I have only been minimally nauseated;

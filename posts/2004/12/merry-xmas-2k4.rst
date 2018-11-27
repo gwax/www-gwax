@@ -67,7 +67,7 @@ Confessions of a B Movie Actor, because Bruce Campbell is awesome and I
 saw it in Barnes & Noble yesterday. The second case is pretty much
 limited to short stories by H. P. Lovecraft that I haven't read yet.
 Case three is the hardest to predict and wouldn't work for gifts anyway
-but includes things like Hagakure, The Illiad, Zen and the Art of
+but includes things like Hagakure, The Iliad, Zen and the Art of
 Motorcycle Maintenance, The Art of War and other random things. So yeah,
 books, not a good gift to give me.
 

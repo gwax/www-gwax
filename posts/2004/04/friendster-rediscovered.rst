@@ -20,5 +20,5 @@ know and would like to see but don't always get the chance to.
 
 Oh, and yes, this means that I am on Friendster for those of you that
 know me and were unaware of this fact. For those of you that don't know
-what Friendster is, it's an online thing that mainains networks of
+what Friendster is, it's an online thing that maintains networks of
 friends and helps you connect with people that you may know indirectly.

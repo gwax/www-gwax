@@ -7,7 +7,7 @@ Insufferably Pleasing Haircut
 :tags: waksman
 
 I continue to be insufferably pleased with my mohawk. The general
-reponse of other people has been favorable and I haven't had to put up
+response of other people has been favorable and I haven't had to put up
 with much negative response, which is good because I like the haircut
 for me and don't much want to deal with other people that feel
 otherwise. Maintenance is a pain, as I have to shave the sides of my

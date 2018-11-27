@@ -9,7 +9,7 @@ Lucky 33333 Fever
 |My truck's odometer hits 133333| Last Tuesday my truck's odometer read
 33333 as it hit 133,333 miles (it has no hundred thousands digit) and I
 took a photo of it. Sure it probably wasn't safe taking a photo of my
-dash while driving, but I'm ok and with 3 being my faorite number, it
+dash while driving, but I'm ok and with 3 being my favorite number, it
 was worth the risk. I have included the photo for your pleasure, the
 thumbnail links to the full image. It would have been nice if I could
 have gotten 133,333.3, but there was too much glare and the photo didn't

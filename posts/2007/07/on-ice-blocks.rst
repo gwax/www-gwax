@@ -16,7 +16,7 @@ Ice block sledding, for those that don't know, is a fantastic sport that
 involves no more than some blocks of ice, some towels and a hill with
 well mown grass. In some parts of the world, ice blocks aren't the
 easiest thing to come by but, in Woods Hole, the local liquor store
-sells them in order to accomodate people with house boats and old
+sells them in order to accommodate people with house boats and old
 fashioned ice boxes. I've got plenty of towels, so that's no problem.
 The well mown grass hill is where Woods Hole really shines; we have a
 fancy golf course with a very steep hill in the middle of Hole 13's
@@ -39,7 +39,7 @@ is formation ice block sledding; there are quite a few ways to arrange
 two people with two ice blocks and even more with three. In our case, we
 had five ice blocks, so we didn't come anywhere near exhausting our
 possible formation arrangement. It was a fantastic night and a
-fantastice endeavor.
+fantastic endeavor.
 
 If you can find some way to get your hands on blocks of ice, you will be
 doing yourself a severe disservice not to go ice block sledding

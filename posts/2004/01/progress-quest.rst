@@ -37,8 +37,8 @@ really grows on you (and not like a fungus or a tumor).
 
 I strongly recommend that you take look at it; it's quite a lot of fun.
 And if you find yourself playing online, feel free to look me up, I go
-as "Contrad the 70th" amd I play in the realm of Oobog. Contrad the
-70th, named after a brand labratory soap produced by Decon Labs, is of
+as "Contrad the 70th" and I play in the realm of Oobog. Contrad the
+70th, named after a brand laboratory soap produced by Decon Labs, is of
 the Land Squid race and a member of the Bastard Lunatic class. As of
 this post, Contrad is level 13 and I hope to play enough to get him to a
 significantly higher level; after all, it is

@@ -17,4 +17,4 @@ even so, I'm starting to get the hang of some of the vowels and more
 commonly used keys. Aside from my eccentricity goals, I'm inclined to
 believe that there might just be something to this crazy layout. That
 said, I do have one big complaint already, I can't use a mouse with my
-right hamd and press Ctrl-X/C/V with my left hand on its home row.
+right hand and press Ctrl-X/C/V with my left hand on its home row.

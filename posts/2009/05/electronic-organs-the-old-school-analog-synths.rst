@@ -28,7 +28,7 @@ was browsing the interwebworknettubes and went to the
 craigslisternettertubewebworks and happened to find this wonderful organ
 for sale. To my advantage, the man I bought the organ from was nice
 enough to deliver it to our apartment. Of course, hauling the organ up
-two flights of stairs was quite a hastle but it's here now and it's not
+two flights of stairs was quite a hassle but it's here now and it's not
 moving again for a very long time.
 
 .. thumbnail:: /images/posts/2009/05/organ-2.jpg

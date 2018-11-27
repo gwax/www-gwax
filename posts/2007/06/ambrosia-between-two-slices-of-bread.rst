@@ -18,7 +18,7 @@ ingredient that caught my attention: chunky peanut butter. The peanut
 butter added to the mix, I found myself at a grand impasse: Nutella or
 raspberry preserves. Upon realizing that the joy of peanut butter and
 jam had crossed my pallet more recently than the exquisiteness of peanut
-butter and Nutella, I selected Nuitella to grace the slice of bread
+butter and Nutella, I selected Nutella to grace the slice of bread
 opposite my chunky peanut butter. Moments before I brought the Nutella
 coated bread and the chunky peanut butter coated bread together, a
 fantastic idea struck me.Coming to me in a flash was the notion that I

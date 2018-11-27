@@ -1,7 +1,7 @@
-The Dervish Dancer Who By His Whirling Realises The Spiralling Of The Universe
-==============================================================================
+The Dervish Dancer Who By His Whirling Realizes The Spiraling Of The Universe
+=============================================================================
 
-:slug: the-dervish-dancer-who-by-his-whirling-realises-the-spiralling-of-the-universe
+:slug: the-dervish-dancer-who-by-his-whirling-realizes-the-spiraling-of-the-universe
 :date: 2005-05-28 04:44:54+00:00
 :updated: 2005-05-28 05:11:55+00:00
 :tags: art & culture
@@ -20,5 +20,5 @@ often collapsing. In performance, the dervishes do not go fully to
 collapse, but they are still quite impressive.
 
 P.S. The post title is stolen from the Vangelis song Dervish D (Inspired
-By The Dervish Dancer Who By His Whirling Realises The Spiralling Of The
+By The Dervish Dancer Who By His Whirling Realizes The Spiraling Of The
 Universe).

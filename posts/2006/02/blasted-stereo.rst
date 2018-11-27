@@ -8,7 +8,7 @@ Blasted Stereo
 Yesterday, my car stereo died on me; it scratched the crap out of one of
 my CDs (thankfully a burned one and not one of my real ones) and then
 started playing other ones very crackly and wrong. Needless to say, this
-really pissed me off, so I went by Ciruit City to get a new one and then
+really pissed me off, so I went by Circuit City to get a new one and then
 went about installing it. Installation was neat because I ripped the
 wiring harness off my old after-market stereo and soldered it up to my
 new one; I haven't soldered anything in a while so it was kind of fun.

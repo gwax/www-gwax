@@ -19,7 +19,7 @@ heal itself with time. In order to find out how the status of my soft
 tissue I'm going to have to get an MRI sometime next week and then make
 another follow up appointment.
 
-The future of my shoulder recovery is now dependant on the MRI results.
+The future of my shoulder recovery is now dependent on the MRI results.
 If the chip has dragged the glenoid along with it, I'll get surgery,
 which will be followed by 6 weeks of immobilization and recovery and
 then 3 months of physical therapy. However, if I'm lucky, the problem

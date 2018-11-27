@@ -10,7 +10,7 @@ I'm a big fan of the board game Go. It's a game that I learned how to
 play from my father many years ago. Like Chess, Checkers, etc. there's
 no element of chance in the game so it's entirely about strategy and
 skill. Go has very simple rules but an incredibly high level of
-open-endedness (`wikipedia's Go
+open-endedness (`Wikipedia's Go
 page <http://en.wikipedia.org/wiki/Go_%28board_game%29#Nature_of_the_game>`__
 estimates there being about 10^[number of possible Chess games] possible
 Go games). The level of incredible open-endedness and abstract nature of

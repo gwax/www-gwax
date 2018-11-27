@@ -9,7 +9,7 @@ News from inside Verizon Labs
 In continuing with being unemployed, I went and participated in a focus
 group at Verizon Labs in Waltham and made $75 today. I got into the
 focus group through a posting on
-`craigslist <http://boston.craigslist.org/>`__ and by filling out a
+`Craigslist <http://boston.craigslist.org/>`__ and by filling out a
 survey about my video game usage. In my world of right now, the whole
 endeavor worked out to talking about video games for an hour and a half
 in exchange for a full tank of gas and an extra $40; this unemployed

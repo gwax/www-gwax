@@ -13,7 +13,7 @@ tomorrow.
 
 That having been said, let me tell you a little about Trial by Fire, the
 game. Trial by Fire was the second in the Quest for Glory series of
-games. Quest for Glory was somewhere halfway inbetween your standard
+games. Quest for Glory was somewhere halfway in between your standard
 Sierra graphical adventure game (most of which were beautifully artistic
 pre-VGA games) and a modern computer role-playing game. You wandered
 around talking to people, getting items and using them in the right
@@ -32,7 +32,7 @@ those Sierra adventure games.
 
 As a quick summary of the good ones, I thought that the Space Quest
 series was exceptional, the Quest for Glory series was quite good, and
-the Leisure Suit Larry series was also quite good (I suspect moreso now
+the Leisure Suit Larry series was also quite good (I suspect more so now
 that I would be able to understand the sexual humor). I never really
 liked the King's Quest or Police Quest games all that much and I don't
 really remember any of the others.

@@ -33,7 +33,7 @@ acetone at all. For those that don't want to think about concentrations,
 0.2% acetone is almost exactly equal to 1/3 cup acetone for every 10
 gallons of fuel.
 
-Just to be policital, or something like that, for a moment, if I can
+Just to be political, or something like that, for a moment, if I can
 finagle a 10% increase in my fuel economy out of ¢10 worth of acetone, I
 am doing a huge service to my bank account and the environment (acetone
 doesn't pollute any more than gasoline). Now let's just take a moment to

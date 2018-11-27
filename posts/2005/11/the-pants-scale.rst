@@ -13,5 +13,5 @@ movie that I'm watching right now. It should be noted that this is pants
 and not pairs of pants.
 
 The pants I am discussing here are less like real pants and more like
-points, in a karmic sense. To that end, they are non-transferrable, have
+points, in a karmic sense. To that end, they are non-transferable, have
 no monetary value, are non-corporeal and are not keep in any records.

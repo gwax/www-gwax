@@ -15,4 +15,4 @@ gloves, yet still being cold. What has happened here?
 Normally I'm a pretty cold tolerant person too, but for some reason I
 haven't been taking to it as kindly as usual. And why is there no snow.
 I want a blizzard; spend some more time vacationing in the B-Lizard
-Lounge, sipping on a tropical drink and doing some hot latin dancing.
+Lounge, sipping on a tropical drink and doing some hot Latin dancing.

@@ -16,3 +16,6 @@ __pycache__/
 
 # OSX Attributes
 .DS_Store
+
+# aspell backups
+*.bak

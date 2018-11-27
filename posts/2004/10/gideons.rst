@@ -8,7 +8,7 @@ Gideons
 
 There are some Gideon's hanging out in front of MIT handing out Bibles
 today. I don't know if I've mentioned it before, but I love getting free
-Bibles from religous people on the street. I am now up to 1 Complete
+Bibles from religious people on the street. I am now up to 1 Complete
 Bible, 1 New Testament in Russian and 1 New Testament, Psalms and
-Proverbs cobmo. It's only a bit of a start so far, but it's still a fun
+Proverbs combo. It's only a bit of a start so far, but it's still a fun
 hobby and I plan to get more as opportunities arise.

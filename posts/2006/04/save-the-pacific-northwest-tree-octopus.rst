@@ -21,7 +21,7 @@ dominant species here; we have a responsibility to the environment and
 we cannot allow such a unique and important creature to go extinct.
 
 For more information on organized attempts to preserve the Pacific
-Northwest Tree Ocopus, see the `official preservation
+Northwest Tree Octopus, see the `official preservation
 site <http://zapatopi.net/treeoctopus/>`__. For more general cephalopod
 information, I recommend this `blog devoted to
 cephalopods <http://squid.us/>`__.

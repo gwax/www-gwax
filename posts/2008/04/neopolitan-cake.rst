@@ -1,7 +1,7 @@
-Neopolitan Cake
+Neapolitan Cake
 ===============
 
-:slug: neopolitan-cake
+:slug: neapolitan-cake
 :date: 2008-04-08 19:12:29+00:00
 :updated: 2009-09-26 02:20:54+00:00
 :tags: waksman, food & drink

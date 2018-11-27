@@ -24,7 +24,7 @@ that pulse at different frequencies (`rgb3.gif </images/posts/rgb3.gif>`__,
 `rgb5.gif </images/posts/rgb5.gif>`__ and `rgb7.gif </images/posts/rgb7.gif>`__), which
 serve the same purpose as the video and are substantially smaller in
 size (1.2KB vs 1.5MB). The great thing about these is they're
-essentially platform independant and require no video codecs at all. To
+essentially platform independent and require no video codecs at all. To
 fix your dead pixels, just fire up a graphical web browser, point
 yourself at one of the images, move the browser window so that the image
 is under your dead pixel, massage the screen a little and with luck the

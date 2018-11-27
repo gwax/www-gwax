@@ -58,7 +58,7 @@ array:
    mdadm --manage /dev/md1 --fail /dev/hdb
    mdadm --manage /dev/md1 --remove /dev/hdb
 
-partion /dev/hdb and then:
+partition /dev/hdb and then:
 
 .. code:: sh
 

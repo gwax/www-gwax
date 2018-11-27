@@ -24,6 +24,6 @@ sequence of my thoughts after I turn the corner:
 
 I won't be all melodramatic and be like, "I could have died, I was so
 scared." No, I'm cool, but it was pretty startling and more than a
-little frigthening at the time.
+little frightening at the time.
 
 That's my harrowing experience of the day, now for some sleep

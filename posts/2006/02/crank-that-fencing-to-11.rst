@@ -21,7 +21,7 @@ A few days ago, I decided to finally get around to reading (and
 finishing) A Book of Five Rings by Miyamoto Musashi (the greatest
 swordsman to have ever lived) to see if I couldn't glean anything that
 might be applicable to fencing. It turns out there are some fantastic
-things to be gleaned from Musashi's knowledge of strategy (swordfighting
+things to be gleaned from Musashi's knowledge of strategy (sword fighting
 and military combat). I took to heart one bit about taking control of
 the situation and leading your opponent in combat and it proved
 fantastically useful in practicing today. Not only did it prove useful

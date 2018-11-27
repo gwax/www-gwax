@@ -6,7 +6,7 @@ Zen and the Art of Motorcycle Maintenance
 :updated: 2007-04-18 04:15:22+00:00
 :tags: books
 
-I have just finished reading Zen and the Art of Motorcycle Maintenace by
+I have just finished reading Zen and the Art of Motorcycle Maintenance by
 Robert M. Pirsig and to say that I was moved would be to make a gross
 understatement. I started to choke up a few chapters before the end and
 spent the last two in tears; this book has struck a very powerful chord

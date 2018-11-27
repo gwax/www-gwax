@@ -7,7 +7,7 @@ Sidekick II v2.3
 :tags: computers
 
 Earlier today, my Sidekick notified me of a new over-the-air update; now
-seing as it will keep pestering you until you update and I'm the "ooh
+seeing as it will keep pestering you until you update and I'm the "ooh
 new and flash!" sort of person, I let it go and install the update. I've
 only been poking at the thing a little bit, but I can already say that
 v2.3 is definitely a good update, in more than just superficial ways. A

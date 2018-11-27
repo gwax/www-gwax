@@ -34,7 +34,7 @@ numbers, I believe that the relative ease of constructing arbitrary
 patterns often leads people to attach meaning to things that are random
 in nature. I know that I'm guilty of attaching meaning where it isn't
 due but, at least, I tend to be conscious of and complicit in my
-misattributions.
+misattribution.
 
 The question now is whether or not I should get a cheesesteak tomorrow,
 for pseudoscience and all.

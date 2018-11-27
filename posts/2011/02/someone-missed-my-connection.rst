@@ -7,7 +7,7 @@ Someone missed my connection
 :tags: waksman
 
 Here's a first for me: someone posted a "missed connection" about me on
-craigslist. One of my roommates randomly found it.
+Craigslist. One of my roommates randomly found it.
 
    **Bloodhound - w4m - 23 (SOMA / south beach)**
 

@@ -20,8 +20,8 @@ chocolate. Without further ado, here's what you'll need:
 Now, here's what you do. Break the chocolate into lots of little pieces.
 In a medium saucepan, over medium heat, bring the cream to a rolling
 boil. Once the cream begins to boil, turn off the heat and stir in the
-chocolate; keep stirring until the mixture is homogenous. This cream and
-chocolate mixture can be kept in tupperware in the fridge for later.
+chocolate; keep stirring until the mixture is homogeneous. This cream and
+chocolate mixture can be kept in Tupperware in the fridge for later.
 This mixture is your concentrate from which to actually make hot
 chocolate.
 

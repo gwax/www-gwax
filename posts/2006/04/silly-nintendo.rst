@@ -17,7 +17,7 @@ considered it the Revolution for so long and having a general repugnance
 for the practice of name changing (that's a whole other discussion in
 and of itself); I expect that I won't dislike "Wii" as much when I get
 used to it. That said, "Wii" is a terrible name for the US market;
-"Xbox" and "Playstation" aren't great either but at least they can be
+"Xbox" and "PlayStation" aren't great either but at least they can be
 pronounced without ambiguity and have some recognizable traits. In
 Nintendo's defense, I think they've got "Revolution" planted firmly in a
 lot of heads so people are going to buy it regardless of the name and

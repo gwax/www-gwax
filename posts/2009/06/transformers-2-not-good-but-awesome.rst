@@ -37,16 +37,16 @@ review, `Michael Bay Finally Made An Art
 Movie <http://io9.com/5301898/michael-bay-finally-made-an-art-movie>`__,
 which I completely agree with. Excerpt below:
 
-   Transformers: ROTF has mostly gotten pretty hideous reviews, but
-   that's because people don't understand that this isn't a movie, in
-   the conventional sense. It's an assault on the senses, a barrage of
-   crazy imagery. Imagine that you went back in time to the late 1960s
-   and found Terry Gilliam, fresh from doing his weird low-fi
-   collage/animations for Monty Python. You proceeded to inject Gilliam
-   with so many steroids his penis shrank to the size of a hair
-   follicle, and you smushed a dozen tabs of LSD under his tongue. And
-   then you gave him the GDP of a few sub-Saharan countries. Gilliam
-   might have made a movie not unlike this one.
+    Transformers: ROTF has mostly gotten pretty hideous reviews, but
+    that's because people don't understand that this isn't a movie, in
+    the conventional sense. It's an assault on the senses, a barrage of
+    crazy imagery. Imagine that you went back in time to the late 1960s
+    and found Terry Gilliam, fresh from doing his weird low-fi
+    collage/animations for Monty Python. You proceeded to inject Gilliam
+    with so many steroids his penis shrank to the size of a hair
+    follicle, and you smushed a dozen tabs of LSD under his tongue. And
+    then you gave him the GDP of a few sub-Saharan countries. Gilliam
+    might have made a movie not unlike this one.
 
 In short, read this review; ignore the other reviews; go see
 Transformers 2; get overstimulated; and enjoy the culmination of all

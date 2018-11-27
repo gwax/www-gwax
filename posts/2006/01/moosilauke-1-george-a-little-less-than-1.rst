@@ -16,7 +16,7 @@ Mountains today. Taking a hike struck me as a good way to spend some
 time and try out my new snowshoes (Xmas loot, kind of). I was looking
 through my list of good hikes that I want to take and I decided to try
 to get up Mount Moosilauke (there's debate between whether it's
-pronounced to rhyme with rock or rocky, but I prefer ponouncing it as
+pronounced to rhyme with rock or rocky, but I prefer pronouncing it as
 though it ends in uh). The plan was to set out around 7a today, get to
 trailhead around 10a, reach summit before 5p, turn around, camp at
 sunset and finish up tomorrow. That I'm writing this now means I

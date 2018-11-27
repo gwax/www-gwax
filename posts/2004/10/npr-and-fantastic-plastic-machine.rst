@@ -10,6 +10,6 @@ As a follow up to a previous entry `NPR and The Flaming
 Lips <link://slug/npr-and-the-flaming-lips>`__,
 today I heard a portion of a Fantastic Plastic Machine song during one
 of the short interludes on NPR. Once again, I am thoroughly pleased by
-NPR's ecclectic musical tastes. In case it varies from NPR station to
-NPR station, I am refering to WBUR 90.9FM, broadcast out of Boston
+NPR's eclectic musical tastes. In case it varies from NPR station to
+NPR station, I am referring to WBUR 90.9FM, broadcast out of Boston
 University in Massachusetts.

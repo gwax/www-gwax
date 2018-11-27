@@ -6,9 +6,9 @@ I need more robotic arms
 :tags: movies & tv
 
 I saw Revenge of the Sith (Star Wars: Episode III) today and it gave me
-a thought that Spiderman 2 gave me: I am decidely lacking in the four
+a thought that Spiderman 2 gave me: I am decidedly lacking in the four
 robotic arms department. Aside from that, it was a fairly pretty movie
-with amuzing fighting and special effects. As far as plotskis go, it's
+with amusing fighting and special effects. As far as plotskis go, it's
 pretty much a linear interpolation between the end of Attack of the
 Clones (Star Wars: Episode II) and the beginning of Star Wars (Star
 Wars: Episode IV).

@@ -6,7 +6,7 @@ I stole figures from Hippo
 :updated: 2005-09-21 15:46:11+00:00
 :tags: this blog
 
-|dancing hippo| It occured to me, while looking at `Hippo's
+|dancing hippo| It occurred to me, while looking at `Hippo's
 blog <http://fluxion.mit.edu/blog/>`__ that I would do well to add the
 ability to have pictures accompany my blog entries. It's not that I have
 any good pictures to add right now, but at some point I might. Now, I

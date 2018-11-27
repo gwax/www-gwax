@@ -19,7 +19,7 @@ Grenadine
 ---------
 
 A pomegranate syrup that adds a sweet tartness to drinks and a distinctive
-red color.  Noteable in small quantities in a great many drinks and also as
+red color.  Notable in small quantities in a great many drinks and also as
 the second ingredient in a Shirley Temple, a drink the actress was apparently
 never fond of.
 

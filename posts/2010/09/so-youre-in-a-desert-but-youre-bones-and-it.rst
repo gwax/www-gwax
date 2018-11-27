@@ -41,7 +41,7 @@ overheard me say, "so you're in the desert, but you're bones, and it
 grows." This phrase so intrigued me that I decided that it must be my
 pitch.
 
-My ptich went a little something like this:
+My pitch went a little something like this:
 
 Me: "I'm not entirely clear on some details since a lot of this was
 related to me by a friend who heard me rambling in my sleep. However to

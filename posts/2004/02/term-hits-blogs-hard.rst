@@ -7,6 +7,6 @@ Term hits blogs hard
 :tags: blogs
 
 I know that I made a snide comment recently about people not updating
-their blogs enough and now I'm gnawwing on my foot (or at least it's in
+their blogs enough and now I'm gnawing on my foot (or at least it's in
 my mouth). Turns out term hits blogs pretty hard; everyone is updating
 less and less frequently.

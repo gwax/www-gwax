@@ -40,7 +40,7 @@ than himself. This of course will be great when I get off my lazy ass
 and hunt down some other fish for him to eat. I would have done so
 before, but difficulty arises in that many fish carry dangerous
 parasites and the feeder fish at the local PetCo™ carry fatal ones to
-oscars. He does eat sushi, leftover Chinese, hotdogs and all sorts of
+oscars. He does eat sushi, leftover Chinese, hot dogs and all sorts of
 other such things.
 
 All in all, I'm quite fond of Tickles and very glad that I got him.

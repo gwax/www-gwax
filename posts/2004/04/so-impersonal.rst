@@ -11,11 +11,11 @@ thinking about this whole blog thing and I don't really know which way I
 want to take things.
 
 There have been a few entries in which I related things that weren't
-wholely impersonal and I remember feeling a little apprehensive after
+wholly impersonal and I remember feeling a little apprehensive after
 having posted them. My apprehension must stem from the same damned place
 that my aversion to saying anything about how I feel to anyone. I know
 that some part of it is a fierce desire to do absolutely everything on
-my own, which is, itself, a combination of a desire for independance and
+my own, which is, itself, a combination of a desire for independence and
 not wanting to impose on anyone else.
 
 Methinks, from a cathartic and self-improving standpoint, that my desire

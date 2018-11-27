@@ -38,7 +38,7 @@ bike that I chose to buy is a Cannondale Jekyll 600 in grey and black
 and I have so far been quite pleased with it. The bike has front and
 rear shocks, disk brakes and a bunch of other nice features. Having
 heard from my friend Riad that rear shocks serve to soak up a portion of
-the riding energ, I was hesitant to get rear shocks, but my particular
+the riding energy, I was hesitant to get rear shocks, but my particular
 brand of shock includes a lock-out feature that allows the shock to be
 disabled in the case that a long ride on flat terrain is expected. I'm
 totally psyched about my new bike, it's pretty much the bike that I've

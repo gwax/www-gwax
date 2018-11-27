@@ -15,10 +15,10 @@ fun sailing this summer.
 As any good (superstitious) sailor knows, it's bad luck to rename a boat
 so I have two options: keep the old name or perform a complex de-naming
 ceremony. I did some reading about de-naming ceremonies, which range
-from spilling champagne while invoking poseidon to sailing backwards
+from spilling champagne while invoking Poseidon to sailing backwards
 across the equator, and some thinking about the boats current name,
-Synchronicity. Having done the thinking, comparison and superstitious
-sould searching, I have decided that sticking with the current name,
+Synchronicity. Having done the thinking, comparison, and superstitious
+soul searching, I have decided that sticking with the current name,
 which it has held for 18 years, is a good one. Synchronicity is a term
 defined by the psychologist Jung to mean a meaningful coincidence. Also,
 it's a pretty and powerful name, carefully written on her side.

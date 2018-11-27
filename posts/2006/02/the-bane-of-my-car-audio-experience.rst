@@ -7,7 +7,7 @@ The Bane of my Car Audio Experience
 :tags: vehicles
 
 |Ford Factory Amp| |Ford Factory Amp (open)| Today I tore apart the trim
-on the passenger side of my truck, and ripped out the God foresaken
+on the passenger side of my truck, and ripped out the God forsaken
 "Premium Audio" factory installed amplifier. The factory amp has long
 been the bane of my truck's stereo system for a very long time now. The
 number of problems I can blame on that stupid amp are many and I won't

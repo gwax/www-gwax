@@ -25,7 +25,7 @@ around with me and was eventually accosted by an officer of the law. The
 officer said something very much akin to, "What the Hell are you doing
 wandering around with a huge rifle like that for?" Making the safe
 assumption that this officer knew nothing of the White Elephanoceros, I
-carefully explained that one of my firends was in grave danger and I
+carefully explained that one of my friends was in grave danger and I
 needed to protect him from a very large white elephant (on first
 inspection you cannot tell that it is an elephanoceros so I simplified
 the description). Surprisingly, the officer responded by telling me that
@@ -51,7 +51,7 @@ prevent or cause that future from coming about. A slightly less popular
 theory proposed that advanced predictions had been run to generate the
 list (a la Foundation Series). There were, of course, other lesser
 theories but the common theme was that the White Elephanoceros was
-carrying out targetted killings to manipulate the future. The discussion
+carrying out targeted killings to manipulate the future. The discussion
 then turned to the matter of the ethics of interfering with the White
 Elephanoceros; if he was enacting the planned will of a superior system,
 my interference would inevitably cause more harm than good. If the White
@@ -60,7 +60,7 @@ would be the doom of us all. The discussion was quite lengthy and ended
 with disagreement between myself and the officer. The officer believed
 took the fate approach, figuring it unreasonable to alter the proper
 course of events, whereas I don't see the ends justifying the means.
-Being a reasonable man, the officer said that inspite our disagreement,
+Being a reasonable man, the officer said that in spite our disagreement,
 my actions were mine to make and he wished me the best of luck in
 whatever I decided to do.
 
