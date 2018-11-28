@@ -6,7 +6,7 @@ Unsticking Stuck LCD Pixels: A Script
 :updated: 2011-03-01 00:45:39+00:00
 :tags: progging
 
-As I `just recently </2009/12/04/unsticking-stuck-lcd-pixels-redux/>`__
+As I `just recently <link://slug/unsticking-stuck-lcd-pixels-redux>`__
 suggested I might do, I have made a script for automatically generating
 color cycling animations of arbitrary sizes and speeds.
 

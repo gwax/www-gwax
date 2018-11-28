@@ -26,7 +26,7 @@ before further reviewing.
 After eventually leaving Texas, I entered Louisiana, which is so very
 full of swampland as to be quite impressive. I first drove across
 properly immense swamplands during my `2005 trip to
-Florida </2005/01/01/adventures-to-the-south/>`__ and those swamps had
+Florida <link://slug/adventures-to-the-south>`__ and those swamps had
 nothing on Louisiana. The amount of water is both beautiful and
 staggering. Anyway, working my way across Louisiana, I eventually hit
 New Orleans. I drove through New Orleans and made my way for the tip of

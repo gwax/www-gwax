@@ -21,7 +21,7 @@ like to give stability a try for a while.
 
 The new year, of course, also means new resolutions and checking on how
 well old ones turned out. For reference, you might wonder what I
-`resolved last year </2007/01/02/out-with-2k6-and-in-with-2k7/>`__.
+`resolved last year <link://slug/out-with-2k6-and-in-with-2k7>`__.
 Glancing back on the list, which of course I forgot, I can happily
 report that I have gotten better at faking extroversion, faking an alpha
 type personality, started eating healthier and played more video games;

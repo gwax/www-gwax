@@ -7,7 +7,7 @@ Unsticking Stuck LCD Pixels (Redux)
 :tags: waksman
 
 My previous article on `Unsticking Stuck LCD
-Pixels </2006/01/03/unsticking-stuck-lcd-pixels/>`__ having been rather
+Pixels <link://slug/unsticking-stuck-lcd-pixels>`__ having been rather
 a hit and having been asked for an alternate gif image, I figured I
 should revisit the topic briefly.
 
@@ -32,4 +32,4 @@ So, if my original images don't serve your purposes, go grab a copy of
 these gif images)
 
 **UPDATE:** Apparently, `I was sufficiently
-ambitious </2009/12/08/unsticking-stuck-lcd-pixels-a-script/>`__.
+ambitious <link://slug/unsticking-stuck-lcd-pixels-a-script>`__.

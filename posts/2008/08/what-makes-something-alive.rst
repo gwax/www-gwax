@@ -40,7 +40,7 @@ software that simulates yeast at an atomic level, is that piece of
 software alive?
 
 Of course, already following `pathetic and weakly emergent
-hylopathism </2007/04/14/dinosaur-comics-helped-me-find-my-philosophy/>`__,
+hylopathism <link://slug/dinosaur-comics-helped-me-find-my-philosophy>`__,
 I'm of the opinion that every example I've given, from enzyme to yeast,
 from lathe to myself, is alive. My hylopathic view of aliveness,
 however, is quite at home coexisting with conceptions of other people's
