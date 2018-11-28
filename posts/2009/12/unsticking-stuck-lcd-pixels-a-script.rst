@@ -11,14 +11,14 @@ suggested I might do, I have made a script for automatically generating
 color cycling animations of arbitrary sizes and speeds.
 
 The script can be used at:
-`http://blog.gwax.com/files/rgbanim.php </files/rgbanim.php>`__
+`http://blog.gwax.com/files/rgbanim.php <link:///rgbanim.php>`__
 
 The script accepts the parameters height, width, and delay, so it can
 also be used in more interesting ways. Feel free to play around (if you
 crash it, let me know).
 
 Ex.:
-`http://blog.gwax.com/files/rgbanim.php?width=100&height=100&delay=7 </files/rgbanim.php?width=100&height=100&delay=7>`__
+`http://blog.gwax.com/files/rgbanim.php?width=100&height=100&delay=7 <link:///rgbanim.php?width=100&height=100&delay=7>`__
 
 Or, better still:
 

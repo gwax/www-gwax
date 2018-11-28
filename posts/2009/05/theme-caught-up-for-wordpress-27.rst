@@ -13,4 +13,4 @@ possible.
 Other than changing two lines of functions.php, everything is
 accomplished using CSS.
 
-If you want it, you can `grab my theme </files/gwax.zip>`__.
+If you want it, you can `grab my theme <link:///gwax.zip>`__.
