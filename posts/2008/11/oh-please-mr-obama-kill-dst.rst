@@ -11,7 +11,7 @@ I've been irked at President-elect Obama since he voted in favor of
 but now I hear that he might `kill daylight savings
 time <http://www.greendaily.com/2008/11/21/obama-looks-to-axe-daylight-time-nyt-explains-why/>`__.
 Now, you may recall that I `passionately loath daylight savings
-time </2008/03/09/abolish-daylight-savings-time/>`__ and abolishing it
+time <link://slug/abolish-daylight-savings-time>`__ and abolishing it
 would shift Mr. Obama closer to my good side. Mind you, not screwing
 with my time twice a year does not quite make up for giving away my
 rights but it is a small step in the right direction.

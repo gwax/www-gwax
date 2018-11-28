@@ -8,7 +8,7 @@ Recollections on a Vegas Christmas
 It's been a bit over a month since my brother and I drove to Vegas to
 spend Christmas weekend (plus a few days) with the rest of our family
 (who flew out). I was being lazy but it seems that I'm `getting called
-out </2010/12/26/sanfran-to-vegas-on-one-tank-or-exactly-why-i-love-my-car/#comment-17666>`__
+out <link://slug/sanfran-to-vegas-on-one-tank-or-exactly-why-i-love-my-car#comment-17666>`__
 so here are my major recollections.
 
 **The water :** The water in Vegas tastes terrible and is no good for

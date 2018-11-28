@@ -7,7 +7,7 @@ Will O' The Wisp
 :tags: cocktails, recipes
 :category: recipes
 
-Continuing `my earlier work </2010/10/28/ironhide-cocktail-recipe/>`__
+Continuing `my earlier work <link://slug/ironhide>`__
 in the realm of mixology, I would like to present my second cocktail
 invention. The invention of this cocktail is the result of playing
 around with gin,

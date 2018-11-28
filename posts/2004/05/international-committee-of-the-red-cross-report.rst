@@ -12,7 +12,7 @@ copy of the `Report of the International Committee of the Red Cross
 (ICRC) on the treatment by the Coalition forces of prisoners of war and
 other protected persons by the Geneva Conventions in Iraq during arrest,
 internment and
-interrogation </icrc_iraq.pdf>`__.
+interrogation <link:///icrc_iraq.pdf>`__.
 The thing has a long title, but I wanted to put it all in there so that
 there was no bullshitting around. Suffice it to say, this isn't pretty.
 I'm sure that most of you out there know that the Geneva Conventions say
