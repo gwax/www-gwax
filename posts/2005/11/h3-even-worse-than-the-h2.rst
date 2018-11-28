@@ -16,7 +16,7 @@ example of what I saw on the H3: on the back right of the thing, I saw a
 thick metal ring of the sort that you could hook chains to so as to pull
 a heavy load but when I looked for a matching ring on the left, I saw
 the license plate, which means the one on the right must be ornamental.
-How retarded is the idea of an ornamental heavy towing ring? It's not a
+How dumb is the idea of an ornamental heavy towing ring? It's not a
 nice or classy ornament; it basically just says, "when you look at my
 truck I want you to think that I'd like to be able to tow really heavy
 stuff but will never actually have any desire to do so". This whole SUV

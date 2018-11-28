@@ -23,7 +23,7 @@ they're thinking of including a video game service. Thankfully, they
 seem aware of the fact that they have no chance of competing with the
 likes of Microsoft, Sony or Nintendo and seem to be looking into making
 a service based on older games and simpler games. Personally, I think
-that it's a retarded idea that's going to fail miserably because the
+that it's a dumb idea that's going to fail miserably because the
 only people that want to play older games already do so with old
 consoles or with emulators. So that's what they're planning and if they
 wanted to, they could pay me $100k and I'd write up a great big document

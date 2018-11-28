@@ -12,4 +12,4 @@ need food and gas for the car.
 
 All gas stations in New Jersey are full service; this is slow,
 inefficient and stupid. I am waiting in a fucking line of cars to get
-gas! It's so retarded.
+gas! It's so dumb.
