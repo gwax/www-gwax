@@ -29,7 +29,7 @@ Mornington Crescent is a game devised by the BBC radio show `I'm Sorry I
 haven't a Clue <http://www.bbc.co.uk/comedy/clue/>`__. The game is
 either easy or hard, depending on whether you get what's going on or
 not. The object is fairly simple: be the first to get Mornington
-Crescent station. Mornington Crescent is a throughly playable game, as
+Crescent station. Mornington Crescent is a thoroughly playable game, as
 long as you have some creativity, a sense of humor and know how the game
 works. In order to learn a bit about the game, take a look at
 `Mornington Crescent Illustrated with Expert

@@ -8,9 +8,9 @@ Predictions for Iraq
 
 I caught a bit of the coverage of Saddam Hussein's trial this morning on
 NPR on my way to work and it led me to formulate a prediction for Iraq's
-future. The most interesting part of what I caugt was that, today,
+future. The most interesting part of what I caught was that, today,
 Hussein asked that he alone be held accountable for the actions of his
-regime and that the other defendants be acquited. To some Hussein's
+regime and that the other defendants be acquitted. To some Hussein's
 request might seem like a noble effort but I'm inclined to suspect that
 Hussein is a fairly clever guy with ulterior motives. My prediction is
 this, Saddam Hussein will try to get his accomplices off and be

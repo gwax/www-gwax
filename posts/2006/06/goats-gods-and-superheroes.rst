@@ -8,7 +8,7 @@ Goats, Gods and Superheroes
 
 Back in the day, there was a Norse God who went by the name of Thor.
 This Thor fellow was a mighty guy, in charge of thunder, and he wielded
-a magical war hammer that went by the name of Mjolnir. Thor travelled
+a magical war hammer that went by the name of Mjolnir. Thor traveled
 around in a cart that was drawn by a couple of magic goats that went by
 the names of Tanngrisnir (tooth-grinder) and Tanngnjóstr
 (tooth-gnasher). Thor spent much of his time hunting frost giants, going

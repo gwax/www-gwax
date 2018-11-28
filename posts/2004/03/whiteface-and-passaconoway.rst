@@ -28,7 +28,7 @@ Whiteface, which has a great view south and is mostly just a rock face
 (probably where the mountain name comes from). From there I proceeded
 across the real summit and over to Passaconoway. I started up the last
 bit of Passaconoway at about 4:30p and then stopped at Camp Rich (just a
-snow covered tentsite) at about 5:00p. I dropped anchor, so to speak,
+snow covered tent site) at about 5:00p. I dropped anchor, so to speak,
 and hopped in my sleeping bag for a long night. I'm not quite sure why
 but I wasn't able to sleep and at around 2:00a I decided to go on. It
 was a full moon so there was plenty of light to go by, and I had a

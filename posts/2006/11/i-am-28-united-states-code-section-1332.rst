@@ -16,7 +16,7 @@ may think that you're strange, and they try to minimalize your effects
 by requiring an amount in controversy and by being especially strict on
 the requirements for diversity. Also, attorneys often use you for "forum
 shopping" and other undesirable behavior. But there's no getting around
-the fact that you're so darned loveable! Your delightful quirkiness
+the fact that you're so darned lovable! Your delightful quirkiness
 entertains friends and law professors alike, and although others may
 grumble about your eccentricities behind your back, they're always
 talking about you, so you must be doing something right. Let's face it,

@@ -31,9 +31,9 @@ rental store and a toy store all in one.
 
 All of the sudden, the room got darker and all of the walls fell away to
 reveal that what had been the store was really just a front for a huge
-catedral like building with the store as a little metal frame in the
+cathedral like building with the store as a little metal frame in the
 center. I didn't really know what was going on, except for that I seemed
-to have stumbled upon a strange gothic cult, which the shop clerk seemed
+to have stumbled upon a strange Gothic cult, which the shop clerk seemed
 to be the leader of. It was a very large cult, and the cathedral seemed
 to have stadium seating around the central metal frame (kind of like a
 cube with metal edges and no sides). Some people started moving towards
@@ -80,7 +80,7 @@ library in the world and it can be entered from what appear to be all of
 the other Islamic library building in the world (I really can not stress
 how very big this place was and with all sorts of magical links and
 shortcuts). I noticed spectacular piece of cloth and asked the attendant
-what it was, only to receive the respone that since I had touched it, it
+what it was, only to receive the response that since I had touched it, it
 would have to be destroyed. I tried to argue against its destruction on
 the grounds that it was one of the most beautiful things to have every
 graced the universe, but the attendant steadfastly maintained that since

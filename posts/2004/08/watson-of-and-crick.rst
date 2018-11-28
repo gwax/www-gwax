@@ -25,7 +25,7 @@ went home with was probably not your wife." He is, of course, discussing
 parties in Woods Hole of his youth and is probably admitting to
 fornication and not to adultery. Incidentally, if you can picture the 76
 year old, co-discoverer of DNA making this remark, imagine the response
-of a hige crowd of educated people.
+of a huge crowd of educated people.
 
 It was a good talk, and there are more important and insightful ways in
 which I could discuss it, but I'd rather not because plenty of other

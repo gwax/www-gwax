@@ -13,7 +13,7 @@ are in order for my good friend Rob Malchow who recommended the book to
 me this past summer.
 
 The book is a present day (as of the writing 30 years ago) science
-fiction about interwoven conspiracies, poltics, myteries, mysticisms and
+fiction about interwoven conspiracies, poltics, mysteries, mysticism and
 occultism. The tone ranges from thoroughly lucid to completely absurd
 and jumps around too fast, too slow and at the right pace all at once.
 You will think that you know what's going on when you do not and vice

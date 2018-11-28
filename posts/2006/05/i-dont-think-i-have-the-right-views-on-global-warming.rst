@@ -16,7 +16,7 @@ causing sea level to rise twenty feet and I had the instant thought that
 when ("if" if you want to be an optimist) global warming really kicks
 in, I'll have to get a bigger boat. Seriously, if there's apocalyptic
 flooding, I'll just pull a Kevin Costner in Waterworld, except without
-the gills, nautical inaccuaracies or that whole pariah thing.
+the gills, nautical inaccuracies or that whole pariah thing.
 
 Somehow, I think the point was to get me to be scared and start fighting
 against global warming not get me to think about boats. Oops.

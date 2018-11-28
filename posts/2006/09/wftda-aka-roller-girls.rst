@@ -12,7 +12,7 @@ a complete convert. The sport works a bit like this: a bunch of girls on
 rollerskates (the four-wheeled kind) skate around a track and each team
 has one scoring girl (called the jammer) who gets a point for every time
 she laps someone. The rest of the team tries to help their jammer get
-around and prevent the oposing jammer from passing; now, when I say
+around and prevent the opposing jammer from passing; now, when I say
 "tries to help", I mean by blocking, checking and generally abusing the
 other team. If you want a complete description of how things work check
 out the `WFTDA home page <http://www.wftda.com/>`__ but, basically, it's

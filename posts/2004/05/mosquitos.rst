@@ -1,18 +1,18 @@
-Mosquitos
-=========
+Mosquitoes
+==========
 
-:slug: mosquitos
+:slug: mosquitoes
 :date: 2004-05-12 07:08:00+00:00
 :updated: 2006-06-09 16:18:27+00:00
 :tags: musings
 
 I love spring and almost everything that it has to offer, but there is
-one thing about spring that I simply abhor: mosquitos. There was once a
+one thing about spring that I simply abhor: mosquitoes. There was once a
 time when the little buggers didn't bother me, though I don't know if
 that was truly the case or is simply the way that I remember it. Life is
 a funny thing when you think about all the things that you have done and
 that at one time it was the present. No, life's not funny, time is. I
-was originally going to write about the seasons and mosquitos but I
+was originally going to write about the seasons and mosquitoes but I
 think that I'd rather wax philosophical about time, so I'm going to.
 
 About the only thing that any of us can say about time is that it
@@ -34,7 +34,7 @@ choose one so I went with being but then realized that reality was a
 better one and changed it after I finished this parenthetical
 explanation [I also changed the tense of the second word of the greater
 parenthetical from want to wanted because that tense seemed more
-appropriate once I had finished]). I appologize if you found the
+appropriate once I had finished]). I apologize if you found the
 parenthetical of the previous sentence to be cumbersome, but, when I get
 myself thinking about time, I can get recursive like that. In the case
 of most dualities it is possible to see things from either one of the
@@ -47,7 +47,7 @@ from the other side of the duality.
 
 There is a part of me that would like to know what it is to see the
 present as something that always is, if it was even for just a brief
-moment. There is another part of me, a stonger part of me, that worries
+moment. There is another part of me, a stronger part of me, that worries
 that if I ever experienced such a moment it would be so spectacular that
 I would spend the rest of my life seeking to relive it. That last
 sentence made me wonder something perhaps a little more frightening, if
@@ -57,4 +57,4 @@ passed or it might be too glorious to ever return. Of course, it's
 probably better not to be frightened by the idea, but it's probably good
 not to search for it either.
 
-So, in short, time's funny and I have a real distate for mosquitos.
+So, in short, time's funny and I have a real distaste for mosquitoes.

@@ -9,7 +9,7 @@ Introductions all around
 |Mr. Tickles| I don't know that I've actually gone through the proper
 introductory things between the two of you, so here goes. Internet, meet
 Mr. Tickles; Tickles, meet the internet. There, that's not so bad now is
-it. I'm sure that you'll make great friends, afterall you see me at the
+it. I'm sure that you'll make great friends, after all you see me at the
 internet enough Tickles, and you don't really give a damn about anything
 internet.
 

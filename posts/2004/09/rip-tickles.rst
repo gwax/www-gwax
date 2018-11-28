@@ -17,7 +17,7 @@ remember the time you bit Kurt. I will remember how you would eat
 guppies with such glee when you were given the opportunity. I will
 remember how you would watch me at my computer. I will remember how you
 would swim around so excitedly at feeding time. I will remember how you
-would change colors so subtlely, confounding me until I realized that
+would change colors so subtly, confounding me until I realized that
 you could change colors. I will remember your ability to be constantly
 larger than you had been before. I will miss you Tickles.
 

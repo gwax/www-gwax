@@ -20,7 +20,7 @@ gas at the same gas station as much as absolutely possible.
 
 I started my testing with 1/4 cup acetone per 15 gallon tank
 (~1.3oz/10gal), using acetone from a 1 gallon container of pure acetone
-that I bought at Wal-Mart for the purposes of this experiment. Using the
+that I bought at WalMart for the purposes of this experiment. Using the
 same acetone, I stepped up to 1/3 cup acetone per 15 gallon tank
 (~1.8oz/10gal) and continued to have no problems. I'm planning to step
 up to 1/2 cup per 15 gallon tank (~2.7oz/10gal) before I start doing my

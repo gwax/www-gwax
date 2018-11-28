@@ -14,7 +14,7 @@ and ending in mediocrity with the Rebirth mini-series (aka. Season 4).
 Seasons 3 and 4 suffered from an excess of commercialization in that the
 show seemed to be pushing half a dozen new toys every few episodes. The
 same commercialization could be seen in the first 2 seasons but was done
-with more sublety and background.
+with more subtlety and background.
 
 My complaints about Seasons 3 and 4 aside, I still found the overall
 experience quite enjoyable and recommend it for the die hard fans.

@@ -6,7 +6,7 @@ Agog I Tell You, Agog
 :updated: 2005-09-21 21:00:38+00:00
 :tags: video games
 
-I don't know whether to get on the Playstation 3 or Xbox 360 bandwagon
+I don't know whether to get on the PlayStation 3 or Xbox 360 bandwagon
 and it's not because they both look great, it's because neither of them
 stands out. I swear, it's like a modern election. I'm pleased by my Xbox
 because of its incremental graphical improvements since my Dreamcast and
@@ -15,7 +15,7 @@ anything terribly revolutionary since the NES. The video game industry
 has been stuck in a rut of incremental improvements and minor new
 gameplay features. The Xbox 360 is turning more into a PC, which
 aggravates me because I already have a PC and I don't like the idea of a
-modular console. The Playstation 3 makes me think of a movie industry
+modular console. The PlayStation 3 makes me think of a movie industry
 parallel, sequels tend to turn out great, sometimes better than the
 first but the third in a series usually tends to go downhill: ignoring a
 few decent trilogies, look at the Terminator, RoboCop, Predator and

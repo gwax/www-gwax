@@ -5,7 +5,7 @@ Zen good, Buddhism bad
 :date: 2004-03-25 04:36:00+00:00
 :tags: musings
 
-So I've been thinking (oooh, dangerous) a lot lately and in reading
+So I've been thinking (ooh, dangerous) a lot lately and in reading
 Hagakure I got pointed towards Zen. Zen seems like a pretty neat concept
 and it seems to have some things in common with the way that I already
 think (I certainly don't claim to understand Zen, but I've got a little
@@ -46,14 +46,14 @@ that Buddhism, just like all other religions will try to convert you,
 even though it uses very different methods than many other religions and
 once converted it will try to hold you and keep itself alive. Remember,
 what I said at the beginning of this paragraph, religions are strong
-ideas, many have been alive and evolving for millenia.
+ideas, many have been alive and evolving for millennia.
 
 So to use a bad analogy, my idea system was just chilling with its good
 friend Samurai history and Samurai history said, hey let me introduce
 you to my good friend Zen. My idea system and Zen hit it off pretty
 well, and are trying to get to know each other a little better. Zen was
 introducing my idea system of some of its friends, like Buddhism, and my
-idea system initally liked Buddhism, kind of cool guy. Then Buddhism
+idea system initially liked Buddhism, kind of cool guy. Then Buddhism
 started to get on my idea systems nerves and my idea system was all
 like, I just want to be friends. My idea system and Zen are still seeing
 each other and maybe things will work out for them, they're still in

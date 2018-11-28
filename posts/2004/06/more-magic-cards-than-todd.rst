@@ -10,7 +10,7 @@ More Magic Cards than Todd
 collectible card game known as Magic: The Gathering. My fondness of the
 game lasted a number of years until the game took what I considered to
 be a turn towards mediocrity, at which point I stopped purchasing new
-cards and, having a sizeable collection, took up a policy of reusing my
+cards and, having a sizable collection, took up a policy of reusing my
 existing cards to play with friends that had also once played (this was
 quite a few years ago, perhaps 1997 or 1998). I still keep up the fun of
 playing with friends every so often. I have had the lucky fortune of, so

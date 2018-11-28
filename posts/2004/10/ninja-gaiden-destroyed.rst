@@ -8,7 +8,7 @@ Ninja Gaiden: Destroyed
 As of a day or so ago, I have finally destroyed the heck out of Ninja
 Gaiden. I have collected all 50 Scarabs to unlock the original Ninja
 Gaiden and I have shot the clock tower to get Ninja Gaiden II and found
-Ninja Gaiden III in the Aquaduct. It has been a long time coming and it
+Ninja Gaiden III in the Aqueduct. It has been a long time coming and it
 is now done. Of course, I did beat the game on normal difficulty so I
 may, sometime far off, end up playing through again and beating it on a
 harder difficulty.

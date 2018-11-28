@@ -9,7 +9,7 @@ New Car; more of a truck I guess
 Today I bought a new vehicle, specifically a 1993 Ford Explorer XLT.
 It's a half-decent vehicle with some minor problems but as far as I'm
 concerned the price was very right ($2k). Tomorrow, I'm going to play
-the look at my vehicle's innerds game and try to move it from
+the look at my vehicle's innards game and try to move it from
 half-decent to good condition.
 
 Now, when I say that it's more of a truck than a car, that's because, as

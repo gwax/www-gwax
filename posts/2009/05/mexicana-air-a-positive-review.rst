@@ -9,7 +9,7 @@ Mexicana Air, a positive review
 As I write, I am sitting in seat 20E on a Mexicana Airbus A318 en route
 from San Francisco to Mexico City. It is 9:30a; I am writing on my Nokia
 N810 (a device, which I will have to tell you of some other time); I
-have just consumed a wholely decent omelette; and, I it is my intention
+have just consumed a wholly decent omelette; and, I it is my intention
 to publish this as soon as I next encounter Internet access. The
 omelette has arrested my attention and is what prompted this post.
 

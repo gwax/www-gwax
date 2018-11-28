@@ -9,7 +9,7 @@ V for Vendetta
 I went to see V for Vendetta with some folks earlier tonight and I came
 away with one pedantic criticism and a simple analysis:
 
-*Pedantic Criticism:* In the fight scene, near the end, when everthing
+*Pedantic Criticism:* In the fight scene, near the end, when everything
 else is running in slow-motion, the blood spurting out of people is
 spurting at regular speed.
 

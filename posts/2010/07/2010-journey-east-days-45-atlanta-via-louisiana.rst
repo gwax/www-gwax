@@ -57,5 +57,5 @@ day. Matt returned in the early evening; we and his roommates spent a
 while hanging-out; and now, everyone else having gone to bed, I write
 this before following.
 
-Tomorrow, we make for Massachusetts, likely puasing (very briefly) in
+Tomorrow, we make for Massachusetts, likely pausing (very briefly) in
 New York along the way.

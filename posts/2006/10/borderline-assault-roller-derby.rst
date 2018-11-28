@@ -10,7 +10,7 @@ the first one. Last nights derby saw our Minnesota Rollergirls facing
 off against the Dairyland Dolls of Madison, Wisconsin. For a number of
 reasons, this matchup was substantially more interesting than last
 times; specifically, the Dairyland Dolls are a team on par with ours,
-wheras the previous encounter was strongly in our favor and Minnesota
+whereas the previous encounter was strongly in our favor and Minnesota
 has a bit of a rivalry with Wisconsin, a rivalry which I have started
 buying into in my time here. I am also developing a more refined
 appreciation for the joy that is roller derby. I freely admit that the

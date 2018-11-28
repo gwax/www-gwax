@@ -18,7 +18,7 @@ potato(es) into the microwave and pushes the potato button, just the
 potato button; one need not set a timer, choose a power level, or even,
 for that matter, push the start button. Some number of minutes after
 pushing the potato button, any raw potatoes one has inserted will emerge
-as baked potatoes (or a fantastically good faximile thereof).
+as baked potatoes (or a fantastically good facsimile thereof).
 
 The glory of the potato button comes from the combined technological
 force that is microwaves, heat sensors, microcontrollers capable of

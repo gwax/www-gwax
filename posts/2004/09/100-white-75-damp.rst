@@ -7,7 +7,7 @@
 
 Today was a horrible day for me; it started out good and then just went
 downhill real fast come about 5p. The details of why it was a bad day
-are unimportant as I got a great story out of it but sufficie it to say,
+are unimportant as I got a great story out of it but suffice it to say,
 today was REALLY BAD. Just to precurse things, I joined the MIT sailing
 team just a little while ago.
 
@@ -28,7 +28,7 @@ is, incidentally, what my crewman did.
 It's odd the things that you can perceive sometimes, for instance, I
 manged to be acutely aware of the point where just righting the boat
 became futile, almost in the same manner you can catch yourself when you
-start to fall over. In this split second, it occured to me that, since I
+start to fall over. In this split second, it occurred to me that, since I
 was dressed in khaki and white as I often am, I really didn't want to go
 in the Charles (no amount of Goretex pants is going to keep you dry in
 the water). Not wanting to get soaked, I hauled my ass right over the
@@ -39,7 +39,7 @@ the cuffs of my pants. Sadly, I couldn't right the FJ on my own and it
 proceeded to turtle.
 
 I want you to take a moment now to picture what it must have looked
-like; there's an upsidedown boat in the middle of the Charles, one guy
+like; there's an upside down boat in the middle of the Charles, one guy
 swimming next to the boat and another guy standing on top of the boat,
 dry, wearing a button-down shirt under his life jacket. Then I got back
 to trying to right that boat and just tired the Hell out of myself so,

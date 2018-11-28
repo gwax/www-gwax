@@ -1,7 +1,7 @@
-TTC Hapenings
-=============
+TTC Happenings
+==============
 
-:slug: ttc-hapenings
+:slug: ttc-happenings
 :date: 2005-05-08 03:19:10+00:00
 :updated: 2005-05-08 09:32:27+00:00
 :tags: waksman, art & culture, adventures

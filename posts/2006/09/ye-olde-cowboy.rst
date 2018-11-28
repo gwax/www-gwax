@@ -7,10 +7,10 @@ Ye Olde Cowboy
 :tags: adventures
 
 This morning I woke up early to join some 3Ls in hitting up a costume
-shope and going to the Minnesota Renaissance Faire. I should note that
+shoppe and going to the Minnesota Renaissance Faire. I should note that
 the costumes we were looking for were not D&D geek style tights, we were
-looking for giant foam cowboy hats. We proceeeded to spend the day
-wandering around the Faire dressed as charicatures of cowboys, being
+looking for giant foam cowboy hats. We proceeded to spend the day
+wandering around the Faire dressed as caricatures of cowboys, being
 heckled and getting funny looks. We attended a couple of comedy shows
 and ended up being the butt of the vast majority of the audience
 targeted jokes. Basically, we were wandering around making fun of

@@ -37,7 +37,7 @@ ergonomic
 keyboards <http://en.wikipedia.org/wiki/Kinesis_%28keyboard%29>`__,
 which I must agree are really comfortable. The Kinesis keyboard is
 probably the most comfortable and ergonomic keyboard solution that I had
-encountered prior to the jerry-rigged solution that I've just devised
+encountered prior to the Jerry-rigged solution that I've just devised
 (see below). The Kinesis keyboards, however, have the huge disadvantage
 of being really expensive.
 

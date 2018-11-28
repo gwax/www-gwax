@@ -21,7 +21,7 @@ Extracted from their website, their platform is as follows:
 Seeing as they stand for the same things that I stand for and their
 platform and agendas do a good job of addressing the big issues that
 concern me, I think that I might finally have found a reason to stop
-being a registered independant. Also, what could be cooler than to be a
+being a registered independent. Also, what could be cooler than to be a
 registered pirate?
 
 .. |Pirate Party of the United States Logo| image:: /images/posts/parrot_logo_small.jpg

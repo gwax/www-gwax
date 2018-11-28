@@ -13,7 +13,7 @@ order to earn them. I figure chances are pretty good that I'll be
 getting a Ph.D. at some point, which will get me the title "Doctor". I
 figure that I'll have to find a way to get knighted, which will get me
 the title "Sir". I'm also going to have to become a preacher so that I
-can get the title "Reverand". Becoming a judge would get me a "The
+can get the title "Reverend". Becoming a judge would get me a "The
 Honorable" as a prefix. If I can buy or marry myself into some sort of
 lordship, I can get the title "Lord" at the beginning and then some sort
 of fancy suffix like "Duke of someplace-or-other"; however I'm inclined
@@ -24,7 +24,7 @@ other nifty titles that would be great, but I think that I'm pretty far
 along the way to making my point.
 
 The end result of all my work would be that I would officially be The
-Honorable Lord Reverand Doctor Brigadier General Waksman, Duke of
+Honorable Lord Reverend Doctor Brigadier General Waksman, Duke of
 someplace-or-other and that would just be flat out awesome. Oh, and
 think about the letterheads on my stationary.
 

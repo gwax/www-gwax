@@ -56,6 +56,6 @@ been talking about for a while.
 
 So yeah, overall, I am inclined to recommend the *Dances with Wolves*
 meets *Dinotopia* in space movie, otherwise known as *Avatar* but I do
-not recommend it in 3D unless you've got some dramamine to take
-beforehand. Actually, that's an idea; maybe I'll pop a couple dramamine
+not recommend it in 3D unless you've got some Dramamine to take
+beforehand. Actually, that's an idea; maybe I'll pop a couple Dramamine
 and try seeing it again, you know, for science.

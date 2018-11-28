@@ -9,7 +9,7 @@ A Reason Not To Hate DOA
 It turns out there exists a reason not to hate the DOA series of
 fighting games, other than the high quality female chest rendering
 effects that make the 16 year olds oggle. You might be asking, what
-possible reason might a die hard Soul Calibur afficionado, like myself,
+possible reason might a die hard Soul Calibur aficionado, like myself,
 have to like DOA? Well, it turns out that Tecmo's pulled a franchising
 fast one on me and included master ninja Ryu Hayabusa of Ninja Gaiden
 fame in their DOA games. The problem here, of course, is that I didn't

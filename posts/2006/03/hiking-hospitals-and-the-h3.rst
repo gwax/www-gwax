@@ -33,12 +33,12 @@ SUV these days but it's got door panels that are about half a foot thick
 (not exaggerating), the average person will have only an inch or three
 of head room and then the windows are about a foot and a half tall; it
 makes you cramped and claustrophobic; what a waste. Suffice it to say
-that our concurrant view was that the H3 sucks, though our language
+that our concurrent view was that the H3 sucks, though our language
 wasn't so PC.
 
 We managed to get hiking just shortly after 11a and we were making
 fantastic time until we hit the long swathes of steep snow and ice.
-Progress slowed down but we kept truding along and eventually made the
+Progress slowed down but we kept trudging along and eventually made the
 summit of Mount Liberty. The views from the summit were really
 fantastic; we could see everything for hundreds of miles in every
 direction and the snow-covered peaks all over the landscape were really
@@ -63,7 +63,7 @@ shoulder wasn't cripplingly painful and I wasn't going into shock but we
 still had to get off that mountain. The options, of course, were pop
 that sucker back in or bind it, climb down and hit up a hospital and
 since none of us knew how to put a shoulder back in, we opted for the
-altter approach. Going down was fantastically slow because I needed to
+latter approach. Going down was fantastically slow because I needed to
 have someone holding my hand and helping me find places to put my feet
 that were stable enough for me to not fall and close enough that I
 didn't have to spread my legs enough to move my arm. As we were slowly
@@ -77,7 +77,7 @@ Eventually, I was feeling really haggard, stressed and in mental anguish
 but no pain; when we reached the bottom and hopped back in the H3
 (Smalltime had driven 0.6mi up the Franconia Notch bike path to the
 trailhead) suddenly I started noticing how very much my arm did hurt and
-it occured to me that the mental stress was probably the manifestation
+it occurred to me that the mental stress was probably the manifestation
 of the pain behind a wall of adrenaline, endorphins and will to not get
 caught up there at night. At this point, I have to, begrudgingly,
 compliment the H3 again, it fared fantastically well getting us out on

@@ -13,7 +13,7 @@ much I want to have a 30g ball of Osmium, the answer would be "so very
 much". Sadly, a 30g ball would cost just shy of $1000 and I don't have
 that kind of money to spend on precious metals right now. If I had the
 money to spare, you could be sure that I'd have a 5cm diameter button of
-Osmium in my posession within the week. This of course means that I need
+Osmium in my possession within the week. This of course means that I need
 to wait until I have more money and then start buying Osmium buttons.
 
 Apparently Oliver Sacks (the writer and neurologist) collected Iridium

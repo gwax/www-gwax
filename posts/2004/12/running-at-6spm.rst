@@ -19,7 +19,7 @@ swallowing, you get 0; if you're on your 5th cracker when time runs out,
 only 4 count.
 
 Back in the day, some friends and I got together at Quuxfield (Riad,
-Amrys and Rodin's appartment at the time) and amongst other things
+Amrys and Rodin's apartment at the time) and amongst other things
 undertook the challenge. Back then, Riad managed to get 6 down in a
 minute, I was able to get 5 and I think that hippo managed 4.
 

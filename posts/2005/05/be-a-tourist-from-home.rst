@@ -9,7 +9,7 @@ Be a Tourist from Home
 The Internet continues to provide in new and fascinating ways. Already,
 the Internet has made it possible to interact with other human beings,
 get new movies, order food and so much more without leaving home.
-However, it has npt been possible to travel to far off places and see
+However, it has not been possible to travel to far off places and see
 what there is to see; that has changed. With the advent of `Google
 Maps <http://maps.google.com/>`__
 (`Satellite <http://maps.google.com/maps?spn=82.968750,114.960938&t=k&hl=en>`__)
@@ -18,7 +18,7 @@ Sightseeing <http://www.googlesightseeing.com/>`__.
 
 For a few nice sights to start with, try:
 `Bermuda <http://www.googlesightseeing.com/2005/04/22/87/>`__ (check the
-"wave-radiating aperature"), `Forest
+"wave-radiating aperture"), `Forest
 Fires <http://www.googlesightseeing.com/2005/04/25/forest-fire-mega-post/>`__,
 `Hernando Desoto
 Bridge <http://www.googlesightseeing.com/2005/05/20/hernando-desoto-bridge/>`__

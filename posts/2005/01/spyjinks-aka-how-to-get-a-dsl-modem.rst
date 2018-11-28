@@ -6,7 +6,7 @@ Spyjinks (aka How to Get a DSL Modem)
 :updated: 2005-09-23 17:03:20+00:00
 :tags: adventures
 
-I now have a DSL modem for when the DSL to my appartment actually gets
+I now have a DSL modem for when the DSL to my apartment actually gets
 connected. It was a bit of an adventure to get the thing and I will
 explain the technique so that others can obtain DSL modems more
 efficiently.
@@ -23,8 +23,8 @@ efficiently.
 #. Decide that you don't want to take the detour again
 #. Find the break in the barbed wire and hop the fence into the MBTA
    train repair facility
-#. Hide in the shadows while a train snowly backs some cars into a
-   hangar because you are tresspassing
+#. Hide in the shadows while a train slowly backs some cars into a
+   hangar because you are trespassing
 #. Book it across the train tracks
 #. Find a gap in the barbed wire on the other side and hop the fence
 #. Jump down off a big stone wall

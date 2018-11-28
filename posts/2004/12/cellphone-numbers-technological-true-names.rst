@@ -12,7 +12,7 @@ spirit and have power over said spirit. An example you may recognize is
 that of Beetlejuice, saying the name "Beetlejuice" thrice invoked him or
 dismissed him and so on and so forth.
 
-It occured to me recently that a cellphone number is very much
+It occurred to me recently that a cellphone number is very much
 conceptually akin to the mystical concept of a true name. If you have
 someone's cellphone number you can call them anywhere and theoretically
 invoke them as well. You are granted power over an individual by being

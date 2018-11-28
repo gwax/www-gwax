@@ -33,7 +33,7 @@ straight line from point A to point B almost entirely on one road.
 As to my unfortunate return to the land of the single, I consider the
 matter to be one of necessary evils. Kristina and I broke up preceding
 my departure for Minnesota because she didn't much want to be in a long
-distane relationship and, to be frank, neither do I. Between how bad I
+distance relationship and, to be frank, neither do I. Between how bad I
 am about calling people to talk on the phone and how much a relationship
 tends to depend on being in contact with someone, I would expect an
 attempt at a long distance relationship to crash and burn horribly. As

@@ -7,7 +7,7 @@ A few bad little Tremors
 :tags: movies & tv
 
 In my continued policy of watching a whole bunch of movies ranging from
-very good to highly dubious in quality, I justed watched Tremors 2, 3
+very good to highly dubious in quality, I just watched Tremors 2, 3
 and 4, having seen the first many years ago. I can easily say that the
 first one was fun as far as bad horror movies go. Notably though, the
 first one had Kevin Bacon in it. The second and third ones followed the

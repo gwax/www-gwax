@@ -15,4 +15,4 @@ cold too. Oh and it's supposed to keep snowing until tomorrow evening.
 Also, they declared a state of emergency. I love this kind of weather so
 much. Blizzards are the like the bestest things of all.
 
-Also, my sentance constructs are stupid in this post.
+Also, my sentence constructs are stupid in this post.

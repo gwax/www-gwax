@@ -25,4 +25,4 @@ I took this test once a few years ago and last time I scored as INTJ. I
 agreed with that scoring then and I still agree that it is
 representative of who I was a few years ago. Back then, I sure as hell
 wouldn't have seen myself becoming an extrovert or becoming less
-judgemental.
+judgmental.

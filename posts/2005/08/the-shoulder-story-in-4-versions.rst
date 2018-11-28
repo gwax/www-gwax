@@ -8,7 +8,7 @@ The shoulder story in 4 versions
 
 I present, for your amusement, four different versions of how I
 dislocated my shoulder: the short version, the ninja version, the
-timetravel version and the long version.
+time travel version and the long version.
 
 *Short version:* I fell mostly off my boat.
 
@@ -18,7 +18,7 @@ proceeded to spin around, kick the head off the ninja that hit me and
 then finished the remaining two off with a punch through both of their
 chests.
 
-*Timetravel version:* I came back from the future, hit myself in the
+*Time travel version:* I came back from the future, hit myself in the
 shoulder with a wooden bat, said, "You'll thank me later" and returned
 to the future.
 
@@ -45,11 +45,11 @@ how much pain I was in and realized that I was starting to go into
 shock. So, I calmly explained that I was going into shock and asked for
 a life-jacket to use as a pillow. We then managed to hail someone on a
 nearby houseboat and borrow a skiff to motor me to shore. Since they'd
-already called 911, there was a recue crew on shore followed shortly by
+already called 911, there was a rescue crew on shore followed shortly by
 an Ambulance, which took me to Falmouth Hospital. En route and during my
 hour and a half wait in the hospital, I was given a few injections of
 morphine, which did the fantastic job of making my pain only thoroughly
 unbearable instead of mind-destroyingly overwhelming. Then they gave me
-anaesthesia and I woke up in a bed with a sling and less pain. Since
+anesthesia and I woke up in a bed with a sling and less pain. Since
 then the sling has remained and will for another 3 weeks, after which
 point I will be able to start using my left arm again.

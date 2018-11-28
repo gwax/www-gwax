@@ -11,7 +11,7 @@ any New Year's Resolutions, mainly because I tend to be making
 resolutions all the time and I don't have any particular ones that I
 feel like implementing for the specific purpose of the new year.
 
-I spent last evening attending a party at the appartment of a friend of
+I spent last evening attending a party at the apartment of a friend of
 mine. The party was ok and I got to meet some new people and see old
 ones that I had not seen in quite a long time. I got to spend New Year's
 Eve with some of the people that I wanted to spend it with and that's

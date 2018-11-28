@@ -9,9 +9,9 @@ Dreams have flowed like sand down a beach dune
 Something that I have been acutely noticing is that I have had extremely
 vivid dreams every time that I have slept or napped. The dreams have
 been vivid to a degree that might be described as bordering on
-hullucination. I suspect that the dreams have been present on account of
+hallucination. I suspect that the dreams have been present on account of
 the adequacy of the sleep that I have been receiving. I am inclined,
-however, to attribute the vividness to the potency and desication of the
+however, to attribute the vividness to the potency and desiccation of the
 sun and heat. It is, perhaps, as if I had ventured into the desert to
 undertake a vision quest of sorts.
 

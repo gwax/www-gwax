@@ -6,7 +6,7 @@ Like a block of sex
 :tags: food & drink
 
 Rogue Smokey Blue cheese is like a block of sex. I recently found myself
-in the cheese section of one of our fancier local grocersand found
+in the cheese section of one of our fancier local grocers and found
 myself buying cheese, as often happens to me in such situations. One of
 the cheeses that I bought was Rogue Smokey Blue, which I chose because I
 wanted a blue cheese and there was a sign claiming that this particular

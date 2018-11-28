@@ -11,5 +11,5 @@ waste my time for a while.
 
 Oh, by the way, if my banter seems a bit inane and boring, it's probably
 because I just started on this blog thing. So bear with me, it'll
-probably take a little while for the perterbations to work their way out
+probably take a little while for the perturbations to work their way out
 and for me to reach a steady-state.

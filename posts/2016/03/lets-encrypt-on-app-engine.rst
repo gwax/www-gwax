@@ -107,7 +107,7 @@ Finish building the certificate
 
 Now go back and press enter in letsencrypt-auto.
 
-Repeat preparing the challeng/response and pressing enter until you've finished
+Repeat preparing the challenge/response and pressing enter until you've finished
 running through all of your requested domains.
 
 Hopefully you should see a message to the effect of:

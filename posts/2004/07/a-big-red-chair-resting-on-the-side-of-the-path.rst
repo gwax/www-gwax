@@ -12,7 +12,7 @@ resting on the side of the path. I turned around and went back and, as I
 had expected, the big red chair resting on the side of the path was a
 big red chair resting on the side of the path. There wasn't much else to
 do so I put down my bike, removed my helmet, removed my gloves and sat
-down in the big red chair restingon the side of the path for a while.
+down in the big red chair resting on the side of the path for a while.
 One doesn't often find a big red chair resting on the side of the path.
 The big red chair resting on the side of the path was out of place yet
 incredibly appropriate and I was very glad to have encountered it.

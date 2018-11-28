@@ -28,7 +28,7 @@ summit thing, which happens to be a big cliff at the summit. The big
 cliff is pretty spectacular, especially if you've got a mild fear of
 heights, and allows for a great view off to the Northeast and East.
 Since we'd already planned to hit up East Osceola before stopping for
-the sandwichs that we'd purchased in Waterville Valley, we only stopped
+the sandwiches that we'd purchased in Waterville Valley, we only stopped
 for a short while. After Osceola summit, there is a steep and rocky
 descent for a bit, which is then followed by a really steep, rock
 descent for another little bit. It then proceeds to smooth out and start

@@ -14,7 +14,7 @@ grasp from that description, so here's an example.
 
 A: Statement of inquiry.
 
-B: Acknowledgement of inquiry. Vague half-answer meant to divert topic.
+B: Acknowledgment of inquiry. Vague half-answer meant to divert topic.
 
 A: Statement drawing focus to diversion but accepting it and changing
 topic.

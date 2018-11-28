@@ -21,7 +21,7 @@ been in similar situations before and not wanted to go to sleep earlier
 so I can only assume that I'm, in some ways, growing up, which,
 incidentally, is lamer than Thor's goat. I did manage to get past the
 non-functional leg aspects of things and think about parties from a more
-practical standpoint, in which it occured to me that it would have been
+practical standpoint, in which it occurred to me that it would have been
 quite nice if such a party started around 5p or 6p involved cocktails, a
 meal and more cocktails; wait, that sounds an awful lot like a dinner
 party now doesn't it.

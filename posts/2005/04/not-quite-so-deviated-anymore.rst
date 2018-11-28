@@ -13,23 +13,23 @@ precise, for as long as I can remember, my left nostril has, on the
 inside, been this tiny, mostly useless thing. Breathing through my nose,
 I have been able to notice that the vast, vast majority of air travels
 through my right nostril. A number of months ago (Novemberish) it
-occured to me that I could have something done about this condition and
+occurred to me that I could have something done about this condition and
 that I might as well whilst I have my awesome student medical insurance.
 I went in and had a consultation in mid-January and went in for surgery
 this morning. That's the requisite background information.
 
 The so-called background information is actually the real meat of this
-post, now I'm just going to ramble about anasthesia and mild discomfort.
+post, now I'm just going to ramble about anesthesia and mild discomfort.
 
 This was this first real surgery that I've ever had (wisdom teeth don't
-count) and the first time I've ever had an I.V. or general anaesthesia.
+count) and the first time I've ever had an I.V. or general anesthesia.
 So I got to Mount Auburn Hospital bright and early at 6a without having
 slept very much last night (I'll admit it, I was freaked out) and get
 myself in a gown and on a bad. The nurse set up an I.V. which was ok for
 a little bit and then I started to get a bit freaked out, which
 manifested as the fingers on the I.V.ed arm twitching slightly. I met
-with the anaesthesiologist and his nurse as well as my surgeon (whom I
-had met and spoken with a few times before). The anaesthesiologist's
+with the anesthesiologist and his nurse as well as my surgeon (whom I
+had met and spoken with a few times before). The anesthesiologist's
 nurse squirted a syringe full of something he described as "like Valium
 that takes effect in thirty seconds" into my I.V. A few moments later, I
 wasn't freaking out at all and I was wheeled into an operating room. I
@@ -40,7 +40,7 @@ time). I spent a while lying in that bed in the recovery room, drifting
 in and out of attentiveness until what point as I started to feel a
 little more alert. Since I had arranged to have Max come pick me up, the
 nurse called him and he came by. With a short stop at the MIT Medical
-Pharmacy en route, I ended up back at my appartment. I am still (four
+Pharmacy en route, I ended up back at my apartment. I am still (four
 hours since regaining consciousness) feeling heavily drugged. The
 druggedness is making me rather spacey and I am finding that memories,
 perceptions, my imagination and complete fantasy are mixing together in

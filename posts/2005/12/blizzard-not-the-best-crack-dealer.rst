@@ -28,12 +28,12 @@ noticed)
 -  There's a level cap of 20 - this is the real killer; I'm only just
    barely into the game; I can't get a mount and I can't reasonably do
    any PvP stuff. If they had made the level cap 40, I'd get a taste of
-   all of those things and then probably be acheing to be able to play
+   all of those things and then probably be aching to be able to play
    for 20 more levels and max my character but instead they've just
    pissed me off a whole bunch.
 
 So Blizzard, take note, if you overly cripple a trial version, it'll
-turn people off, not attrack them. At this point, I'm pretty much on the
+turn people off, not attract them. At this point, I'm pretty much on the
 edge as far as WoW is concerned, the level cap was a real buzz-kill.
 Hmm, we could probably reverse the metaphor and draw conclusions about
 how to best sell crack: give out free samples that are just below your

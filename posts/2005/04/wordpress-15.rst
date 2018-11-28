@@ -16,6 +16,6 @@ Issues that I have identified so far are:
 -  ( )I need to get my statistics page back
 -  (X)I need to play with the colors a bit more
 -  ( )I need to get my google search highlighting back
--  (X)Post categories should come at the begining of posts
+-  (X)Post categories should come at the beginning of posts
 
 Again, if you see anything else, please let me know.

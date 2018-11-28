@@ -13,4 +13,4 @@ way that I was on Monday, I wasn't particularly *off* and had a fine
 time. Unfortunately, today I seem to have picked up more injuries than
 any other day; meh, battle scars, oh well. I think that I'm going to
 have to take a step back and see if I can't reapproach this mental issue
-with a more naieve outlook on Friday.
+with a more naïve outlook on Friday.

@@ -7,7 +7,7 @@ Blizzard Reanalyis
 :tags: weather
 
 My previous analysis of this blizzard was insufficient. Having walked
-back to my appartment late last night and now having been outside once
+back to my apartment late last night and now having been outside once
 the blizzard has stopped dropping snow, I can give a better explanation
 of things. I need only one adjective to describe this blizzard.
 

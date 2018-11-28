@@ -42,7 +42,7 @@ well as the really keen ones.
 -  `Tab Mix Plus <http://tmp.garyr.net/>`__ - adds multiple tab rows,
    adds tab reordering, adds middle click to close, adds a bunch of
    other stuff; this extension enhances tabbed browsing by an order of
-   magnitude and I consider it completely indispensible
+   magnitude and I consider it completely indispensable
 -  `Firesomething <http://www.cosmicat.com/extensions/firesomething/>`__
    - changes the browser's name in the titlebar; I love this extension
    and really hope they hurry up and make it compatible with Firefox 1.5
@@ -56,7 +56,7 @@ well as the really keen ones.
    thumbnails of all your tabs; really keen
 -  `Flashblock <http://flashblock.mozdev.org/>`__ - replaces flash with
    a placeholder that you can click to enable individual flash elements;
-   indispensible if, like me, you hate 95% of flash but still want to
+   indispensable if, like me, you hate 95% of flash but still want to
    use it occasionally
 -  `Open Source in
    Tab <https://addons.mozilla.org/en-US/firefox/addon/5908>`__ - in

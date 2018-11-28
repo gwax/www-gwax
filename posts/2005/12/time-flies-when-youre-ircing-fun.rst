@@ -7,7 +7,7 @@ Time flies when you're IRCing fun
 :tags: intzorweb
 
 You look at the clock and it's only 11:30p so you figure you can stay on
-IRC a little longer. Then, one discussion on relgion and a chat about
+IRC a little longer. Then, one discussion on religion and a chat about
 Akira Kurosawa films later, it's nearly 2a and you figure you probably
 shouldn't have stayed on. Oh well, it's not that big a deal; I still
 have a few more days of sleeping in left.

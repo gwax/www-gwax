@@ -18,7 +18,7 @@ interesting thing happened when I stopped for lunch and gas in New
 Jersey, I picked up a hitch-hiker heading for New York. Mind you, this
 was no normal hitch-hiker, this was `Ludovic
 Hubler <http://www.ludovichubler.com/>`__ (you'll want to click the
-British flag if you can't read French)(also, it's kind of flakey in some
+British flag if you can't read French)(also, it's kind of flaky in some
 browsers). I'm sure you're asking who is Ludovic Hubler and why should I
 care? He's this French guy who is hitch-hiking around the world, trying
 not to spend any money at all on travel expenses. He started in France,

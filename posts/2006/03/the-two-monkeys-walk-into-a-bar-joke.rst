@@ -11,6 +11,6 @@ Two monkeys walk into a bar.
 The first monkey says, "Eek, eek!"
 
 The second monkey says, "My good barkeep, my compatriot here will have a
-banana daquiri and I shall have a glass of your finest whisky."
+banana daiquiri and I shall have a glass of your finest whisky."
 
 And the bartender replies, "He he, monkeys!"

@@ -25,7 +25,7 @@ SoCal thing but then, as you may
 `recall <link://slug/and-now-a-five-car-pile-up>`__,
 I ceased to have a car. This week, however, Kenzie was in Monterey with
 her boyfriend, who had business; Monterey being reasonably close by
-California standards, I grabbed a zipcar, ditched out of work early and
+California standards, I grabbed a Zipcar, ditched out of work early and
 drove down to say hi. We went to the Monterey Aquarium, which is
 fantastic by the way, hung out for a few hours and had a generally good
 time.

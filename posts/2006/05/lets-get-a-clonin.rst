@@ -8,7 +8,7 @@ Let's get a clonin'
 
 At this point, cloning science is starting to get to the point where we
 can do some pretty solid stuff. There have been issues as far as cloned
-animals have decresed life spans but I don't much consider that a big
+animals have decreased life spans but I don't much consider that a big
 issue, we only need them to be around long enough to breed. If we can
 clone one generation and get it to breed a subsequent generation then
 that species is back and we're good to go. This approach wouldn't work
@@ -27,7 +27,7 @@ chickens--more turkey sized--and thus able to provide more meat. What is
 comes down to, really, is that I've seen stuffed dodos in museums and I
 think that the things look like they'd be mighty tasty.
 
-*Wooly Mammoths:* Ok, elephants are totally awesome; they're giant,
+*Woolly Mammoths:* Ok, elephants are totally awesome; they're giant,
 intelligent, hulks, capable of exerting incredible amounts of force and
 performing tons of work. Mammoths have pretty much all the advantages of
 elephants but they're also mighty cold tolerant creatures because of
@@ -37,7 +37,7 @@ awesome would it be to spend a weekend in New Hampshire, camping and
 riding mammoths around. The mammoths could carry enough stuff to live in
 total luxury and you could build a shelter on their back so that you
 could be out in harsher weather. I'm imagining having a mammoth gang and
-riding around the midwest and Canada, kind of like the Hell's Angels,
+riding around the Midwest and Canada, kind of like the Hell's Angels,
 but with mammoths.
 
 *Pygmy Mammoths* and *Dwarf Elephants:* Ok, having established that
@@ -58,7 +58,7 @@ accomplished by breeding Timber Wolves with dogs; maybe we should just
 forgo the cloning and do that.
 
 *Elephant Birds:* Gigantic flightless birds and I do mean gigantic,
-sometimes >10 feet tall and >Â½ ton. I don't really have any good reason
+sometimes >10 feet tall and >½ ton. I don't really have any good reason
 or domesticable use for elephant birds so let's just go with because I
 think they're neat besides people could use them for whatever people use
 ostriches and emus for.

@@ -5,7 +5,7 @@ Law School: Not So Bad
 :date: 2006-09-10 03:14:58+00:00
 :tags: school
 
-Noticing my earlier discussion of how aprehensive I was about starting
+Noticing my earlier discussion of how apprehensive I was about starting
 law school, I thought that I should weigh in and let you know that
 school turns out to be really not so bad. The Socratic method is not
 terrifying and if you know what's going on the professors tend to

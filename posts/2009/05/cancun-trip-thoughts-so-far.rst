@@ -9,9 +9,9 @@ Cancun trip thoughts, so far
 Today is Wednesday of my Sunday through Saturday week in Cancun. It is
 currently the evening, about 11p and, before I go to sleep in
 preparation for tomorrow's activities, I thought that I should check-in
-with y'all. I think that Im going to structure this as a summary of some
+with y'all. I think that I'm going to structure this as a summary of some
 of what's been going on and follow with some more general thoughts that
-have been crystalizing.
+have been crystallizing.
 
 It being Cancun, the obligatory sun bathing, swimming and strong, frozen
 beverages have been happening but, as that is largely not interesting in
@@ -22,7 +22,7 @@ honestly, if my family didn't have property on Cape Cod, I would
 strongly consider signing in to this whole timeshare thing. The
 amenities are nice, the weather is fantastic and, let me tell you, the
 water is amazing. Evenings here have primarily finished off with games
-of Dominos, Fluxx and Set,which has been a wholely pleasant experience,
+of Dominos, Fluxx and Set,which has been a wholly pleasant experience,
 and makes me want to play more casual games with friends.
 
 This morning, we traveled to the Mayan ruins at Chichen Itza, which were

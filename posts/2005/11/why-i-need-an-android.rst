@@ -9,6 +9,6 @@ Why I need an android
 So I was driving down the road and I passed three cars in a row that
 each had one headlight out. Being as I was in the car by myself, I was
 thinking out loud and I said, "Three padiddles in a row, what're the
-odds of that?", rhetorically of course. Then it occured to me, if I had
+odds of that?", rhetorically of course. Then it occurred to me, if I had
 Data or C3P0 around, they would've rattled off the odds to me in
 annoyingly cliche form. How awesome would that be?

@@ -8,7 +8,7 @@ Inorganic Polymers: The Paper
 
 As one of the last things that I have to do this week (in order to
 graduate), I have to write a 15+ page paper on the subject of Inorganic
-and Organometallic Polyers. I know enough about Inorganic and
+and Organometallic Polymers. I know enough about Inorganic and
 Organometallic Polymers to fill, at most, two or three pages. The only
 time that I'm going to have to write this paper is the next 28 hours. So
 as to be able to accomplish this task, I have obtained the following

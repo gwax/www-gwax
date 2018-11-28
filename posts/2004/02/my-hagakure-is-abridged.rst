@@ -7,7 +7,7 @@ My Hagakure is abridged!
 
 I recently decided to reread my copy of Hagakure: The Book of the
 Samurai by Yamamoto Tsunetomo (I have the William Scott Wilson
-translation) and in reading the Foreward I discovered that it's an
+translation) and in reading the Foreword I discovered that it's an
 abridged version. William Scott Wilson decided only to publish about 300
 of the roughly 1300 passages in the actual Hagakure. Mister Wilson has
 done a very good job of choosing ~300 exceptional passages, but it

@@ -8,5 +8,5 @@ Friday the 13th
 Hey, it's Friday the 13\ :sup:`th`. What's more, it's Friday the
 13\ :sup:`th` in a February. In normal cases, a February Friday the
 13\ :sup:`th` means that there will be three Friday the 13\ :sup:`ths`
-(I'll leave that to you to proove for yourself), but this is no ordinary
+(I'll leave that to you to prove for yourself), but this is no ordinary
 case; this year is a leap year. That is all.

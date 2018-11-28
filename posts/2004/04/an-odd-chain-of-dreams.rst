@@ -50,7 +50,7 @@ like I was walking on water (talisman magic) and went out to make fun of
 him. Then he stole the talisman, and some other stuff happened.
 
 When I went inside to get the talisman back, I stopped at a little
-newstand and borrowed a pen to write something down in my notebook.
+newsstand and borrowed a pen to write something down in my notebook.
 
 A few sequences later, I discovered that I was taking a break from
 tending to my fish tank. I then got back to working on my fish tank.

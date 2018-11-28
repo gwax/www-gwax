@@ -27,7 +27,7 @@ and one ends up pausing to turn around and look rather often. Some of
 the other hikers we encountered strongly encouraged us not to take the
 northern slide down as it was, reputedly, much worse than the southern;
 it was recommended that we take the Scaur Ridge Trail down. Eventually
-we made it past the southern slide and the trail levelled out once more.
+we made it past the southern slide and the trail leveled out once more.
 The moderately graded dirt path had started to become a little boring
 before the slide, but to see similar afterwards was a very pleasant
 respite. There were some decent views from the southern peak but we
@@ -36,7 +36,7 @@ number of hikers whom we had passed made mention of the spectacular
 views from the middle peak. The middle peak was not far beyond the
 southern peak, perhaps another ten or fifteen minutes, and the views
 were, indeed, quite spectacular. We took lunch on the second peak, and I
-was reminded once more of how tasty a briney pickle is after losing
+was reminded once more of how tasty a briny pickle is after losing
 plenty of salt to a sweaty hike. Also, insects are a real nuisance. The
 hike from the middle to north peak was rather fun. The Scaur Ridge Trail
 from the north peak was a moderate down, followed by a gradual down,
