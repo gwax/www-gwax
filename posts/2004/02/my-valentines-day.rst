@@ -37,7 +37,7 @@ Shelters, which match their description from what I find on Google and
 in my AMC book. I think that the Hermit Lake Shelters would probably do
 quite well for the camping trip that we're planning for March.
 
-It was ~1:30 up Monadnock and ~1:00 down, very windy at the top, really
+It was ~1h30 up Monadnock and ~1h00 down, very windy at the top, really
 nice visibility. So after the mountain thing I came back, got the flat
 replaced and then did the whole sit around thing and have been yammering
 stupid banter back and forth with Will.
