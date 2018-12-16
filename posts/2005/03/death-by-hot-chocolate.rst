@@ -6,16 +6,16 @@ Death by Hot Chocolate
 :updated: 2005-03-14 20:38:58+00:00
 :tags: food & drink
 
-In continuing with my recent trend to cook stuff, I have come across a
+In continuing with my recent trend of cooking stuff, I have come across a
 recipe for the best hot chocolate ever. I was drinking some earlier this
 evening and thinking that I could understand the concept of death by
 chocolate. Without further ado, here's what you'll need:
 
--  1 cup Heavy Cream
--  8-10 oz. Dark/Bittersweet Chocolate (if you're a philistine, like me,
-   this is one and a half of those large bars of Hershey's Special Dark
-   Chocolate)
--  Some Milk (preferably Whole Milk)
+-   1 cup Heavy Cream
+-   8-10 oz. Dark/Bittersweet Chocolate (if you're a philistine, like me,
+    this is one and a half of those large bars of Hershey's Special Dark
+    Chocolate)
+-   Some Milk (preferably Whole Milk)
 
 Now, here's what you do. Break the chocolate into lots of little pieces.
 In a medium saucepan, over medium heat, bring the cream to a rolling

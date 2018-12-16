@@ -35,5 +35,5 @@ suggest that the chicken came first. Having run only one trial, the
 results can not be guaranteed to be statistically significant.
 
 As a sidenote, the information about the Bandara chicken came from a
-`Breeds of Chicken <http://www.ansi.okstate.edu/poultry/chickens/>`__
+`Breeds of Chicken <http://afs.okstate.edu/breeds/poultry/chickens/chickens.html>`__
 site that google got me to.

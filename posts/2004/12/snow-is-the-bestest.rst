@@ -10,6 +10,3 @@ Let me just start by saying that I love winter and I especially love
 snow, it's just so beautiful and fun. Also, you get a real quiet during
 snow storms that you don't tend to get very often otherwise. In fact, as
 far as I'm concerned, snow is the bestest.
-
-Amrys apparently has `a similar
-sentiment <http://amrys.chronosilence.org/blog/archives/001686.html>`__.

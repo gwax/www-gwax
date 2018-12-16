@@ -11,7 +11,7 @@ getting finished and that I've been blowing off time that I should have
 spent working on it but it turns out that it's not hard to write when I
 actually do so. I've spent the past 3.5 hours hunkered down in my room
 and I've churned out 7 pages of pretty decent stuff. If I can get myself
-to do this in the future, everything will get finished might fast and I
+to do this in the future, everything will get finished mighty fast and I
 can get back to slacking without stress.
 
 The next thing that I really need to do is add some equations and

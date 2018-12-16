@@ -6,14 +6,14 @@ Conspiracies and Magic abound
 :updated: 2006-06-09 19:55:47+00:00
 :tags: books
 
-I have just finished reading The Illuminatus Trilogy by Robert Shea and
+I have just finished reading *The Illuminatus Trilogy* by Robert Shea and
 Robert Anton Wilson and have enjoyed every moment of it (a surprising
 detail considering my reading habits and its 805 page size). Many thanks
 are in order for my good friend Rob Malchow who recommended the book to
 me this past summer.
 
 The book is a present day (as of the writing 30 years ago) science
-fiction about interwoven conspiracies, poltics, mysteries, mysticism and
+fiction about interwoven conspiracies, politics, mysteries, mysticism and
 occultism. The tone ranges from thoroughly lucid to completely absurd
 and jumps around too fast, too slow and at the right pace all at once.
 You will think that you know what's going on when you do not and vice
