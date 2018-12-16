@@ -1,5 +1,5 @@
-Hello Concord, long time no see
-===============================
+Hello Concord, long time, no see
+================================
 
 :slug: hello-concord-long-time-no-see
 :date: 2004-12-22 05:21:32+00:00

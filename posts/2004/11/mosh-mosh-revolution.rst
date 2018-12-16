@@ -13,15 +13,15 @@ mosh pit.
 I'm too exhausted and generally sore to say too much so I'll just get
 out the main points without too much padding text:
 
--  KMFDM fucking rules!
--  My ears are ringing like a mother-fucker
--  I'm totally pumped
--  I need to go to more concerts with mosh pits
--  Lucia is really hot
--  Lucia is really fucking hot
--  Mosh pits Pwnz (own with a capital 'p')
--  I have finally seen KMFDM in concert
--  They met my expectations and a little more
+-   KMFDM fucking rules!
+-   My ears are ringing like a mother-fucker
+-   I'm totally pumped
+-   I need to go to more concerts with mosh pits
+-   Lucia is really hot
+-   Lucia is really fucking hot
+-   Mosh pits Pwnz (own with a capital 'p')
+-   I have finally seen KMFDM in concert
+-   They met my expectations and a little more
 
 Ok, I probably could have said that more concisely as: the concert ruled
 because the music was awesome, the mosh pit was fun and the female

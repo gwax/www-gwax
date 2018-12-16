@@ -13,11 +13,5 @@ only care about Al-Qaeda terrorists or we want to blame all terrorism on
 Al-Qaeda to give it a face. Al-Qaeda, the real world equivalent to
 Command & Conquer: General's GLA.
 
-While we're on the topic of Al-Qaeda, I know the guy that runs the
-al-qaeda.net web domain. He's a nice guy actually, half Egyptian, but no
-terrorist, mainly runs the domain as a lark so that he can send and
-receive email by it. I've been trying to convince him to turn the domain
-into a group blog so that we can all have fun with the thing.
-
 I guess the point is that not everything Al-Qaeda is evil (at least the
 larks aren't) and I don't buy that everything terrorist is Al-Qaeda.

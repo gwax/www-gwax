@@ -6,5 +6,5 @@ Sunburns Blow!
 :tags: adventures
 
 I think that this post's title pretty much says it all, but in case I
-wasn't clear enough, let me try rephrasing it a little bit. Sunburns
+wasn't clear enough, let me try rephrasing it a little bit, sunburns
 Suck!

@@ -7,8 +7,8 @@ Overtone vs. Undertone
 
 As stolen from `Wordsmyth <http://www.wordsmyth.net/>`__.
 
--  **overtone** - (often pl.) any secondary characteristic that
-   qualifies an overall effect.
--  **undertone** - an underlying quality, mood, or the like.
+-   **overtone** - (often pl.) any secondary characteristic that
+    qualifies an overall effect.
+-   **undertone** - an underlying quality, mood, or the like.
 
 Nope, still don't know the difference.

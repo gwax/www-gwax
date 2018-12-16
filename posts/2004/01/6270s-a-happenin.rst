@@ -25,14 +25,14 @@ how we're going to do it, we've taken up being a bit arrogant, but I
 think that it's not totally unfounded. Following are some of the amusing
 things that exemplify this arrogance:
 
--  Planning to be done 1-2 weeks before the competition
--  Planning to sit around while everyone is frantically
-   trying to make theirs work when the deadline is upon them
--  Fielding a placebo robot for qualifiers
--  Naming our robot "# Awesome", where # is the number of points that we
-   will be earning in every round.
--  Not using the extra batteries
--  Not using the expansion board
+-   Planning to be done 1-2 weeks before the competition
+-   Planning to sit around while everyone is frantically
+    trying to make theirs work when the deadline is upon them
+-   Fielding a placebo robot for qualifiers
+-   Naming our robot "# Awesome", where # is the number of points that we
+    will be earning in every round.
+-   Not using the extra batteries
+-   Not using the expansion board
 
 Anyway, the list continues, but the basic point is that we think that
 we've got this competition in the bag and we're going to be jackasses

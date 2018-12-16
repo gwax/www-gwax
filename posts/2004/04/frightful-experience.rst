@@ -11,16 +11,16 @@ I can see them in advance by their headlights anyway. I come around a
 corner and the rest is best explained if I simply relate the immediate
 sequence of my thoughts after I turn the corner:
 
--  DEER!
--  HOLY FUCK!
--  BRAKE!
--  SON OF A BITCH!
--  BRAKES LOCKING!
--  LET UP!
--  BRAKE AGAIN!
--  OH CRAP!
--  Wait, I'm ok.
--  Heart, you can start again.
+-   DEER!
+-   HOLY FUCK!
+-   BRAKE!
+-   SON OF A BITCH!
+-   BRAKES LOCKING!
+-   LET UP!
+-   BRAKE AGAIN!
+-   OH CRAP!
+-   Wait, I'm ok.
+-   Heart, you can start again.
 
 I won't be all melodramatic and be like, "I could have died, I was so
 scared." No, I'm cool, but it was pretty startling and more than a
