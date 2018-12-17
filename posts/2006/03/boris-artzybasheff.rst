@@ -9,17 +9,9 @@ Boris Artzybasheff
 I should like to bring to your attention the art of one Boris
 Artzybasheff. Sadly, the man is dead, but thankfully he left us tons of
 awesome artwork. I've indexed some sources for you below and you can
-always try `googling for
-more <http://www.google.com/search?q=artzybasheff>`__:
+always try `googling for more <http://www.google.com/search?q=artzybasheff>`__:
 
--  `Time Magazine
-   Covers <http://www.artcyclopedia.com/r/boris-artzybasheff-time-covers.html>`__
--  `Assorted color
-   works <http://www.americanartarchives.com/artzybasheff.htm>`__
--  `Diablerie <http://www.animationarchive.org/2006/03/media-artzybasheffs-diablerie.html>`__
--  `Neurotica <http://www.animationarchive.org/2006/02/media-artzybasheffs-neurotica.html>`__
--  `Machinalia <http://www.animationarchive.org/2006/02/media-artzybasheffs-machinalia.html>`__
--  `Assorted
-   others <http://www.enter.net/~torve/art/artzy/artzy.html>`__
+-  `Time Magazine Covers <http://www.artcyclopedia.com/r/boris-artzybasheff-time-covers.html>`__
+-  `Assorted color works <http://www.americanartarchives.com/artzybasheff.htm>`__
 
 These things are glorious.

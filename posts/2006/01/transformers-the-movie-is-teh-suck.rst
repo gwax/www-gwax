@@ -7,9 +7,10 @@ Transformers: The Movie is teh suck?
 :tags: movies & tv
 
 Transformers: The Movie came up in conversation at work and one of my
-coworkers forwarded me a link to a `rant about how much the movie
-sucks <http://www.outpostnine.com/editorials/source.html>`__. I love
-that movie and I was expecting a stupid read that I would thoroughly
+coworkers forwarded me a link to a
+`rant about how much the movie sucks
+<https://www.denofgeek.com/us/movies/transformers/256185/transformers-the-movie-and-the-great-toy-massacre-of-1986>`__.
+I love that movie and I was expecting a stupid read that I would thoroughly
 disagree with, but instead I find myself agreeing with everything said.
 The rant is absolutely spot on in pointing out that Transformers: The
 Movie sucks and I find no fault in the diatribe; even so, I love the

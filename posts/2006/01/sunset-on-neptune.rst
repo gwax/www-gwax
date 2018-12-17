@@ -16,11 +16,11 @@ The ingredients are as follows and there are a few different ways to
 make it: (all quantities are approximate and should be varied to
 personal tastes)
 
--  1 part Vodka
--  1 part Blue Curacao
--  2 parts orange juice soda (Polar Orange Dry, Orangina, or the like;
-   not orange soda)
--  1/2 part Grenadine
+-   1 part Vodka
+-   1 part Blue Curacao
+-   2 parts orange juice soda (Polar Orange Dry, Orangina, or the like;
+    not orange soda)
+-   1/2 part Grenadine
 
 Take a glass full of ice (preferably large cubes) and pour in the vodka.
 Add the orange juice soda and stir. Add the Blue Curacao to the mixture;
