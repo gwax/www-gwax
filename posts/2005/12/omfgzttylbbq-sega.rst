@@ -5,6 +5,6 @@ OMFGZTTYLBBQ SEGA!!!
 :date: 2005-12-11 19:50:09+00:00
 :updated: 2005-12-11 19:58:55+00:00
 :tags: video games
+:has_math: yes
 
-`Sega's re-releasing the Dreamcast in
-Japan? <http://www.engadget.com/entry/1234000790071989/>`__
+Sega is re-releasing the Dreamcast in Japan?

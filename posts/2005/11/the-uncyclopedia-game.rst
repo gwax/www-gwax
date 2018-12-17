@@ -16,9 +16,7 @@ lot to a few articles and a bit to a lot of articles.
 Some articles which I've contributed heavily to include (but are not
 limited to):
 
--  `World of
-   Whorecraft <http://uncyclopedia.org/wiki/World_of_Whorecraft>`__
--  `Optimus Prime <http://uncyclopedia.org/wiki/Optimus_Prime>`__
+-  `Optimus Prime <http://uncyclopedia.wikia.com/wiki/Transformers#Optimus_Prime>`__
 -  `Igpay Atinlay <http://uncyclopedia.org/wiki/Igpay_Atinlay>`__
 -  `Grue <http://uncyclopedia.org/wiki/Grue>`__
 

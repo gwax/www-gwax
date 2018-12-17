@@ -13,12 +13,11 @@ Halloween 2005 Preview
     :alt: Boximus Prime Preview 2
     :class: u-pull-right thumbnail
 
-Halloween is coming
-on quickly and I have decided to go and make myself a fancy costume this
-year. Shortly after waking up today I went and obtained some of the
-materials that I need and spent much of the afternoon/early evening
-working on my costume. I kept working until I ran out of packing tape
-and will pick up where I left off after a trip to the store tomorrow.
+Halloween is coming on quickly and I have decided to go and make myself a
+fancy costume this year. Shortly after waking up today I went and obtained
+some of the materials that I need and spent much of the afternoon/early
+evening working on my costume. I kept working until I ran out of packing
+tape and will pick up where I left off after a trip to the store tomorrow.
 With luck I will be well prepared for any Halloween parties I attend
 this weekend. Included are some previews images of my costume; it's more
 impressive than it looks.

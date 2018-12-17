@@ -16,7 +16,7 @@ currently stand, Double Fanucci is thoroughly unplayable because I
 neither have a deck of Double Fanucci cards nor do I (or anyone else)
 have any idea what the rules of Double Fanucci are. Some information
 about the game can be found at
-`wikipedia <http://en.wikipedia.org/wiki/Double_fanucci>`__,
+`wikipedia <https://en.wikipedia.org/wiki/Zork_Zero#Double_Fanucci>`__,
 `Encyclopedia
 Frobozzica <http://www.irondune.com/words/frobozzica/appc.html>`__ and
 `Do-It-Yourself Double
@@ -33,7 +33,7 @@ Crescent station. Mornington Crescent is a thoroughly playable game, as
 long as you have some creativity, a sense of humor and know how the game
 works. In order to learn a bit about the game, take a look at
 `Mornington Crescent Illustrated with Expert
-Play <http://www.geocities.com/verdrahciretop/mc1.html>`__. Once you
+Play <http://www.geocities.ws/verdrahciretop/mc1.html>`__. Once you
 give up trying to figure out what's going on, take a look at what
 `wikipedia <http://en.wikipedia.org/wiki/Mornington_Crescent_%28game%29>`__
 has to say about the game (bit of a spoiler). This is a game that I

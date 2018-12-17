@@ -7,8 +7,8 @@ Category 22 - Games
 :tags: this blog
 
 `SonicWALL Internet Security <http://www.sonicwall.com/>`__ offers
-content filtering services and via their website, you can `look up the
-rating <http://www.sonicwall.com/products/cfs.html>`__ (right column,
-down a little) of a website. Apparently, my blog is rated "Category 22 -
-Games", while `my homepage <http://www.gwax.com/>`__ is "Category 64 -
-Unrated". I guess that means that I run a gaming blog; fancy that.
+content filtering services and via their website, you can
+`look up the rating <http://cfssupport.sonicwall.com/Support/web/eng/newui/viewRating.jsp>`__
+of a website. Apparently, my blog is rated "Category 22 - Games", while
+`my homepage <http://www.gwax.com/>`__ is "Category 64 - Unrated". I guess
+that means that I run a gaming blog; fancy that.

@@ -1,7 +1,7 @@
 Good Movie, Bad Movie, Worse Movie
 ==================================
 
-:slug: good-movie-bad-movie-terrible-movie
+:slug: good-movie-bad-movie-worse-movie
 :date: 2005-11-10 18:38:05+00:00
 :updated: 2005-11-10 18:52:10+00:00
 :tags: movies & tv
