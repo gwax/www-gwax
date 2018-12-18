@@ -11,9 +11,8 @@ not recognize and, as is my style, I answered it. My, "Hello" was met
 with an, "Is this George Waksman?" to which I responded in the
 affirmative, a response that met with much revelry from the other end of
 the line. The call eventually turned out to be from some guy who come
-across my research into `Tootsie Roll
-Pops <http://www.gwax.com/content/tootsiepop.html>`__ and taken
-advantage of the fact that I keep my cell phone number on `my
+across my research into `Tootsie Roll Pops <link://slug/tootsiepop>`__ and
+taken advantage of the fact that I keep my cell phone number on `my
 homepage <http://www.gwax.com>`__. This man was calling because he
 wanted to know both if I was serious and if I had really eaten all those
 Tootsie Roll Pops. Not being a lying sort of person, I of course

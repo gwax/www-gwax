@@ -29,8 +29,6 @@ name. The list of runner-ups is as follows (in no particular order):
 -  thor-the-bumhammer
 -  leonard
 -  spatula
--  rizza
--  cuntybones
 
 In the end, all of these possible names have lost out to *hobosphere*.
 All glory be unto the hobosphere.

@@ -7,13 +7,12 @@ The Great Card Catalogue Project
 
 About a week ago, I undertook the project of cataloguing my Magic: The
 Gathering card collection and I finally finished earlier today. I am
-using a program called `Magic
-Suitcase <http://www.magicsuitcase.org/>`__ to do my cataloguing. The
-goal is to improve improve my awareness of what cards I have and my
-ability to construct decks. Having completed my cataloguing endeavor, I
-am now able to use the application to get statistical information on my
-collection. Following is a spattering of information about my
-collection:
+using a program called `Magic Suitcase <http://www.magicsuitcase.org/>`__
+to do my cataloguing. The goal is to improve improve my awareness of what
+cards I have and my ability to construct decks. Having completed my
+cataloguing endeavor, I am now able to use the application to get
+statistical information on my collection. Following is a spattering
+of information about my collection:
 
 ::
 

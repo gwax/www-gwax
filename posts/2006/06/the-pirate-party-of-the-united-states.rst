@@ -12,11 +12,11 @@ party that is derivative of Sweden's
 `Piratpartiet <http://www2.piratpartiet.se/the_pirate_party>`__.
 Extracted from their website, their platform is as follows:
 
-   "The Pirate Party is a newly formed worldwide political party with a
-   chapter in the U.S.. We want to fundamentally reform copyright law,
-   overhaul the patent system, and ensure that citizens' rights to
-   privacy are respected. With this agenda, and only this, we are making
-   a bid for representation in anywhere we can get elected."
+    "The Pirate Party is a newly formed worldwide political party with a
+    chapter in the U.S.. We want to fundamentally reform copyright law,
+    overhaul the patent system, and ensure that citizens' rights to
+    privacy are respected. With this agenda, and only this, we are making
+    a bid for representation in anywhere we can get elected."
 
 Seeing as they stand for the same things that I stand for and their
 platform and agendas do a good job of addressing the big issues that
