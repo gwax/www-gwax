@@ -22,10 +22,9 @@ to moving away from people, and quite a few ups, so I would say that
 overall it was a pretty good year in the life of George.
 
 As tends to be a subject around this time of year, let's talk about New
-Year's resolutions, shall we? `Last
-year <link://slug/resolutions-2k6>`__ I resolved to
-1) get better at meeting and interacting with new people, and 2) be
-friendlier. In spite of forgetting about those resolutions pretty
+Year's resolutions, shall we? `Last year <link://slug/resolutions-2k6>`__ I
+resolved to 1) get better at meeting and interacting with new people, and
+2) be friendlier. In spite of forgetting about those resolutions pretty
 quickly into the year, I'd say that I did a decent job of being
 friendlier and a half-decent job of getting better at dealing with new
 people. Now that a brief analysis of last year is out of the way, let's
