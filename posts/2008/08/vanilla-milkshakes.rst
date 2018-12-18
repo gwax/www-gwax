@@ -10,9 +10,9 @@ I'm from New England and I'm not talking about
 `frappes <http://en.wikipedia.org/wiki/Frappe>`__. My vanilla milkshake
 recipe is very simple, very quick to make and very good:
 
--  glass cold milk
--  couple or few teaspoons sugar
--  tablespoon or so of vanilla extract
+-   glass cold milk
+-   couple or few teaspoons sugar
+-   tablespoon or so of vanilla extract
 
 Stir ingredients with a spoon. Drink.
 
