@@ -6,10 +6,9 @@ Tengen Toppa Gurren Lagann
 :updated: 2009-09-26 02:17:39+00:00
 :tags: movies & tv
 
-Thanks to `hunch <http://hunch.com/>`__, I recently discovered the anime
-`Tengen Toppa Gurren
-Lagann <http://en.wikipedia.org/wiki/Gurren_Lagann>`__, or just *Gurren
-Lagann*, which I have really been enjoying.
+Thanks to hunch, I recently discovered the anime `Tengen Toppa Gurren
+Lagann <http://en.wikipedia.org/wiki/Gurren_Lagann>`__, or just
+*Gurren Lagann*, which I have really been enjoying.
 
 Gurren Lagann is, at its heart, a mecha anime and, as anyone who knows
 my love of Transformers and Battletech will understand, that is a plus

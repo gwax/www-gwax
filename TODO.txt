@@ -1,3 +1,4 @@
 - fancydates for archive datetimes
 - div class="figure"
 - line-block margins / centering?
+- reimplement 2009/12/unsticking-stuck-lcd-pixels-a-script.html to work on appengine

@@ -15,7 +15,7 @@ omelette has arrested my attention and is what prompted this post.
 
 Though the omelette fell somewhere between edible and passable, this
 really is more of a "thought that counts" sort of thing. I have become
-so accustomed to the nickel-and-dimeing of bankrupt United States
+so accustomed to the nickel-and-diming of bankrupt United States
 airlines that I was astonished to be offered food: "omelette or
 enchilada?" It took me two tries to understand through the Mexican
 accent, but that's probably a failing on my part. Not only is there food

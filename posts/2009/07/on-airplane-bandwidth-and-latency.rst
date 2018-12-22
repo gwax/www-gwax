@@ -19,23 +19,27 @@ moderately large hard drive (:math:`500\mathrm{GB}`) on a plane for data rates b
 San Francisco and Boston (:math:`\approx 7\mathrm{hr}`):
 
 Bandwidth:
-DSL: :math:`15\frac{\mathrm{Mbit}}{\mathrm{s}}`
-Airplane: :math:`\frac{500\mathrm{GB}}{7\mathrm{hr}} \times \frac{1\mathrm{hr}}{60\mathrm{min}} \times \frac{1\mathrm{min}}{60\mathrm{s}} \times \frac{8000\mathrm{Mbit}}{1\mathrm{GB}} \approx 150\frac{\mathrm{Mbit}}{\mathrm{s}}`
+
+    -   DSL: :math:`15\frac{\mathrm{Mbit}}{\mathrm{s}}`
+    -   Airplane: :math:`\frac{500\mathrm{GB}}{7\mathrm{hr}} \times \frac{1\mathrm{hr}}{60\mathrm{min}} \times \frac{1\mathrm{min}}{60\mathrm{s}} \times \frac{8000\mathrm{Mbit}}{1\mathrm{GB}} \approx 150\frac{\mathrm{Mbit}}{\mathrm{s}}`
 
 Latency:
-DSL: :math:`\approx 100\mathrm{ms}`
-Airplane: :math:`>7\mathrm{hr}`
+
+    -   DSL: :math:`\approx 100\mathrm{ms}`
+    -   Airplane: :math:`>7\mathrm{hr}`
 
 For fun, let's try something a little bigger on both sides: OC-768 vs
 Boeing 747-400F plane filled with :math:`2\mathrm{TB}` hard drives.
 
 Bandwidth:
-OC-768: :math:`38\frac{\mathrm{Gbit}}{\mathrm{s}}`
-747-400F: :math:`\frac{250000\mathrm{lb}}{7\mathrm{hr}} \times \frac{2\mathrm{TB}}{1.7\mathrm{lb}} \times \frac{1\mathrm{hr}}{60\mathrm{min}} \times \frac{1\mathrm{min}}{60\mathrm{s}} \times \frac{8\mathrm{Tbit}}{1\mathrm{TB}} \approx 93\frac{\mathrm{Tbit}}{\mathrm{s}}`
+
+    -   OC-768: :math:`38\frac{\mathrm{Gbit}}{\mathrm{s}}`
+    -   747-400F: :math:`\frac{250000\mathrm{lb}}{7\mathrm{hr}} \times \frac{2\mathrm{TB}}{1.7\mathrm{lb}} \times \frac{1\mathrm{hr}}{60\mathrm{min}} \times \frac{1\mathrm{min}}{60\mathrm{s}} \times \frac{8\mathrm{Tbit}}{1\mathrm{TB}} \approx 93\frac{\mathrm{Tbit}}{\mathrm{s}}`
 
 Latency:
-OC-768: :math:`<100\mathrm{ms}`
-747-400F: :math:`>7\mathrm{hr}`
+
+    -   OC-768: :math:`<100\mathrm{ms}`
+    -   747-400F: :math:`>7\mathrm{hr}`
 
 Clearly, hard drives on an airplane will win in a purely bandwidth
 driven application but airplanes suffer from incredibly high latency.
