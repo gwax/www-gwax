@@ -3,7 +3,6 @@ Internet Time Now script
 
 :slug: internet-time-now-script
 :date: 2016-02-05 19:40:05+00:00
-:guid: b17776c2-7bc3-44e0-9c1b-1cd6d073e613
 :tags: time, code snippets
 :category: rumblings
 
@@ -14,8 +13,8 @@ I've been listening to back episodes of
 my attention and made me aware of
 `Swatch Internet Time <https://en.wikipedia.org/wiki/Swatch_Internet_Time>`_.
 It's kind of impractical but also kind of fun, especially as I've been a little
-annoyed at recording times across timezones for something meant to persist, like
-this blog.
+annoyed at recording times across timezones for something meant to persist,
+like this blog.
 
 
 For fun, I whipped up a quick python implementation:

@@ -26,15 +26,15 @@ all by preserving knowledge, at times.
 One quote, from the latter portion of the novel, tickled my fancy a
 great deal:
 
-   They managed only to demonstrate that the mathematical limit of an
-   infinite sequence of "doubting the certainty with which something
-   doubted is known to be unknowable when the 'something doubted' is
-   still a preceding statement of 'unknowability' of something doubted,"
-   that the limit of this process at infinity can only be equivalent to
-   a statement of *absolute certainty*, even though phrased as an
-   infinite series of negations of certainty
+    They managed only to demonstrate that the mathematical limit of an
+    infinite sequence of "doubting the certainty with which something
+    doubted is known to be unknowable when the 'something doubted' is
+    still a preceding statement of 'unknowability' of something doubted,"
+    that the limit of this process at infinity can only be equivalent to
+    a statement of *absolute certainty*, even though phrased as an
+    infinite series of negations of certainty
 
-   -- A Canticle For Leibowitz (pp. 301-302)
+    -- A Canticle For Leibowitz (pp. 301-302)
 
 The quote is not particularly representative but, to be honest, I feel
 that it would be hard to find any quote that would be properly

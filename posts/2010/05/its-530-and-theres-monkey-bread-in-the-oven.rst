@@ -22,8 +22,8 @@ of the author's writing.
 
 Having chosen a recipe and (mostly) followed it, here I sit, typing
 while I wait on the oven. The monkey bread, which I cannot imagine being
-anything less than `4 Billion
-% <http://probertson.livejournal.com/23973.html?page=5>`__ awesome, will
+anything less than `4 Billion % <http://probertson.livejournal.com/23973.html?page=5>`__
+(`YouTube <https://www.youtube.com/watch?v=YNMJe83VxdY>`__) awesome, will
 be done cooking around 6. I'll probably wait around until the monkey
 bread is ready to remove from its cake mold womb, pop it out, and leave
 it for my various roommates to discover come tomorrow.

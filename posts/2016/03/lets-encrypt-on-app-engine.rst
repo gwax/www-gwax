@@ -3,7 +3,6 @@ Let's Encrypt on App Engine
 
 :slug: lets-encrypt-on-app-engine
 :date: 2016-03-13 07:25:01+00:00
-:guid: 9e2aff89-98fd-413b-9d42-32c6a044fcd4
 :updated: 2018-09-09T07:03:28+00:00
 :tags: meta, code snippets
 :category: meta

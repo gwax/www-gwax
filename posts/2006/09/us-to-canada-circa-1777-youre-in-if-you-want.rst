@@ -11,11 +11,11 @@ Confederation <http://www.loc.gov/rr/program/bib/ourdocs/articles.html>`__
 for my Constitutional Law class, I came across an interesting little
 tidbit in Article XI, which reads as follows:
 
-   *Article XI.*\ Canada acceding to this confederation, and adjoining
-   in the measures of the United States, shall be admitted into, and
-   entitled to all the advantages of this Union; but no other colony
-   shall be admitted into the same, unless such admission be agreed to
-   by nine States.
+    *Article XI.*  Canada acceding to this confederation, and adjoining
+    in the measures of the United States, shall be admitted into, and
+    entitled to all the advantages of this Union; but no other colony
+    shall be admitted into the same, unless such admission be agreed to
+    by nine States.
 
 Basically the United States was explicitly saying that United States
 would accept Canada as a new state if Canada wanted to join the United

@@ -6,7 +6,7 @@ Yippee Election!
 :updated: 2006-09-19 15:53:22+00:00
 :tags: politics
 
-Well, the election was yesterday and I voted; it was kind of cool I
+Well, the election was yesterday and I voted; it was kind of cool, I
 guess. Last night I went over to Burton-Connor to hang out with Nick and
 watch the results come in; the hanging out was more interesting than the
 results, which is kind of sad. It's been pretty much deadlocked and it

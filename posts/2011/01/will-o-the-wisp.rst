@@ -3,7 +3,6 @@ Will O' The Wisp
 
 :slug: will-o-the-wisp
 :date: 2011-01-16 20:04:00-08:00
-:guid: 13a76bf5-462d-433a-b57b-52a227db960f
 :tags: cocktails, recipes
 :category: recipes
 
@@ -20,21 +19,23 @@ green color.
 Ingredients
 -----------
 
-* 3/4 oz Green Chartreuse
-* 3/4 oz St. Germain
-* 3/4 oz White Vermouth
-* 1 dash Lavender Bitters
-* 3 oz Dry Gin
-* 1/4 oz Herbsaint or Absinth
+-   3/4 oz Green Chartreuse
+-   3/4 oz St. Germain
+-   3/4 oz White Vermouth
+-   1 dash Lavender Bitters
+-   3 oz Dry Gin
+-   1/4 oz Herbsaint or Absinth
 
 Recipe
 ------
 
-#. Pour the Chartreuse, St. Germain, Vermouth, Bitters, and Gin into a cocktail shaker
-#. Pour the Herbsaint/Absinth into a chilled cocktail glass
-#. Swirl the cocktail glass, coating the sides, and pouring off any excess Herbsaint/Absinth
-#. Add ice to the cocktail shaker and shake
-#. Pour shaken cocktail into the prepared glass
+#.  Pour the Chartreuse, St. Germain, Vermouth, Bitters, and Gin into a
+    cocktail shaker
+#.  Pour the Herbsaint/Absinth into a chilled cocktail glass
+#.  Swirl the cocktail glass, coating the sides, and pouring off any excess
+    Herbsaint/Absinth
+#.  Add ice to the cocktail shaker and shake
+#.  Pour shaken cocktail into the prepared glass
 
 Notes
 -----

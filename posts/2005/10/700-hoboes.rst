@@ -7,7 +7,7 @@
 :tags: art & culture, intzorweb
 
 The internet has brought forth a true hobo bounty. Writer `John
-Hodgman <http://www.areasofmyexpertise.com/>`__ has produced a wonderful
+Hodgman <https://www.johnhodgman.com/>`__ has produced a wonderful
 spoken word piece consisting of `700 Hobo
 Names <http://www.archive.org/details/700HoboNames>`__. I highly
 recommend giving it a listen to. Also, word is that someone wants to use

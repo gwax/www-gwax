@@ -26,7 +26,7 @@ few Easter Eggs. One particular Easter Egg that I recently came across
 is that if the server process dies while the client process is still
 connected, you meet the error message:
 
-   Suddenly the Dungeon collapses!! - You die...
+    Suddenly the Dungeon collapses!! - You die...
 
 It's a cryptic and ominous error message that might put you off a little
 if you don't know what's going on. A quick

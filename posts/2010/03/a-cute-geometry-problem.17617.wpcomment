@@ -4,22 +4,33 @@
 .. date_utc: 2010-03-15 21:55:00
 .. compiler: rest
 
-Alternatively (I guess this is a trig solution), start by labeling the wide, squat sections along each edge "A", the pseudo-triangular sections B, and the center section C. Then
+Alternatively (I guess this is a trig solution), start by labeling the wide,
+squat sections along each edge "A", the pseudo-triangular sections B, and the
+center section C. Then
 
-| :math:`4A + 4B + C = 1`
-| :math:`2A + 3B + C = \frac{\pi}{4}`
-| thus :math:`2A + B = 1 - \frac{\pi}{4}`
+    | :math:`4A + 4B + C = 1`
+    | :math:`2A + 3B + C = \frac{\pi}{4}`
+    | thus :math:`2A + B = 1 - \frac{\pi}{4}`
 
-Now, redraw only with one unit circle and the outer box with its lower left corner at the origin. Draw in a vertical line at :math:`x=\frac{1}{2}`, and draw a radius of the circle such that it hits the point where the vertical line intersects the circle.
+Now, redraw only with one unit circle and the outer box with its lower left
+corner at the origin. Draw in a vertical line at :math:`x=\frac{1}{2}`, and
+draw a radius of the circle such that it hits the point where the vertical
+line intersects the circle.
 
-Since this radius hits the circle at :math:`x=\frac{1}{2}`, the angle formed between the radius and the x-axis is :math:`\arcsin \frac{1}{2} = \frac{\pi}{6}`. The rest of this angle is then :math:`\frac{\pi}{3}`, or 1/6th of a circle. So the area underneath the circle and to the left of the vertical line must be equal to :math:`\frac{\pi}{6} + \frac{1}{2} \cdot \frac{1}{2} \cdot \cos \frac{\pi}{6}`. In other words, the area of a section A is :math:`1 - 2 \cdot (\frac{\pi}{6} + \frac{1}{4} \cos \frac{\pi}{6}) = 1 - \frac{\pi}{3} - \frac{1}{2} \cos \frac{\pi}{6}`.
+Since this radius hits the circle at :math:`x=\frac{1}{2}`, the angle formed
+between the radius and the x-axis is :math:`\arcsin \frac{1}{2} = \frac{\pi}{6}`.
+The rest of this angle is then :math:`\frac{\pi}{3}`, or 1/6th of a circle.
+So the area underneath the circle and to the left of the vertical line must be
+equal to :math:`\frac{\pi}{6} + \frac{1}{2} \cdot \frac{1}{2} \cdot \cos \frac{\pi}{6}`.
+In other words, the area of a section A is
+:math:`1 - 2 \cdot (\frac{\pi}{6} + \frac{1}{4} \cos \frac{\pi}{6}) = 1 - \frac{\pi}{3} - \frac{1}{2} \cos \frac{\pi}{6}`.
 
 Now, from the last equation above,
 
-:math:`A + B = 1 - \frac{\pi}{4} - 1 + \frac{\pi}{3} + \frac{1}{2} \cos \frac{\pi}{6} = \frac{1}{2} \cos \frac{\pi}{6} + \frac{\pi}{12}`
+    | :math:`A + B = 1 - \frac{\pi}{4} - 1 + \frac{\pi}{3} + \frac{1}{2} \cos \frac{\pi}{6} = \frac{1}{2} \cos \frac{\pi}{6} + \frac{\pi}{12}`
 
 Thus,
 
-:math:`C = 1 - 4 \cdot (\frac{1}{2} \cos \frac{\pi}{6} + \frac{\pi}{12}) = 1 + \frac{\pi}{3} - 2 \cos \frac{\pi}{6}`.
+    | :math:`C = 1 - 4 \cdot (\frac{1}{2} \cos \frac{\pi}{6} + \frac{\pi}{12}) = 1 + \frac{\pi}{3} - 2 \cos \frac{\pi}{6}`.
 
 Same as you've got.

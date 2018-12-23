@@ -10,8 +10,7 @@ I have recently been conducting research in the field of Tootsie Roll
 Pops and have become quite enamored with the question of how many licks
 it takes to reach the center. I have taken a systematic approach and
 begun research in an attempt to answer the question. I am also in the
-process of writing a `scientific
-paper <http://www.gwax.com/content/tootsiepop.html>`__ on the matter.
+process of writing a `scientific paper <link://slug/tootsiepop>`__ on the matter.
 Feel free to read the paper in its current form, but I stress that it is
 a work in progress and that data is currently not sufficient to be
 reliable. If you or anyone else would be willing to conduct tests and

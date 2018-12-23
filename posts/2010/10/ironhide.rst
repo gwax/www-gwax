@@ -23,11 +23,11 @@ further ado:
 Ironhide recipe
 ---------------
 
--  3 oz Bourbon whiskey
--  3/4 oz Maraschino
--  1/4 oz grenadine
--  2 dashes Angostura bitters
--  1 Maraschino cherry
+-   3 oz Bourbon whiskey
+-   3/4 oz Maraschino
+-   1/4 oz grenadine
+-   2 dashes Angostura bitters
+-   1 Maraschino cherry
 
 Serve shaken or stirred with ice in a cocktail glass; garnish with the
 Maraschino cherry.

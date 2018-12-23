@@ -1,5 +1,6 @@
 {
     "[restructuredtext]": {
         "editor.wordWrap": "on"
-    }
+    },
+    "restructuredtext.confPath": ""
 }

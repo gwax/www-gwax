@@ -13,4 +13,5 @@ Fortune Cookie: 2018-09-04
 | 好(hǎo)運(yùn)
 | Lucky Numbers 25, 55, 8, 17, 54, 1
 
-Commentary: Many things have intrinsic value; adventure included. Many things have extrinsic value; aphorisms included.
+Commentary: Many things have intrinsic value; adventure included. Many things
+have extrinsic value; aphorisms included.

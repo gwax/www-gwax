@@ -38,12 +38,12 @@ file system can be defragmented with the following set of commands:
 
 .. code:: sh
 
-   $ umount /mnt/fragmented
-   $ fsck -f /dev/md1
-   $ resize2fs -M -p /dev/md1
-   $ resize2fs -p /dev/md1
-   $ mount /dev/md1 /mnt/fragmented
-   $ shake -o 0 -S 0 /mnt/fragmented
+    $ umount /mnt/fragmented
+    $ fsck -f /dev/md1
+    $ resize2fs -M -p /dev/md1
+    $ resize2fs -p /dev/md1
+    $ mount /dev/md1 /mnt/fragmented
+    $ shake -o 0 -S 0 /mnt/fragmented
 
 This will result in some defragmentation of your partition but it is
 likely that the process will need to be repeated multiple times to

@@ -72,6 +72,7 @@ div.tags {
 
 pre.literal-block {
     background: #f8f8f8;
+    line-height: 1;
 }
 
 /* listings */

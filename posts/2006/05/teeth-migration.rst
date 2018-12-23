@@ -19,6 +19,6 @@ a necklace and I promise you that I'll wear it.
 If you would like to donate your teeth to my cause, leave a message
 here, e-mail me, IM me, hand them to me or mail them to me (relevant
 contact information can be found on my
-`homepage <http://www.gwax.com/>`__. I promise that it'll be a nice
+`homepage <https://www.gwax.com/>`__. I promise that it'll be a nice
 necklace too, I'd probably spring for a nice gold or silver chain to
 hold the teeth together.

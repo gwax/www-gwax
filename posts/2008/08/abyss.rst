@@ -17,21 +17,21 @@ principle, I am replacing thevoid with abyss.
 
 Abyss (current specs)
 
--  Lian-Li PC-A77B case
--  Tyan Tempest i5400PW (S5397) motherboard
--  2x Intel Xeon E5420 2.5GHz quad core CPUs
--  4x Kingston 1GB 667MHz FB-DIMM RAM
--  2x Western Digital 500GB SATA HD
--  Lite-On SATA 20X DVD±R
+-   Lian-Li PC-A77B case
+-   Tyan Tempest i5400PW (S5397) motherboard
+-   2x Intel Xeon E5420 2.5GHz quad core CPUs
+-   4x Kingston 1GB 667MHz FB-DIMM RAM
+-   2x Western Digital 500GB SATA HD
+-   Lite-On SATA 20X DVD±R
 
 Abyss (planned upgrades) (as funds are available)
 
--  4x Kingston 1GB 667MHz FB-DIMM RAM
--  Some medium-to-high-end nVIDIA video card
--  some medium-end multi-channel sound card
--  Highpoint RocketRAID2240 16-channel SATA controller
--  3x Icy Dock 5-bay SATA backplane
--  15x 750GB HD
+-   4x Kingston 1GB 667MHz FB-DIMM RAM
+-   Some medium-to-high-end nVIDIA video card
+-   some medium-end multi-channel sound card
+-   Highpoint RocketRAID2240 16-channel SATA controller
+-   3x Icy Dock 5-bay SATA backplane
+-   15x 750GB HD
 
 The hardware in abyss has been specifically chosen to have support for
 Intel `VT-x and

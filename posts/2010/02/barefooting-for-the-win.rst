@@ -5,10 +5,10 @@ Barefooting for the win
 :date: 2010-02-02 00:14:37+00:00
 :tags: waksman
 
-A couple months ago, I bought a pair of `Vibram
-FiveFingers <http://www.vibramfivefingers.com/>`__ shoes, specifically a
-pair of
-`KSO <http://www.vibramfivefingers.com/products/products_KSO_m.cfm>`__\ s.
+A couple months ago, I bought a pair of
+`Vibram FiveFingers <https://us.vibram.com/shop/fivefingers/>`__ shoes, specifically
+a pair of
+`KSO <https://us.vibram.com/shop/fivefingers/men/kso-M14.html>`__\ s.
 I've been wearing the shoes pretty regularly and, to be entirely honest,
 they are probably the most comfortable shoes that I have ever worn. The
 shoes don't provide support in the way typical shoes do so it takes some

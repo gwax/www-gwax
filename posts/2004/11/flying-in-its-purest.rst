@@ -15,22 +15,26 @@ quite certain that it had a heavy influence on my dreams; R-Type Final
 is a side-scrolling space shooter for the PS2 and one of the finest such
 games I have ever played.
 
-Anyway, to the dream itself: I was some sort of flying craft with a
-great deal of maneuverability flying around in some city; It was some
-kind of a small jet fighter/spaceship thing. Now, when I say that I was
-this ship, I mean just that, I perceived things as a ship and could
-react as a ship; the best I can do to describe it is to use Shadowrun
-terms and say that it was exactly how I would expect vehicle rigging to
-feel; if that doesn't help, suffice it to say that I was the ship, not a
-pilot. I remember that it felt very odd at the beginning of the dream to
-be a ship and it took me a little while to get the hang of my engines
-and control systems; I did not appear to use lift and flight surfaces
-for control, it was more of a vectored thrust sort of thing but, even
-then, my engines were of a sort that is far beyond our current
-technology level. After I managed to get the hang of my new found motive
-capacities, senses and such, I had a splendid time flying around the
-city. There turned out to be a surprising number of other such ships and
-we just sort of played around in the city.
+<dream>
+
+    Anyway, to the dream itself: I was some sort of flying craft with a
+    great deal of maneuverability flying around in some city; It was some
+    kind of a small jet fighter/spaceship thing. Now, when I say that I was
+    this ship, I mean just that, I perceived things as a ship and could
+    react as a ship; the best I can do to describe it is to use Shadowrun
+    terms and say that it was exactly how I would expect vehicle rigging to
+    feel; if that doesn't help, suffice it to say that I was the ship, not a
+    pilot. I remember that it felt very odd at the beginning of the dream to
+    be a ship and it took me a little while to get the hang of my engines
+    and control systems; I did not appear to use lift and flight surfaces
+    for control, it was more of a vectored thrust sort of thing but, even
+    then, my engines were of a sort that is far beyond our current
+    technology level. After I managed to get the hang of my new found motive
+    capacities, senses and such, I had a splendid time flying around the
+    city. There turned out to be a surprising number of other such ships and
+    we just sort of played around in the city.
+
+</dream>
 
 This was, hands down, one of the best dreams that I have ever had. I
 think, if I were given the choice between continuing life as I am or

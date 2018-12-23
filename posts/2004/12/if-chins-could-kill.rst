@@ -7,7 +7,7 @@ If Chins Could Kill
 :tags: books
 
 I was in Barnes & Noble recently and I found Bruce Campbell's
-autobiography If Chins Could Kill: Confessions of a B Movie Actor (I
+autobiography *If Chins Could Kill: Confessions of a B Movie Actor* (I
 know that I mentioned this is an earlier post, but it deserves a full
 entry).
 

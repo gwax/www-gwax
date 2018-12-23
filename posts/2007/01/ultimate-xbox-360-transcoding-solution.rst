@@ -58,9 +58,9 @@ them work properly on your 360.
 Go get your hands on a copy of `VLC media
 player <http://www.videolan.org/vlc>`__ and then grab the batch files I
 have made
-(`vlc2xbox480h.bat <http://www.gwax.com/content/xbox-transcode/vlc2xbox480h.bat>`__
+(`vlc2xbox480h.bat <https://www.gwax.com/content/xbox-transcode/vlc2xbox480h.bat>`__
 and
-`vlc2xbox720w.bat <http://www.gwax.com/content/xbox-transcode/vlc2xbox720w.bat>`__).
+`vlc2xbox720w.bat <https://www.gwax.com/content/xbox-transcode/vlc2xbox720w.bat>`__).
 You will need to modify the batch files slightly for your system; open
 the file in a text editor and change the very beginning to point to
 where you have installed VLC ("C:\program files\vlc\vlc.exe" is where

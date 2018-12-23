@@ -17,7 +17,7 @@ not matter what other people think of me because of it. Further, it has
 occurred to me that my desire not to be identified as a hardcore punk is
 more an issue of my intense desire towards conformity and fitting in,
 than an issue of my not identifying with the punk thing. I've been
-listening to a bunch of KMFDM, Pig and Excessive Force lately, which I
+listening to a bunch of KMFDM, Pig, and Excessive Force lately, which I
 tend to do every so often, KMFDM having been my favorite band for quite
 some time. Despite that I have been a huge fan of industrial rock for
 quite some time, I have been unwilling to identify myself as such and

@@ -7,4 +7,4 @@ How to destroy the Earth
 :tags: science & technology, intzorweb
 
 I thought it was about time to point people at a practical guide on `How
-to destroy the Earth <http://qntm.org/?destroy>`__.
+to destroy the Earth <https://qntm.org/destroy>`__.

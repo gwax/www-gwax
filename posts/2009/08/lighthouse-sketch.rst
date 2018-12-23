@@ -12,7 +12,7 @@ Lighthouse Sketch
 
     Sketch of a landscape with lighthouse made on my N810
 
-N810| Another image from the department of sketches that
+Another image from the department of sketches that
 I've made on my N810 while passing time \*cough*in meetings*cough*.
 This, as should likely be obvious, is a sketch of a lighthouse on a
 cliff above some rocky waters near some relatively peaceful ocean

@@ -21,7 +21,8 @@ video is) and rather than trying to figure out how to make it play .mp4
 files, I thought I'd `ImageMagick <http://www.imagemagick.org/>`__
 myself up a quick solution. To that end, I created three animated gifs
 that pulse at different frequencies (`rgb3.gif </images/posts/rgb3.gif>`__,
-`rgb5.gif </images/posts/rgb5.gif>`__ and `rgb7.gif </images/posts/rgb7.gif>`__), which
+`rgb5.gif </images/posts/rgb5.gif>`__,
+and `rgb7.gif </images/posts/rgb7.gif>`__), which
 serve the same purpose as the video and are substantially smaller in
 size (1.2KB vs 1.5MB). The great thing about these is they're
 essentially platform independent and require no video codecs at all. To
@@ -32,5 +33,4 @@ pixel may start working again. If you don't have any luck try one of the
 other frequencies and if that doesn't work, I'm sorry.
 
 **UPDATE:** If you're here, you might be interested in `Unsticking Stuck
-LCD Pixels: A
-Script <link://slug/unsticking-stuck-lcd-pixels-a-script>`__
+LCD Pixels: A Script <link://slug/unsticking-stuck-lcd-pixels-a-script>`__

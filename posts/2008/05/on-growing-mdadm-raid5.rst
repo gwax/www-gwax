@@ -23,10 +23,10 @@ grow it:
 
 .. code:: sh
 
-   mdadm --manage /dev/md1 --add /dev/hdb
-   mdadm --manage /dev/md1 --add /dev/hdc
-   mdadm --manage /dev/md1 --add /dev/hdd
-   mdadm --grow /dev/md1 --raid-devices=7
+    mdadm --manage /dev/md1 --add /dev/hdb
+    mdadm --manage /dev/md1 --add /dev/hdc
+    mdadm --manage /dev/md1 --add /dev/hdd
+    mdadm --grow /dev/md1 --raid-devices=7
 
 This process then got to work and took about 3-4 days to complete. I
 assume the time was on account of most of the drives being IDE drives,
@@ -36,7 +36,7 @@ partition on the array:
 
 .. code:: sh
 
-   resize2fs /dev/md1
+    resize2fs /dev/md1
 
 This then took an hour or so and I was sitting on 3TB of total space.
 The only part of the process during which my drive was inaccessible was
@@ -55,20 +55,20 @@ array:
 
 .. code:: sh
 
-   mdadm --manage /dev/md1 --fail /dev/hdb
-   mdadm --manage /dev/md1 --remove /dev/hdb
+    mdadm --manage /dev/md1 --fail /dev/hdb
+    mdadm --manage /dev/md1 --remove /dev/hdb
 
 partition /dev/hdb and then:
 
 .. code:: sh
 
-   mdadm --manage /dev/md1 --add /dev/hdb1
+    mdadm --manage /dev/md1 --add /dev/hdb1
 
 now wait until the array has rebuilt itself:
 
 .. code:: sh
 
-   cat /proc/mdstat
+    cat /proc/mdstat
 
 and repeat for the other drives. Overall, it's not hard but it's
 annoying and it does take about 1/2 to 2/3 of a day per drive to fix.

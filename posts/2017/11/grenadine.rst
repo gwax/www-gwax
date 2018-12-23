@@ -3,7 +3,6 @@ Grenadine
 
 :slug: grenadine
 :date: 2017-11-06 05:30:20+00:00
-:guid: 571759c9-928c-4cbd-92f1-268446c5d108
 :tags: cocktails, recipes, syrups
 :category: recipes
 
@@ -26,12 +25,12 @@ never fond of.
 Ingredients
 ~~~~~~~~~~~
 
-*   1 cup fresh Pomegranate Juice (~2 large pomegranates)
-*   1 oz Pomegranate Molasses
-*   1 1/2 cup White Sugar
-*   1/16 tsp Xanthan Gum (optional)
-*   1/2 tsp Orange Blossom Water
-*   1 oz over-proof grain neutral spirit (Everclear or vodka)
+-   1 cup fresh Pomegranate Juice (~2 large pomegranates)
+-   1 oz Pomegranate Molasses
+-   1 1/2 cup White Sugar
+-   1/16 tsp Xanthan Gum (optional)
+-   1/2 tsp Orange Blossom Water
+-   1 oz over-proof grain neutral spirit (Everclear or vodka)
 
 .. TEASER_END
 
@@ -58,16 +57,16 @@ Procedure
 Notes
 ~~~~~
 
-*   Not all pomegranate molasses is created equal.  It took me a few tries
+-   Not all pomegranate molasses is created equal.  It took me a few tries
     before I found a brand that I like.  Most recently, I'm using Carlo brand
     pomegranate molasses.  In my experience Cortas (most commonly available)
     is a little too heterogeneous, dark, and tart, which results in a
     grenadine that falls short on color and visual consistency.
-*   Store bought pomegranate juice can be substituted for fresh squeezed juice
+-   Store bought pomegranate juice can be substituted for fresh squeezed juice
     but will produce an inferior result.  I have used POM 100% pomegranate
     juice (from concentrate) and it's fairly ok; better than store bought
     grenadine but still a sad shadow of using fresh pomegranate juice.
-*   1 oz is probably too much Everclear for ~12-16oz of syrup but I tend to
+-   1 oz is probably too much Everclear for ~12-16oz of syrup but I tend to
     go through grenadine slow enough that I prefer that it keeps well and
     the flavor is largely unnoticeable behind the grenadine.  In California,
     Everclear is 151 proof so you may want to decrease your ratios is you're
@@ -89,9 +88,9 @@ finding the drink overly discordant.
 Ingredients
 ~~~~~~~~~~~
 
-*   3/4 oz Grenadine
-*   3/4 oz Lime Juice
-*   2 oz Applejack
+-   3/4 oz Grenadine
+-   3/4 oz Lime Juice
+-   2 oz Applejack
 
 
 Procedure
@@ -105,17 +104,17 @@ Procedure
 Notes
 ~~~~~
 
-*   Following David Wondrich's lead from `Imbibe`_, I've gone with lime juice
+-   Following David Wondrich's lead from `Imbibe`_, I've gone with lime juice
     over lemon juice.  I think it makes for a more balanced, well-rounded
     drink.
-*   There are plenty of apple brandy options out there.  For a Jack Rose, I
+-   There are plenty of apple brandy options out there.  For a Jack Rose, I
     recommend using something in the drier, American Applejack style; Calvados
     is delicious (and often better than Applejack) but it's not right for
     this drink.
 
-    *   I've been particularly enjoying Arkansas Black Straight Applejack and
+    -   I've been particularly enjoying Arkansas Black Straight Applejack and
         recommend it over the other things that I've tried.
-    *   Laird's makes entirely decent applejack but they also make some
+    -   Laird's makes entirely decent applejack but they also make some
         entirely mediocre apple brandies.  Laird's 100 proof Straight Apple
         Brandy is a good option.  Looking to other contexts, the Laird's
         Straight Apple Brandy is great for drying out otherwise sweet drinks

@@ -23,21 +23,21 @@ violation of a Minneapolis ordinance even though there was no marking.
 Unfortunately, for me, the guy in the case I found lost. Then, at the
 end of the opinion, I found this:
 
-   Finally, it is defendant's position that the enforcement of the
-   ordinance is unconstitutional because of the failure to post signs
-   which indicate the time limitations in particular zones, more
-   especially the restrictions governing the area in which he was
-   parked. It appears that in some parts of the city the 2-hour
-   limitation is posted and in others it is not, a situation which,
-   defendant asserts, unconstitutionally misleads the public. In the
-   absence of an express provision in a statute or ordinance requiring
-   posting, we are of the opinion that the necessity for such notice is
-   a matter of administrative or legislative judgment with which the
-   courts will not concern themselves, notwithstanding the public's
-   acknowledged habit of relying on signs of this character in actual
-   practice.
+    Finally, it is defendant's position that the enforcement of the
+    ordinance is unconstitutional because of the failure to post signs
+    which indicate the time limitations in particular zones, more
+    especially the restrictions governing the area in which he was
+    parked. It appears that in some parts of the city the 2-hour
+    limitation is posted and in others it is not, a situation which,
+    defendant asserts, unconstitutionally misleads the public. In the
+    absence of an express provision in a statute or ordinance requiring
+    posting, we are of the opinion that the necessity for such notice is
+    a matter of administrative or legislative judgment with which the
+    courts will not concern themselves, notwithstanding the public's
+    acknowledged habit of relying on signs of this character in actual
+    practice.
 
-   *State v. Perry*, 269 Minn 204, 208 (1964).
+    *State v. Perry*, 269 Minn 204, 208 (1964).
 
 In there, near the end, there was one glimmer of hope, specifically
 "notwithstanding...", which said to me that if I could show a public
@@ -59,7 +59,7 @@ HO: You're not disputing that?
 
 Me: Nope.
 
-HO: \*perplexed\*
+HO: *perplexed*
 
 Me: Well, see, in State v. Perry, the Minnesota Supreme Court...
 

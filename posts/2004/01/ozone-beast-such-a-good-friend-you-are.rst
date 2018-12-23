@@ -3,12 +3,13 @@ Ozone Beast, such a good friend you are
 
 :slug: ozone-beast-such-a-good-friend-you-are
 :date: 2004-01-07 18:28:00+00:00
+:updated: 2018-11-26 07:46:10+00:00
 :tags: computers
 
 So, there's this irritating little thing about my personal web page,
 namely, the internet (google and MIT's search service) see fit to index
 it as being at `ozone-beast.mit.edu <http://ozone-beast.mit.edu/>`__ and
-not as the preferred `gwax based domain <http://www.gwax.com/>`__.
+not as the preferred `gwax based domain <https://www.gwax.com/>`__.
 Needless to say, it irritates me to have a domain name and then have
 search service ignore it, so I've gone and used php to tack on a little
 note at the top if anyone tries to access it without using a gwax domain
@@ -32,3 +33,5 @@ just as much noise. I usually have a love-hate relationship with most of
 my computers, but not ozone-beast, there's no hate there.
 
 Ooh, I almost forgot, it's got wheels too.
+
+Update for posterity: Ozone Beast was a `Dell PowerEdge 4100 <https://en.wikipedia.org/wiki/List_of_Dell_PowerEdge_Servers#Generation_1>`_.

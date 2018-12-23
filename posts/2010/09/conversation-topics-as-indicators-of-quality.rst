@@ -7,11 +7,11 @@ Conversation topics as indicators of quality
 
 I have been thinking about the following quote a fair bit recently:
 
-   Great minds discuss ideas; average minds discuss events; small minds
-   discuss people.
+    Great minds discuss ideas; average minds discuss events; small minds
+    discuss people.
 
-   -- variously attributed to Eleanor Roosevelt, Hyman G. Rickover, or
-   anonymously
+    -- variously attributed to Eleanor Roosevelt, Hyman G. Rickover, or
+    anonymously
 
 Since having come across the quote, I have found myself grouping social
 interactions by whether the discussions are primarily of ideas, events,

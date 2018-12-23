@@ -13,7 +13,7 @@ with y'all. I think that I'm going to structure this as a summary of some
 of what's been going on and follow with some more general thoughts that
 have been crystallizing.
 
-It being Cancun, the obligatory sun bathing, swimming and strong, frozen
+It being Cancun, the obligatory sun bathing, swimming, and strong, frozen
 beverages have been happening but, as that is largely not interesting in
 any detail, I'll leave it at that. I have been staying with friends at
 the Royal Sands, a timeshare resort. This is one of five timeshare
