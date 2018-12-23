@@ -3,6 +3,7 @@ Tales From The Afternow
 
 :slug: tales-from-the-afternow
 :date: 2004-05-13 01:06:00+00:00
+:updated: 2018-12-23 08:14:52.169915+00:00
 :tags: art & culture
 
 I came across this nifty post-apocalyptic, sci-fi radio show on the

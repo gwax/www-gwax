@@ -3,7 +3,7 @@ Be a Tourist from Home
 
 :slug: be-a-tourist-from-home
 :date: 2005-05-27 06:14:51+00:00
-:updated: 2005-10-15 20:51:40+00:00
+:updated: 2018-12-23 08:14:52.169915+00:00
 :tags: adventures, intzorweb
 
 The Internet continues to provide in new and fascinating ways. Already,

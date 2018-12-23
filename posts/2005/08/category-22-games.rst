@@ -10,5 +10,5 @@ Category 22 - Games
 content filtering services and via their website, you can
 `look up the rating <http://cfssupport.sonicwall.com/Support/web/eng/newui/viewRating.jsp>`__
 of a website. Apparently, my blog is rated "Category 22 - Games", while
-`my homepage <http://www.gwax.com/>`__ is "Category 64 - Unrated". I guess
+`my homepage <https://www.gwax.com/>`__ is "Category 64 - Unrated". I guess
 that means that I run a gaming blog; fancy that.

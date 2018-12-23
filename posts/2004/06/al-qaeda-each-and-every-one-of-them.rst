@@ -3,6 +3,7 @@ Al-Qaeda, each and every one of them
 
 :slug: al-qaeda-each-and-every-one-of-them
 :date: 2004-06-15 04:27:00+00:00
+:updated: 2018-12-23 08:14:52.169915+00:00
 :tags: politics
 
 I continue to notice that every time any individual is accused of

@@ -9,7 +9,7 @@ Ozone Beast, such a good friend you are
 So, there's this irritating little thing about my personal web page,
 namely, the internet (google and MIT's search service) see fit to index
 it as being at `ozone-beast.mit.edu <http://ozone-beast.mit.edu/>`__ and
-not as the preferred `gwax based domain <http://www.gwax.com/>`__.
+not as the preferred `gwax based domain <https://www.gwax.com/>`__.
 Needless to say, it irritates me to have a domain name and then have
 search service ignore it, so I've gone and used php to tack on a little
 note at the top if anyone tries to access it without using a gwax domain

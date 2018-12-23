@@ -13,7 +13,7 @@ affirmative, a response that met with much revelry from the other end of
 the line. The call eventually turned out to be from some guy who come
 across my research into `Tootsie Roll Pops <link://slug/tootsiepop>`__ and
 taken advantage of the fact that I keep my cell phone number on `my
-homepage <http://www.gwax.com>`__. This man was calling because he
+homepage <https://www.gwax.com>`__. This man was calling because he
 wanted to know both if I was serious and if I had really eaten all those
 Tootsie Roll Pops. Not being a lying sort of person, I of course
 informed the gentleman that I was only kind of serious but that I had in

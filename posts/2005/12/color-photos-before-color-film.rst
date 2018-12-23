@@ -3,7 +3,7 @@ Color photos before color film
 
 :slug: color-photos-before-color-film
 :date: 2005-12-09 03:59:41+00:00
-:updated: 2005-12-10 16:55:40+00:00
+:updated: 2018-12-23 08:14:52.169915+00:00
 :tags: keen, art & culture, science & technology
 
 Way back in nineteen-aught-nine (1909)--ah those were the good old

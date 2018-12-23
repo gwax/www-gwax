@@ -3,7 +3,7 @@ Boris Artzybasheff
 
 :slug: boris-artzybasheff
 :date: 2006-03-15 05:31:12+00:00
-:updated: 2006-03-15 05:32:30+00:00
+:updated: 2018-12-23 08:14:52.169915+00:00
 :tags: art & culture
 
 I should like to bring to your attention the art of one Boris

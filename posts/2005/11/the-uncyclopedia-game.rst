@@ -3,7 +3,7 @@ The Uncyclopedia game
 
 :slug: the-uncyclopedia-game
 :date: 2005-11-14 03:56:45+00:00
-:updated: 2009-09-28 00:11:31+00:00
+:updated: 2018-12-23 08:14:52.169915+00:00
 :tags: compositions, intzorweb
 
 In my free time, I've been playing with the wonderful

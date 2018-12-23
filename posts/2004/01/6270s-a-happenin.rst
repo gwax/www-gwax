@@ -3,7 +3,7 @@
 
 :slug: 6270s-a-happenin
 :date: 2004-01-06 17:42:00+00:00
-:updated: 2018-11-26 07:33:56+00:00
+:updated: 2005-01-24 06:49:13+00:00
 :tags: school
 
 So, I'm doing this here `6.270 <http://web.mit.edu/6.270/>`__ -

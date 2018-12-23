@@ -3,7 +3,7 @@ Futzing with my server
 
 :slug: futzing-with-my-server
 :date: 2005-05-07 02:35:18+00:00
-:updated: 2005-05-07 03:35:23+00:00
+:updated: 2018-12-23 08:14:52.169915+00:00
 :tags: computers
 
 So I've been futzing with my server a bunch today (because I don't want
