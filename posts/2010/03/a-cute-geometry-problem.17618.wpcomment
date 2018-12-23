@@ -5,6 +5,17 @@
 .. date_utc: 2010-03-15 23:42:17
 .. compiler: rest
 
-That's a more geometric solution than the trig. solution that I came up with. Using trig, I'd solve the problem as follows:
+That's a more geometric solution than the trig. solution that I came up with.
+Using trig, I'd solve the problem as follows:
 
-As in the geometry solution above, the arcs are trisected and enclose an angle of :math:`\frac{\pi}{6}`. We can look at the shape in the center as 4 circular segments and a square with sides that are chords. Using the circular segment and chord equations, we know each circular segment has an area of :math:`\frac{1}{2} r^2 (\frac{\pi}{6} - \sin \frac{\pi}{6})`, the sides of the square are :math:`2 r \sin \frac{\pi}{12}`, and the area of the square is :math:`4 r^2 \sin^2 \frac{\pi}{12}`. Adding 4 segments and the square, we get an area of :math:`2 r^2 (\frac{\pi}{6} - \sin \frac{\pi}{6}) + 4 r^2 \sin^2 \frac{\pi}{12}`, which (taking r to be 1) evaluates to :math:`1 + \frac{\pi}{3} - \sqrt{3}`. Trig makes it pretty darned trivial but requires knowledge or derivation of more complex equations.
+As in the geometry solution above, the arcs are trisected and enclose an angle
+of :math:`\frac{\pi}{6}`. We can look at the shape in the center as 4 circular
+segments and a square with sides that are chords. Using the circular segment
+and chord equations, we know each circular segment has an area of
+:math:`\frac{1}{2} r^2 (\frac{\pi}{6} - \sin \frac{\pi}{6})`, the sides of the
+square are :math:`2 r \sin \frac{\pi}{12}`, and the area of the square is
+:math:`4 r^2 \sin^2 \frac{\pi}{12}`. Adding 4 segments and the square, we get
+an area of :math:`2 r^2 (\frac{\pi}{6} - \sin \frac{\pi}{6}) + 4 r^2 \sin^2 \frac{\pi}{12}`,
+which (taking r to be 1) evaluates to :math:`1 + \frac{\pi}{3} - \sqrt{3}`.
+Trig makes it pretty darned trivial but requires knowledge or derivation of
+more complex equations.

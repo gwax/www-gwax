@@ -7,7 +7,7 @@
 
 Right now, I sit in my car, typing to you on my work laptop over my
 phone's Internet, in a rest area where I plan to sleep, approximately 50
-miles easy of Phoenix, AZ, having driven 703 miles in just shy of 10.5
+miles east of Phoenix, AZ, having driven 703 miles in just shy of 10.5
 hours, having used less than two tanks of fuel.
 
 So far, barring two issues, it's been an altogether pleasant trip. Due
@@ -25,7 +25,7 @@ smooth and fast paced travel.
 
 I have been listening to Moby Dick on audiobook and am currently on disc
 8 of 18. I must, truly and honestly, say that this work of prose is
-truly an amazing thing. Moby Dick is, at times, for that matter, most
+an amazing thing. Moby Dick is, at times, for that matter, most
 times, rather slow paced, such that I expect I wouldn't be able to
 manage this degree of devotion were I not a captive audience with a
 great deal of monotony on my side. However, seeing as I am a captive

@@ -4,8 +4,8 @@
 .. date_utc: 2011-03-01 04:11:32
 .. compiler: rest
 
-1.  That code isn't right -- unbalanced parens at least, and I don't see
-    how it's supposed to work anyway (since "something" never changes, your
-    "while hasattr(something...") loop will never end.
-2.  list.insert is O(n), and you call it O(n) times, so your flatten is
-    O(n^2)... ouch
+1.   That code isn't right -- unbalanced parens at least, and I don't see
+     how it's supposed to work anyway (since "something" never changes, your
+     "while hasattr(something...") loop will never end.
+2.   list.insert is O(n), and you call it O(n) times, so your flatten is
+     O(n^2)... ouch

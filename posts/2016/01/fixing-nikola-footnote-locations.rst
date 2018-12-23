@@ -3,12 +3,12 @@ Fixing Nikola Footnote Locations
 
 :slug: fixing-nikola-footnote-locations
 :date: 2016-01-23 23:44:17+00:00
-:guid: f167543f-3c92-4155-8d48-578bd865be0f
 :updated: 2018-04-16T06:06:57.494348+00:00
 :tags: nikola, meta, code snippets
 :category: meta
 
-Personally, I prefer to intersperse my footnote declarations with the text that is being footnoted when writing my. For example:[#]_
+Personally, I prefer to intersperse my footnote declarations with the text
+that is being footnoted when writing my. For example:[#]_
 
 .. [#] This is just an example.
 
@@ -20,7 +20,10 @@ Personally, I prefer to intersperse my footnote declarations with the text that 
 
     And then I continue on with the rest of my writing.
 
-Wherever they are declared, I prefer to have all of my footnotes appear at the end of my posts. By default, `Nikola <https://getnikola.com>`_  puts the footnotes in wherever they are declared. A simple snippet of javascript can be used to fix the locations of footnotes:
+Wherever they are declared, I prefer to have all of my footnotes appear at the
+end of my posts. By default, `Nikola <https://getnikola.com>`_  puts the
+footnotes in wherever they are declared. A simple snippet of javascript can be
+used to fix the locations of footnotes:
 
 .. code:: javascript
 
@@ -31,4 +34,5 @@ Wherever they are declared, I prefer to have all of my footnotes appear at the e
         });
     });
 
-Simply wrap in a <script> tag and include in the BODY_END section of conf.py or add it to your theme.
+Simply wrap in a <script> tag and include in the BODY_END section of conf.py
+or add it to your theme.

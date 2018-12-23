@@ -4,7 +4,6 @@ Bash history synchronization
 :slug: bash-history-synchronization
 :date: 2016-09-06 08:05:13+00:00
 :updated: 2018-04-20T07:55:00.339805+00:00
-:guid: 42d5ffed-0b3a-49c9-b234-f55b711ea91d
 :tags: code snippets, bash
 :category: rumblings
 
@@ -14,12 +13,12 @@ go to.
 I really like command history (pressing up arrow or Ctrl+R) and there are a
 few specific behaviors that I want in my history:
 
-1. If I have multiple terminals open, I want history shared across them.
-2. If I run the same command multiple times, it should be in my history once.
-3. My history should stick around forever.
-4. The last command, I entered should be the first thing I see when I press
-   up arrow.
-5. Race conditions of long-running commands shouldn't erase history entries.
+1.  If I have multiple terminals open, I want history shared across them.
+2.  If I run the same command multiple times, it should be in my history once.
+3.  My history should stick around forever.
+4.  The last command, I entered should be the first thing I see when I press
+    up arrow.
+5.  Race conditions of long-running commands shouldn't erase history entries.
 
 Turns out all of this is a little tricky with bash, but I've mostly managed it:
 

@@ -1,5 +1,5 @@
-HOWTO unlock your N900 and turn it into a 3G modem
-==================================================
+HOWTO: unlock your N900 and turn it into a 3G modem
+===================================================
 
 :slug: howto-unlock-your-n900-and-turn-it-into-a-3g-modem
 :date: 2010-02-23 22:36:24+00:00
@@ -14,18 +14,20 @@ instructions for the Nokia N900.
 
 Some notes before we begin:
 
-#. This is a supported use of your phone.
-#. There is no risk of bricking your phone.
-#. This does not wipe your phone.
-#. You don't need to back anything up before starting.
+#.  This is a supported use of your phone.
+#.  There is no risk of bricking your phone.
+#.  This does not wipe your phone.
+#.  You don't need to back anything up before starting.
 
-**1. Install Bluetooth Dial-Up Networking support**
+Install Bluetooth Dial-Up Networking support
+--------------------------------------------
 
-#. Open the Application Manager
-#. Install the "Bluetooth Dial-Up Networking" Application
+#.  Open the Application Manager
+#.  Install the "Bluetooth Dial-Up Networking" Application
 
-**2. Tether your computer**
+Tether your computer
+--------------------
 
--  `Windows <http://lmgtfy.com/?q=bluetooth+tether+windows>`__
--  `Ubuntu <http://lmgtfy.com/?q=bluetooth+tether+ubuntu>`__
--  `etc. <http://www.google.com/>`__
+-   `Windows <http://lmgtfy.com/?q=bluetooth+tether+windows>`__
+-   `Ubuntu <http://lmgtfy.com/?q=bluetooth+tether+ubuntu>`__
+-   `etc. <http://www.google.com/>`__

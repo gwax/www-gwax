@@ -8,7 +8,8 @@ A cute geometry problem
 :category: rumblings
 :has_math: yes
 
-I came across a cute geometry problem recently and I would like to pass it along.
+I came across a cute geometry problem recently and I would like to pass it
+along.
 
 Problem
 -------
@@ -45,11 +46,15 @@ Problem Statement
 
     .. container:: eight columns
 
-        If the sides of the square are of unit length and all curves are circular arcs, what is the area of the highlighted region?
+        If the sides of the square are of unit length and all curves are
+        circular arcs, what is the area of the highlighted region?
 
-        Although substantially easier with the use of calculus or trigonometry, this problem can be solved entirely with basic geometry (no weird laws you might have forgotten since high school are necessary).
+        Although substantially easier with the use of calculus or trigonometry,
+        this problem can be solved entirely with basic geometry (no weird laws
+        you might have forgotten since high school are necessary).
 
-        I have derived a geometric solution, which follows, but I highly recommend trying to do it yourself first.
+        I have derived a geometric solution, which follows, but I highly
+        recommend trying to do it yourself first.
 
 .. TEASER_END
 
@@ -79,7 +84,9 @@ Step 1
 
     .. container:: eight columns
 
-        The highlighted section is the full square minus a quarter circle with radius of unit length. The highlighted area can be found by simple subtraction.
+        The highlighted section is the full square minus a quarter circle with
+        radius of unit length. The highlighted area can be found by simple
+        subtraction.
 
         .. math::
 
@@ -111,7 +118,12 @@ Step 2
 
     .. container:: eight columns
 
-        Since the edges of the highlighted triangle are all on circular arcs of unit length, the highlighted triangle is an equilateral triangle. That the triangle is equilateral means that the intersection points between the arcs trisect each arc. That the triangle is equilateral and has unit length sides further allows us to calculate the height of the triangle.
+        Since the edges of the highlighted triangle are all on circular arcs
+        of unit length, the highlighted triangle is an equilateral triangle.
+        That the triangle is equilateral means that the intersection points
+        between the arcs trisect each arc. That the triangle is equilateral
+        and has unit length sides further allows us to calculate the height of
+        the triangle.
 
         .. math::
 
@@ -143,7 +155,9 @@ Step 3
 
     .. container:: eight columns
 
-        Having noted in Step 2 that the arc intersections trisect the arcs, the highlighted wedge becomes one twelfth of a circle with radius of unit length. The area can be found simply.
+        Having noted in Step 2 that the arc intersections trisect the arcs,
+        the highlighted wedge becomes one twelfth of a circle with radius of
+        unit length. The area can be found simply.
 
         .. math::
 
@@ -175,7 +189,12 @@ Step 4
 
     .. container:: eight columns
 
-        Since we know the height of the triangle from Step 2, we can subtract that from the height of the total square to get the left side of the highlighted trapezoid. The right side of the highlighted trapezoid is, of course, unit length. The width of the trapezoid, by symmetry, is one half unit length. Knowing both sides and the width, we can calculate the area of the highlighted trapezoid.
+        Since we know the height of the triangle from Step 2, we can subtract
+        that from the height of the total square to get the left side of the
+        highlighted trapezoid. The right side of the highlighted trapezoid is,
+        of course, unit length. The width of the trapezoid, by symmetry, is one
+        half unit length. Knowing both sides and the width, we can calculate
+        the area of the highlighted trapezoid.
 
         .. math::
 
@@ -207,7 +226,8 @@ Step 5
 
     .. container:: eight columns
 
-        By subtracting the area found in Step 3 from the area found in Step 4, we can find the highlighted area.
+        By subtracting the area found in Step 3 from the area found in Step 4,
+        we can find the highlighted area.
 
         .. math::
 
@@ -239,7 +259,8 @@ Step 6
 
     .. container:: eight columns
 
-        By symmetry, we know that the highlighted area is twice the area found in Step 5.
+        By symmetry, we know that the highlighted area is twice the area found
+        in Step 5.
 
         .. math::
 
@@ -275,7 +296,8 @@ Step 7
 
     .. container:: eight columns
 
-        By subtracting the area found in Step 6 from the area found in Step 1, we can find the highlighted area.
+        By subtracting the area found in Step 6 from the area found in Step 1,
+        we can find the highlighted area.
 
         .. math::
 
@@ -313,7 +335,8 @@ Step 8
 
     .. container:: eight columns
 
-        By symmetry, we know that the highlighted area is four times the area found in Step 7.
+        By symmetry, we know that the highlighted area is four times the area
+        found in Step 7.
 
         .. math::
 
@@ -351,7 +374,8 @@ Solution
 
     .. container:: eight columns
 
-        By subtracting the area found in Step 8 from the area of a unit length sided square, we can obtain the area of the highlighted region.
+        By subtracting the area found in Step 8 from the area of a unit length
+        sided square, we can obtain the area of the highlighted region.
 
         .. math::
 
