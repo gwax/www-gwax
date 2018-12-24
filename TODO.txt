@@ -3,3 +3,4 @@
 - line-block margins / centering?
 - reimplement 2009/12/unsticking-stuck-lcd-pixels-a-script.html to work on appengine
 - missing space after datetime in archives
+- drop the landing page and go straight to blog
