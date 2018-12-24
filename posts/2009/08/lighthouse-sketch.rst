@@ -8,7 +8,7 @@ Lighthouse Sketch
 
 .. thumbnail:: /images/posts/2009/08/Lighthouse.sketch.png
     :alt: Sketch of a landscape with lighthouse made on my N810
-    :class: u-pull-left thumbnail
+    :align: left
 
     Sketch of a landscape with lighthouse made on my N810
 

@@ -8,7 +8,7 @@ This is how I roll
 
 .. thumbnail:: /images/posts/Eldridge2006b.jpg
     :alt: Eldridge 2006
-    :class: u-pull-right
+    :align: right
 
 It may be well before my sailing season gets underway,
 but I happened to be in a West Marine recently for other reasons and I

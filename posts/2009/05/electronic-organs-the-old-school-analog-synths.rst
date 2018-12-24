@@ -8,13 +8,13 @@ Electronic Organs: the old school analog synths
 
 .. thumbnail:: /images/posts/2009/05/organ-1.jpg
     :alt: Conn 580 Organ
-    :class: u-pull-left thumbnail
+    :align: left
 
     Conn 580 Organ
 
 .. thumbnail:: /images/posts/2009/05/organ-3.jpg
     :alt: Conn 580 Organ side view
-    :class: u-pull-right thumbnail
+    :align: right
 
     Conn 580 Organ side view
 
@@ -33,7 +33,7 @@ moving again for a very long time.
 
 .. thumbnail:: /images/posts/2009/05/organ-2.jpg
     :alt: Conn 580 internals
-    :class: u-pull-left thumbnail
+    :align: left
 
     Conn 580 internals
 

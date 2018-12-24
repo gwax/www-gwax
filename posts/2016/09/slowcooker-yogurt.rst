@@ -8,7 +8,7 @@ Slowcooker Yogurt
 
 .. thumbnail:: /images/slowcooker-yogurt/yield.jpg
     :alt: Some jars of homemade yogurt
-    :class: u-pull-right thumbnail
+    :align: right
 
 I have a 14 month old daughter, a wife that likes yogurt with granola, and I
 kind of like the stuff too. Needless to say, we go through a lot of yogurt in
@@ -44,7 +44,7 @@ Instructions
 
 .. thumbnail:: /images/slowcooker-yogurt/straining.jpg
     :alt: Straining yogurt
-    :class: u-pull-right thumbnail
+    :align: right
 
 1.  Pour the full gallon of milk into the slowcooker.
 2.  Set the slowcooker to high for 2.5 hours.
@@ -81,7 +81,7 @@ Instructions
 
 .. thumbnail:: /images/slowcooker-yogurt/whey.jpg
     :alt: A jug of fresh whey
-    :class: u-pull-left thumbnail
+    :align: left
 
 11.  Set a colander in a bowl, with cheesecloth in the colander, and start
      scooping the yogurt into the colander.

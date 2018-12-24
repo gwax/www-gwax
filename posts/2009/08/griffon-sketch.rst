@@ -8,7 +8,7 @@ Griffon Sketch
 
 .. thumbnail:: /images/posts/2009/08/Griffon.sketch.png
     :alt: A sketch of a griffin standing in watch over a savanna
-    :class: u-pull-left thumbnail
+    :align: left
 
     A sketch of a griffin standing in watch over a savanna
 
