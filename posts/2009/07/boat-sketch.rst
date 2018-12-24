@@ -8,7 +8,7 @@ Boat Sketch
 
 .. thumbnail:: /images/posts/2009/07/BoatSketch.sketch.png
     :alt: Sketch of a small sailboat made on my N810
-    :class: u-pull-left thumbnail
+    :align: left
 
     Sketch of a small sailboat made on my N810
 

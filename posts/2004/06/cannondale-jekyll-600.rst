@@ -8,7 +8,7 @@ Cannondale Jekyll 600
 
 .. thumbnail:: /images/posts/4VN6DRED.jpg
     :alt: Cannondale Jekyll 600 (mine is black)
-    :class: u-pull-right thumbnail
+    :align: right
 
     Cannondale Jekyll 600 (mine is black)
 

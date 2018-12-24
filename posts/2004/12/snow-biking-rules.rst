@@ -8,7 +8,7 @@ Snow Biking Rules!
 
 .. thumbnail:: /images/posts/extreme294.jpg
     :alt: Nokian Extreme 294
-    :class: u-pull-right thumbnail
+    :align: right
 
 When I realized there was a bunch of snow on the ground (and got off my
 lazy ass) I made a quick run into Cambridge and retrieved my bike. Upon

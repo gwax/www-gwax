@@ -8,10 +8,10 @@ Halloween 2005 Preview
 
 .. thumbnail:: /images/posts/BoximusPreview1.jpg
     :alt: Boximus Prime Preview 1
-    :class: u-pull-left thumbnail
+    :align: left
 .. thumbnail:: /images/posts/BoximusPreview2.jpg
     :alt: Boximus Prime Preview 2
-    :class: u-pull-right thumbnail
+    :align: right
 
 Halloween is coming on quickly and I have decided to go and make myself a
 fancy costume this year. Shortly after waking up today I went and obtained

@@ -6,13 +6,16 @@ The Super Secret Value Meal
 :updated: 2005-12-16 19:00:19+00:00
 :tags: food & drink
 
-|Super Secret Value Meal| McDonald's would like to have you believe that
-Value Meals are what you want and that they're cheaper than other
-options but they're pushing forward half-truths; Value Meals are what
-you want (or at least what I want when I'm not going for the sole
-purpose of buying fries) but they are not cheaper than the alternatives.
-The key to getting a good value at McDonald's is realizing that the
-sandwiches in Value Meals are really expensive (>$3) and that double
+.. thumbnail:: /images/posts/Super_Secret_Value_Meal.jpg
+    :alt: Super Secret Value Meal
+    :align: right
+
+McDonald's would like to have you believe that Value Meals are what you want
+and that they're cheaper than other options but they're pushing forward
+half-truths; Value Meals are what you want (or at least what I want when I'm
+not going for the sole purpose of buying fries) but they are not cheaper than
+the alternatives. The key to getting a good value at McDonald's is realizing
+that the sandwiches in Value Meals are really expensive (>$3) and that double
 cheeseburgers are on the dollar menu; in case you want a little wtf, a
 normal cheeseburger is more expensive at $1.09. The price of a regular
 sized Quarter Pounder Value Meal is $5.09 pre-tax and the price of a
@@ -31,6 +34,3 @@ Meal when I looked at my receipt and noticed a funny line that said
 VALUE MEAL SAVINGS -0.49; you save money when you buy a sandwich, fries
 and drink combo, even if it's not listed as a value meal. George: 1,
 McDonald's: >1,000,000,000 served.
-
-.. |Super Secret Value Meal| thumbnail:: /images/posts/Super_Secret_Value_Meal.jpg
-   :class: u-pull-right thumbnail

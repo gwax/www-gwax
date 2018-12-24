@@ -6,8 +6,11 @@ The World of Ralph Bakshi
 :updated: 2008-05-08 19:37:23+00:00
 :tags: movies & tv
 
-|Wizards poster| `Ralph
-Bakshi <http://en.wikipedia.org/wiki/Ralph_Bakshi>`__ is a particularly
+.. thumbnail:: /images/posts/2008/05/wizards_poster.jpg
+    :alt: Wizards poster
+    :align: right
+
+`Ralph Bakshi <http://en.wikipedia.org/wiki/Ralph_Bakshi>`__ is a particularly
 interesting American maker of animated films. I expect relatively few of
 you have ever heard of Ralph Bakshi and almost as few have seen any of
 his works, which is why it is necessary that I bring Ralph and his works
@@ -54,7 +57,3 @@ animation, responsible for many things beyond the few that I have
 mentioned, and I would be doing you a disservice if I didn't bring him
 to your attention. Having done so, the disservice of not watching
 Bakshi's works is now yours to remedy.
-
-.. |Wizards poster| thumbnail:: /images/posts/2008/05/wizards_poster.jpg
-    :alt: Wizards poster
-    :class: u-pull-right thumbnail

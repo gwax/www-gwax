@@ -15,10 +15,14 @@ considering how much I like video games, I'm saying a lot here. Twilight
 Princess is so much fun that I've logged about 34 hours within the past
 week and I haven't even been side-questing very much.
 
-|Wiimote takes out our TV| As much as I love the Wii, my point in this
-post is not to sing the praises of the Wii but to warn you of the
-dangers and suggest possible preventative measures. There have been a
-number of `stories <http://www.wiihaveaproblem.com/>`__ propagating
+.. thumbnail:: /images/posts/Wiimote2TV.jpg
+    :alt: Wiimote takes out our TV
+    :align: right
+
+As much as I love the Wii, my point in this post is not to sing the praises of
+the Wii but to warn you of the dangers and suggest possible preventative
+measures. There have been a number of
+`stories <http://www.wiihaveaproblem.com/>`__ propagating
 their way about the internet about people throwing their Wiimotes into
 windows, televisions and other people. Nintendo's response to hearing
 the people have been throwing controllers into televisions and such has
@@ -55,6 +59,3 @@ so hopefully that'll make it Wiiproof too.
 So, the morals of this post are: 1) make sure that you *always* use the
 wrist strap, and 2) replace your screen with Polycarbonate or put a
 sheet of Polycarbonate in front of your TV.
-
-.. |Wiimote takes out our TV| thumbnail:: /images/posts/Wiimote2TV.jpg
-    :class: u-pull-right thumbnail

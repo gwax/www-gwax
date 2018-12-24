@@ -6,10 +6,14 @@ Dinosaur Comics Helped me Find my Philosophy
 :updated: 2007-04-14 20:52:44+00:00
 :tags: musings, inanity
 
-|Dinosaur Panpsychism Explanation| I was reading `Dinosaur
-Comics <http://www.qwantz.com>`__, as it is consistently one of the best
-comics on the Internet, and `T-Rex was explaining
-panpsychism <http://www.qwantz.com/index.pl?comic=974>`__. Upon reading
+.. image:: /images/posts/2007/04/qwantz-panpsych-panel11.png
+    :alt: Dinosaur Panpsychism Explanation
+    :align: right
+    :target: http://www.qwantz.com/index.pl?comic=974
+
+I was reading `Dinosaur Comics <http://www.qwantz.com>`__, as it is
+consistently one of the best comics on the Internet, and `T-Rex was explaining
+panpsychism <http://qwantz.com/index.php?comic=974>`__. Upon reading
 the first panel (included on the right for copyright violation
 purposes), I found myself thinking that
 `panpsychism <http://en.wikipedia.org/wiki/Panpsychism>`__ sounded an
@@ -47,8 +51,3 @@ trying as hard as it can to find a friend to share electrons with
 (loneliness is the pathetic fallacy sneaking in).
 
 There you have it, I believe in hylopathism with weak emergence.
-
-.. |Dinosaur Panpsychism Explanation| image:: /images/posts/2007/04/qwantz-panpsych-panel11.png
-    :alt: Dinosaur Panpsychism Explanation
-    :class: u-pull-right
-    :target: http://www.qwantz.com/index.pl?comic=974

@@ -8,7 +8,7 @@ Save the Pacific Northwest Tree Octopus
 
 .. image:: /images/posts/tentriblarge.png
     :alt: Save the Pacific Northwest Tree Octopus
-    :class: u-pull-left
+    :align: right
 
 It has come to my attention
 that the endangered Tree Octopus of the Pacific Northwest is suffering

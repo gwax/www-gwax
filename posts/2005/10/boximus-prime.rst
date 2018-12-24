@@ -8,7 +8,7 @@ Boximus Prime
 
 .. thumbnail:: /images/posts/BoximusPrime1.jpg
     :alt: Boximus Prime 1
-    :class: u-pull-left thumbnail
+    :align: left
 
 This is my Boximus Prime costume in robot mode. I was
 very pleased, the costume was a big success at Halloween parties last

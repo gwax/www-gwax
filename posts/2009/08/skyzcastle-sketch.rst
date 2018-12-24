@@ -8,7 +8,7 @@ SkyzCastle Sketch
 
 .. thumbnail:: /images/posts/2009/08/SkyzCastle.sketch.png
     :alt: Sketch of a mountain top castle under siege from flying machines
-    :class: u-pull-left thumbnail
+    :align: left
 
     Sketch of a mountain top castle under siege from flying machines
 
