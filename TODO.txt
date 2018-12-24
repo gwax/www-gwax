@@ -1,5 +1,14 @@
-- fancydates for archive datetimes
-- line-block margins / centering?
-- reimplement 2009/12/unsticking-stuck-lcd-pixels-a-script.html to work on appengine
-- missing space after datetime in archives
-- drop the landing page and go straight to blog
+-   fancydates for archive datetimes
+    -   wait for https://github.com/getnikola/nikola/pull/3193 to merge and
+        hit master
+-   line-block margins / centering?
+-   reimplement 2009/12/unsticking-stuck-lcd-pixels-a-script.html to work on
+    appengine
+-   drop the landing page and go straight to blog
+-   theme.css
+    -   tidy / consolidate
+    -   reconcile against nikola/data/themes/base/assets/css/theme.css
+-   fix tags and categories
+-   is skeleton dead? consider:
+    -   https://github.com/skeleton-framework/skeleton-framework
+    -   https://github.com/oltdaniel/skeleton-plus
