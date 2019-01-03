@@ -4,5 +4,5 @@ parent = base
 author = George Leslie-Waksman
 author_url = https://gwax.com/
 license = MIT
-based_on = Skeleton Framework <https://skeleton-framework.github.io/>
+based_on = Skeleton <http://getskeleton.com/>
 tags = skeleton
