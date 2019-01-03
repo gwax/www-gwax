@@ -6,8 +6,11 @@ Fortune Cookie: 2006-02-13
 :updated: 2010-05-22 08:56:49+00:00
 :tags: fortunes
 
-| Life to you is a bold and dashing
-| responsibility.
-| Lucky Numbers 20, 2, 37, 9, 18, 6
+.. container:: u-text-center
+
+    | Life to you is a bold and dashing
+    | responsibility.
+    | ---
+    | Lucky Numbers 20, 2, 37, 9, 18, 6
 
 Commentary: Life to you is a board game and amusing cellular automata.

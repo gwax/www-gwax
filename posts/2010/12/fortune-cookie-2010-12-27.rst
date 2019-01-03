@@ -6,13 +6,15 @@ Fortune Cookie: 2010-12-27
 :updated: 2011-03-30 17:58:12+00:00
 :tags: fortunes
 
-| It is better to have beans
-| and bacon in peace than
-| cakes and ale in fear.
+.. container:: u-text-center
 
-| Vegetable
-| 蔬(shǔ)菜(cài)
-| Lucky Numbers 10, 13, 15, 20, 25, 28
+    | It is better to have beans
+    | and bacon in peace than
+    | cakes and ale in fear.
+    | ---
+    | Vegetable
+    | 蔬(shǔ)菜(cài)
+    | Lucky Numbers 10, 13, 15, 20, 25, 28
 
 Commentary: It is better to have beans and bacon in fear than cakes and
 ale in peace.

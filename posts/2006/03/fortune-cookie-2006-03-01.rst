@@ -6,9 +6,12 @@ Fortune Cookie: 2006-03-01
 :updated: 2010-05-22 08:55:45+00:00
 :tags: fortunes
 
-| Many possibilities are open to you —
-| work a little harder.
-| Lucky Numbers 5, 34, 12, 47, 4, 38
+.. container:: u-text-center
+
+    | Many possibilities are open to you —
+    | work a little harder.
+    | ---
+    | Lucky Numbers 5, 34, 12, 47, 4, 38
 
 Commentary: Fuck you fortune cookie! No, seriously, some of these
 negative
