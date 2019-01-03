@@ -1,9 +1,9 @@
 -   fancydates for archive datetimes
-    -   wait for https://github.com/getnikola/nikola/pull/3193 to merge and
-        hit master
+    -   remove from theme once https://github.com/getnikola/nikola/pull/3193
+        is released
 -   line-block margins / centering?
 -   reimplement 2009/12/unsticking-stuck-lcd-pixels-a-script.html to work on
-    appengine
+    appengine or client side with js
 -   drop the landing page and go straight to blog
 -   theme.css
     -   tidy / consolidate
@@ -12,3 +12,6 @@
 -   is skeleton dead? consider:
     -   https://github.com/skeleton-framework/skeleton-framework
     -   https://github.com/oltdaniel/skeleton-plus
+-   update the about me sections
+-   ditch font-awesome
+-   ditch jquery
