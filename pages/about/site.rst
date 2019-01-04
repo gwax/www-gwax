@@ -19,8 +19,7 @@ The static portions of this site are built using `Nikola <https://getnikola.com>
 running under `Python <https://www.python.org>`_ (3.7).
 
 The Nikola theme is a custom built theme using `Skeleton <http://getskeleton.com/>`_
-css boilerplate with a little custom css and js. Icons and glyphs are from
-`Font Awesome <http://fortawesome.github.io/Font-Awesome/>`_.
+css boilerplate with a little custom css and js.
 
 Hosting
 -------
