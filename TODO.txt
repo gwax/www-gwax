@@ -7,6 +7,7 @@
 -   theme.css
     -   tidy / consolidate
     -   reconcile against nikola/data/themes/base/assets/css/theme.css
+    -   is carousel even a thing anymore?
 -   fix tags and categories
 -   update the about me sections
 -   ditch font-awesome
