@@ -7,11 +7,10 @@ About gwax.com
 Code
 ----
 
-All code is available on |github-mark| GitHub: https://github.com/gwax/www-gwax
+All code is available on |github-icon| GitHub: https://github.com/gwax/www-gwax
 
-.. |github-mark| raw:: html
-
-    <i class="fa fa-github"/>GitHub
+.. |github-icon| image:: /icons/github.svg
+    :class: svg-icon
 
 Static
 ~~~~~~

@@ -6,10 +6,10 @@ ${ui.breadcrumbs(crumbs)}
 %if folders or files:
 <ul>
 % for name in folders:
-    <li><a href="${name|u}"><i class="fa fa-folder-open"></i> ${name|h}</a>
+    <li><a href="${name|u}">📁 ${name|h}</a>
 % endfor
 % for name in files:
-    <li><a href="${name|u}.html"><i class="fa fa-file"></i> ${name|h}</a>
+    <li><a href="${name|u}.html">📄 ${name|h}</a>
 % endfor
 </ul>
 %endif

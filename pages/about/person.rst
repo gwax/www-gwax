@@ -7,7 +7,7 @@ About George Leslie-Waksman
 
 .. thumbnail:: /images/gwax.jpg
     :alt: George Leslie-Waksman portrait
-    :class: u-pull-right thumbnail
+    :align: right
 
 Basic Info
 ----------
@@ -41,7 +41,7 @@ Eventually, I ended up at `Google <https://www.google.com>`_ as a Datacenter Sof
 
 As of now, I am back in the rich data world of healthcare, working for `Clover Health <https://www.cloverhealth.com/>`_, a startup health insurance company, that also happens to be a technology company. We are trying to fix healthcare for old people by bringing 21st century technology to the data, operations, and managed care. It's hard, but I would love if we could do even a little something to dent the massive problem that is modern healthcare.
 
-If you want more professional details, there's something close enough to my résumé available through LinkedIn: |linkedin|. If you happen to want a proper résumé or other details, you'll have to email me.
+If you want more professional details, there's something close enough to my résumé available through LinkedIn. If you happen to want a proper résumé or other details, you'll have to email me.
 
 Non-professionally, I have a wife and daughter, both of whom I love to a degree, the expression of which exceeds my writing skills.
 
@@ -61,69 +61,25 @@ I am active, to varying degrees\ [#]_, on a number of online services:
 
 .. [#] My Internet "social" activity is generally pretty low everywhere other than GitHub and reddit.
 
-* GitHub: |github|
-* reddit: |reddit|
-* LinkedIn: |linkedin|
-* stackoverflow: |stackoverflow|
-* twitter: |twitter|
+* |github-icon| GitHub: `gwax <https://github.com/gwax>`__
+* |reddit-icon| reddit: `gwax <https://reddit.com/user/gwax>`__
+* |linkedin-icon| LinkedIn: `George Leslie-Waksman <https://www.linkedin.com/in/glesliewaksman>`__
+* |stackoverflow-icon| stackoverflow: `George Leslie-Waksman <https://stackoverflow.com/users/4853563/george-leslie-waksman>`__
+* |twitter-icon| twitter: `@gwaxgwax <https://twitter.com/gwaxgwax>`__
 * Tapped Out: `gwax <http://tappedout.net/users/gwax/>`__
 * The Source: `gwax <http://www.mtgthesource.com/forums/member.php?35876-gwax>`__
-* Uncyclopedia: `User:Gwax <http://uncyclopedia.wikia.com/wiki/User:Gwax>`__
-* Google+: |gplus|
-* AngelList: |angellist|
-* Facebook: |facebook|
-* Wikipedia: |wikipedia|
 
-.. |angellist| raw:: html
+.. |github-icon| image:: /icons/github.svg
+    :class: svg-icon
 
-    <a class="reference external" href="https://angel.co/gwax">
-        <i class="fa fa-angellist"/> gwax
-    </a>
+.. |reddit-icon| image:: /icons/reddit.svg
+    :class: svg-icon
 
-.. |facebook| raw:: html
+.. |linkedin-icon| image:: /icons/linkedin.svg
+    :class: svg-icon
 
-    <a class="reference external" href="https://www.facebook.com/waksman">
-        <i class="fa fa-facebook-official"/> waksman
-    </a>
+.. |stackoverflow-icon| image:: /icons/stackoverflow.svg
+    :class: svg-icon
 
-.. |github| raw:: html
-
-    <a class="reference external" href="https://github.com/gwax">
-        <i class="fa fa-github"/> gwax
-    </a>
-
-.. |gplus| raw:: html
-
-    <a class="reference external" href="https://plus.google.com/105423331797171386710">
-        <i class="fa fa-google-plus"/> George Leslie-Waksman
-    </a>
-
-.. |linkedin| raw:: html
-
-    <a class="reference external" href="https://www.linkedin.com/in/glesliewaksman">
-        <i class="fa fa-linkedin-square"/> George Leslie-Waksman
-    </a>
-
-.. |reddit| raw:: html
-
-    <a class="reference external" href="https://www.reddit.com/user/gwax">
-        <i class="fa fa-reddit-alien"/> gwax
-    </a>
-
-.. |stackoverflow| raw:: html
-
-    <a class="reference external" href="http://stackoverflow.com/users/4853563/george-leslie-waksman">
-        <i class="fa fa-stack-overflow"/> George Leslie-Waksman
-    </a>
-
-.. |twitter| raw:: html
-
-    <a class="reference external" href="https://twitter.com/gwaxgwax">
-        <i class="fa fa-twitter"/> @gwaxgwax
-    </a>
-
-.. |wikipedia| raw:: html
-
-    <a class="reference external" href="https://en.wikipedia.org/wiki/User:Gwax">
-        <i class="fa fa-wikipedia-w"/> User:Gwax
-    </a>
+.. |twitter-icon| image:: /icons/twitter.svg
+    :class: svg-icon
