@@ -1,3 +1,5 @@
+@charset "UTF-8";
+
 h1 a,
 h2 a,
 h3 a,
@@ -28,7 +30,7 @@ h1.title {
 }
 
 img.thumbnail {
-    magin: 1rem;
+    margin: 1rem;
     border: 3px outset grey;
 }
 

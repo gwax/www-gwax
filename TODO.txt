@@ -8,9 +8,6 @@
     -   tidy / consolidate
     -   reconcile against nikola/data/themes/base/assets/css/theme.css
 -   fix tags and categories
--   is skeleton dead? consider:
-    -   https://github.com/skeleton-framework/skeleton-framework
-    -   https://github.com/oltdaniel/skeleton-plus
 -   update the about me sections
 -   ditch font-awesome
 -   ditch jquery
