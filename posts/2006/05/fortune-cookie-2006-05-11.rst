@@ -6,8 +6,11 @@ Fortune Cookie: 2006-05-11
 :updated: 2010-05-22 08:54:10+00:00
 :tags: fortunes
 
-| To affect the quality of the day is no
-| small achievement.
-| Lucky Numbers 31, 24, 16, 9, 28, 7
+.. container:: u-text-center
+
+    | To affect the quality of the day is no
+    | small achievement.
+    | ---
+    | Lucky Numbers 31, 24, 16, 9, 28, 7
 
 Commentary: A day is no easy thing to derail.

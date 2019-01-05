@@ -1,10 +1,21 @@
-h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+@charset "UTF-8";
+
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
     text-decoration: none;
 }
 
 h1.title {
     margin: 0;
     text-align: left;
+}
+
+#blog-title {
+    font-family: "Times New Roman", Times, serif;
 }
 
 .entry-content:after {
@@ -18,12 +29,8 @@ h1.title {
     margin-top: 1rem;
 }
 
-#blog-title {
-    font-family: "Times New Roman", Times, serif;
-}
-
 img.thumbnail {
-    magin: 1rem;
+    margin: 1rem;
     border: 3px outset grey;
 }
 
@@ -80,21 +87,6 @@ pre.literal-block {
     text-decoration: none !important;
 }
 
-/* slides carousel */
-.carousel-indicators, .carousel-control {
-    display: none;
-}
-
-.carousel-inner {
-    white-space: nowrap;
-    overflow-x: auto;
-    text-align: center;
-}
-
-.carousel-inner div {
-    display: inline;
-}
-
 /* footnotes */
 .footnote-reference {
     top: -0.5em;
@@ -147,7 +139,8 @@ table.codetable {
 }
 
 /* time entries */
-.updated, time.updated {
+.updated,
+time.updated {
     color: red;
 }
 
@@ -199,9 +192,15 @@ header .metadata {
 }
 
 /* reST list tweaks */
-ol.simple, ul.simple, ol.arabic, ol.loweralpha, ol.upperalpha, ol.lowerroman, ol.upperroman {
-  list-style-position: inside;
-  padding-left: 1rem;
+ol.simple,
+ul.simple,
+ol.arabic,
+ol.loweralpha,
+ol.upperalpha,
+ol.lowerroman,
+ol.upperroman {
+    list-style-position: inside;
+    padding-left: 1rem;
 }
 
 /* list separators */
@@ -209,30 +208,48 @@ ol.simple, ul.simple, ol.arabic, ol.loweralpha, ol.upperalpha, ol.lowerroman, ol
 .postpromonav .tags li:before,
 .postlist .listdate:after,
 .translationslist p:before {
-	content: " — ";
+    content: " — ";
 }
 
 /* Post and archive pagers */
 .postindexpager .pager .next:before {
-	content: "↓ ";
+    content: "↓ ";
 }
+
 .postindexpager .pager .previous:before,
 .archivenav .pager .up:before {
-	content: "↑ ";
+    content: "↑ ";
 }
+
 .postpromonav .pager .next:after,
 .archivenav .pager .next:after {
-	content: " →";
+    content: " →";
 }
+
 .postpromonav .pager .previous:dir(rtl):after,
 .archivenav .pager .previous:dir(rtl):after {
-	content: " →";
+    content: " →";
 }
+
 .postpromonav .pager .previous:before,
 .archivenav .pager .previous:before {
-	content: "← ";
+    content: "← ";
 }
+
 .postpromonav .pager .next:dir(rtl):before,
 .archivenav .pager .next:dir(rtl):before {
-	content: "← ";
+    content: "← ";
+}
+
+.line-block {
+    margin-bottom: 2.5rem;
+}
+
+/* Utility helpers */
+.u-text-center {
+    text-align: center !important;
+}
+
+.u-text-right {
+    text-align: right !important;
 }

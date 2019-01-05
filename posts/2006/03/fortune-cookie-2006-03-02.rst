@@ -6,8 +6,11 @@ Fortune Cookie: 2006-03-02
 :updated: 2010-05-22 08:55:26+00:00
 :tags: fortunes
 
-| Whatever you want to do, do it.
-| There are only so many tomorrows.
-| Lucky Numbers 5, 17, 38, 2, 43, 8
+.. container:: u-text-center
+
+    | Whatever you want to do, do it.
+    | There are only so many tomorrows.
+    | ---
+    | Lucky Numbers 5, 17, 38, 2, 43, 8
 
 Commentary: Sigh.

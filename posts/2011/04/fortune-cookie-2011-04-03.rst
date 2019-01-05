@@ -6,13 +6,15 @@ Fortune Cookie: 2011-04-03
 :updated: 2011-04-05 08:44:34+00:00
 :tags: fortunes
 
-| Keep in mind your most
-| cherished dreams
-| of the future.
+.. container:: u-text-center
 
-| LEARN CHINESE - Mango
-| 芒(máng) 果(guǒ)
-| Lucky Numbers 26, 36, 46, 17, 48, 6
+    | Keep in mind your most
+    | cherished dreams
+    | of the future.
+    | ---
+    | LEARN CHINESE - Mango
+    | 芒(máng) 果(guǒ)
+    | Lucky Numbers 26, 36, 46, 17, 48, 6
 
 Commentary: As one that is about to move from the West to the East Coast
 specifically to pursue some of his cherished dreams for the future, I am

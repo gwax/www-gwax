@@ -6,9 +6,12 @@ Fortune Cookie: 2007-02-12
 :updated: 2010-05-22 08:53:23+00:00
 :tags: fortunes
 
-| All the water in the world can't sink a
-| ship unless it gets inside.
-| Lucky Numbers 33, 4, 24, 5, 18, 44
+.. container:: u-text-center
+
+    | All the water in the world can't sink a
+    | ship unless it gets inside.
+    | ---
+    | Lucky Numbers 33, 4, 24, 5, 18, 44
 
 Commentary: I do like boats and I do like it when they don't sink. That
 said, I feel like there's a densely hidden metaphor here; are you trying

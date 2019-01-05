@@ -6,8 +6,11 @@ Fortune Cookie: 2006-01-18
 :updated: 2010-05-22 08:57:17+00:00
 :tags: fortunes
 
-| No man is without
-| enemies.
-| Lucky Numbers 12, 14, 20, 24, 26, 33
+.. container:: u-text-center
+
+    | No man is without
+    | enemies.
+    | ---
+    | Lucky Numbers 12, 14, 20, 24, 26, 33
 
 Commentary: How awesome is that?

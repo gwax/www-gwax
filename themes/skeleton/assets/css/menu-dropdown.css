@@ -18,3 +18,11 @@
         display: none;
     }
 }
+
+@media print {
+
+    .navmenu,
+    .navbar-dropdown {
+        display: none;
+    }
+}

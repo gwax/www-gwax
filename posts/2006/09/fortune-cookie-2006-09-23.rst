@@ -6,8 +6,10 @@ Fortune Cookie: 2006-09-23
 :updated: 2010-05-22 08:54:03+00:00
 :tags: fortunes
 
-| You own an iron.
-| Would it kill you to use it
-| once in a while?
+.. container:: u-text-center
+
+    | You own an iron.
+    | Would it kill you to use it
+    | once in a while?
 
 Commentary: Ouch, damn!.

@@ -8,9 +8,12 @@ Fortune Cookies: 2006-04-17
 
 Lunch:
 
-| To be wronged is nothing unless you
-| continue to remember it.
-| Lucky Numbers 34, 11, 25, 47, 6, 19
+.. container:: u-text-center
+
+    | To be wronged is nothing unless you
+    | continue to remember it.
+    | ---
+    | Lucky Numbers 34, 11, 25, 47, 6, 19
 
 Commentary: You know, now that I think about it, I really don't think
 that I'm as vindictive as I used to think. For that matter, I think that
@@ -20,9 +23,12 @@ I'm generally rather forgiving.
 
 Dinner:
 
-| Comfort zones are most often expand-
-| ed through discomfort.
-| Lucky Numbers 27, 33, 41, 38, 22, 10
+.. container:: u-text-center
+
+    | Comfort zones are most often expand-
+    | ed through discomfort.
+    | ---
+    | Lucky Numbers 27, 33, 41, 38, 22, 10
 
 Commentary: Yeah, I know, that's why I'm planning to make such big
 changes in my life in the near future.
