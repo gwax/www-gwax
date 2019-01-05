@@ -12,3 +12,4 @@
 -   update the about me sections
 -   ditch font-awesome
 -   ditch jquery
+-   code / listing fonts

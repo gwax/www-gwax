@@ -14,6 +14,10 @@ h1.title {
     text-align: left;
 }
 
+#blog-title {
+    font-family: "Times New Roman", Times, serif;
+}
+
 .entry-content:after {
     /* ensure that all images are cleared before ending content */
     content: "";
@@ -23,10 +27,6 @@ h1.title {
 
 .searchform {
     margin-top: 1rem;
-}
-
-#blog-title {
-    font-family: "Times New Roman", Times, serif;
 }
 
 img.thumbnail {
@@ -85,22 +85,6 @@ pre.literal-block {
 /* listings */
 .linenos .linenodiv a {
     text-decoration: none !important;
-}
-
-/* slides carousel */
-.carousel-indicators,
-.carousel-control {
-    display: none;
-}
-
-.carousel-inner {
-    white-space: nowrap;
-    overflow-x: auto;
-    text-align: center;
-}
-
-.carousel-inner div {
-    display: inline;
 }
 
 /* footnotes */
