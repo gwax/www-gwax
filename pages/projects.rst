@@ -11,13 +11,10 @@ described below:
 gwax.(com\|net\|org)
 --------------------
 
-* Source: |gwax_com_github|
+* Source: |github-icon| `gwax/www-gwax <https://github.com/gwax/www-gwax>`_
 
-.. |gwax_com_github| raw:: html
-
-    <a class="reference external" href="https://github.com/gwax/www-gwax">
-        <i class="fa fa-github"/> GitHub
-    </a>
+.. |github-icon| image:: /icons/github.svg
+    :class: svg-icon
 
 This site is one of my ongoing projects. I've been maintaining it in some
 fashion since the mid 20-aughts. It's an example of various things, many not
@@ -29,20 +26,11 @@ likely to show up in `Blog > Categories > meta <link://category/meta>`__.
 mtg-ssm
 -------
 
-* Source: |mtg_ssm_github|
-* Package: |mtg_ssm_pypi|
+* Source: |github-icon| `gwax/mtg_ssm <https://github.com/gwax/mtg_ssm>`_
+* Package: |python-icon| `pypi/mtg-ssm <https://pypi.org/project/mtg-ssm/>`_
 
-.. |mtg_ssm_github| raw:: html
-
-    <a class="reference external" href="https://github.com/gwax/mtg_ssm">
-        <i class="fa fa-github"/> GitHub
-    </a>
-
-.. |mtg_ssm_pypi| raw:: html
-
-    <a class="reference external" href="https://pypi.python.org/pypi/mtg-ssm">
-        <i class="fa fa-hdd-o"/> PyPI
-    </a>
+.. |python-icon| image:: /icons/python.svg
+    :class: svg-icon
 
 Magic: the Gathering Spreadsheet Manager
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -67,13 +55,7 @@ collection.
 GsMtgJson
 ---------
 
-* Source: |gsmtgjson_github|
-
-.. |gsmtgjson_github| raw:: html
-
-    <a class="reference external" href="https://github.com/gwax/GsMtgJson">
-        <i class="fa fa-github"/> GitHub
-    </a>
+* Source: |github-icon| `gwax/GsMtgJson <https://github.com/gwax/GsMtgJson>`_
 
 GsMtgJson is the ancestor of `mtg-ssm`_. It is a Google Apps Script project
 that produces Google Sheets for tracking Magic collections. The project is
@@ -83,13 +65,7 @@ essentially dead at this point, having been supplanted by `mtg-ssm`_.
 GwTest
 ------
 
-* Source: |gwtest_github|
-
-.. |gwtest_github| raw:: html
-
-    <a class="reference external" href="https://github.com/gwax/GwTest">
-        <i class="fa fa-github"/> GitHub
-    </a>
+* Source: |github-icon| `gwax/GwTest <https://github.com/gwax/GwTest>`_
 
 While building GsMtgJson, I suffered a great deal of frustration while
 debugging and refactoring my code, due to a lack of a decent way to test what

@@ -10,6 +10,8 @@
     -   is carousel even a thing anymore?
 -   fix tags and categories
 -   update the about me sections
--   ditch font-awesome
 -   ditch jquery
 -   code / listing fonts
+-   slowcooker-yogurt images to the right place in images/posts
+-   for that matter, every images/posts properly date sorted
+-   pages/thesis.html -> pages/thesis.rst

@@ -280,8 +280,10 @@ LOCALES = {"en": "en_US.UTF-8"}
 # One or more folders containing files to be copied as-is into the output.
 # The format is a dictionary of {source: relative destination}.
 # Default is:
-# FILES_FOLDERS = {'files': ''}
-# Which means copy 'files' into 'output'
+FILES_FOLDERS = {
+    'files': '',
+    'icons': 'icons',
+}
 
 # One or more folders containing code listings to be processed and published on
 # the site. The format is a dictionary of {source: relative destination}.
@@ -958,7 +960,9 @@ src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
 # (translatable)
 CONTENT_FOOTER = """
     Contents &copy;2004-{date} <a href="{aboutperson}">{author}</a>
-    | Source: <a href="https://github.com/gwax/www-gwax"><i class="fa fa-github"/>GitHub</a>
+    | Source:
+        <img src="/icons/github.svg" class="svg-icon" />
+        <a href="https://github.com/gwax/www-gwax">GitHub</a>
     | Powered by <a href="https://getnikola.com">Nikola</a>
     | Styled with <a href="http://getskeleton.com">Skeleton</a>
     | {license}

@@ -29,12 +29,7 @@ h1.title {
     margin-top: 1rem;
 }
 
-img.thumbnail {
-    margin: 1rem;
-    border: 3px outset grey;
-}
-
-a img.thumbnail {
+a img {
     margin: 1rem;
     border: 3px outset #1E9EBB;
 }
@@ -252,4 +247,11 @@ ol.upperroman {
 
 .u-text-right {
     text-align: right !important;
+}
+
+/* svg-icons */
+.svg-icon {
+    height: 1.25rem;
+    width: 1.25rem;
+    bottom: -0.25rem;
 }
