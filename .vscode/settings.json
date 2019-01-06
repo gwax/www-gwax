@@ -2,5 +2,6 @@
     "[restructuredtext]": {
         "editor.wordWrap": "on"
     },
-    "restructuredtext.confPath": ""
+    "restructuredtext.confPath": "",
+    "python.pythonPath": "/Users/waksman/.pyenv/versions/www_gwax/bin/python"
 }

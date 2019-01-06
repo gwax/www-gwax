@@ -1,21 +1,11 @@
 #!/usr/bin/env python3
 """Generate an app.yaml file given various snippets."""
 
-import collections
-import copy
-
 import yaml
 
-
-def dict_representer(dumper, data):
-    """Representer to dump OrderedDict in the correct order."""
-    return dumper.represent_dict(data.items())
-yaml.add_representer(collections.OrderedDict, dict_representer)
-
-
-HEADER_VALUES = [
-    ('X-Narwhal', 'A small arctic whale. The male has a long tusk.'),
-]
+HEADERS = {
+    'X-Narwhal': 'A small arctic whale. The male has a long tusk.'
+}
 
 EXTENSION_MIME = [
     # html
@@ -48,39 +38,38 @@ EXTENSION_MIME = [
     ('mp4', 'video/mp4'),
 ]
 
-BASE = [
-    ('runtime', 'python27'),
-    ('api_version', 1),
-    ('threadsafe', True),
-    ('default_expiration', '30d'),
-]
+BASE = {
+    'runtime': 'python27',
+    'api_version': 1,
+    'threadsafe': True,
+    'default_expiration': '1h',
+}
 
 
 def asset_handler(extension, mime):
     url = r'/(.+\.{ext}$)'.format(ext=extension)
-    handler = collections.OrderedDict([
-        ('url', url),
-        ('static_files', r'static/\1'),
-        ('upload', 'static' + url),
-        ('mime_type', mime),
-        ('secure', 'always'),
-    ] + ([] if extension != 'html' else [
-        ('expiration', '1h'),
-    ]) + [
-        ('http_headers', collections.OrderedDict(HEADER_VALUES)),
-    ])
+    handler = {
+        'url': url,
+        'static_files': r'static/\1',
+        'upload': 'static' + url,
+        'mime_type': mime,
+        'secure': 'always',
+        'http_headers': {**HEADERS},
+    }
+    if extension =='html':
+        handler['expiration'] = '10m'
     return handler
 
 
 def file_catch_all_handler():
     url = r'/(.+\.[A-Za-z0-9]+$)'
-    handler = collections.OrderedDict([
-        ('url', url),
-        ('static_files', r'static/\1'),
-        ('upload', 'static' + url),
-        ('secure', 'always'),
-        ('http_headers', collections.OrderedDict(HEADER_VALUES)),
-    ])
+    handler = {
+        'url': url,
+        'static_files': r'static/\1',
+        'upload': 'static' + url,
+        'secure': 'always',
+        'http_headers': {**HEADERS},
+    }
     return handler
 
 
@@ -88,36 +77,38 @@ def index_handlers():
     handlers = []
     for url in [r'/(.+)/', r'/(.+)']:
         upload_url = ('static' + url + '/index.html').replace('//', '/')
-        handler = collections.OrderedDict([
-            ('url', url),
-            ('static_files', r'static/\1/index.html'),
-            ('upload', upload_url),
-        ])
+        handler = {
+            'url': url,
+            'static_files': r'static/\1/index.html',
+            'upload': upload_url,
+        }
         handlers.append(handler)
-    handlers.append(collections.OrderedDict([
-        ('url', '/'),
-        ('static_files', 'static/index.html'),
-        ('upload', 'static/index.html')
-    ]))
+    handlers.append({
+        'url': '/',
+        'static_files': 'static/index.html',
+        'upload': 'static/index.html'
+    })
 
     for handler in handlers:
         handler['mime_type'] = 'text/html'
         handler['secure'] = 'always'
         handler['expiration'] = '10m'
-        handler['http_headers'] = collections.OrderedDict(HEADER_VALUES)
+        handler['http_headers'] = {**HEADERS}
 
     return handlers
 
 
 def main():
-    app_dict = collections.OrderedDict([
-        *BASE,
-        ('handlers', [
+    app_dict = {
+        **BASE,
+        **{
+            'handlers':[
             *(asset_handler(ext, mime) for ext, mime in EXTENSION_MIME),
             file_catch_all_handler(),
             *index_handlers()
-        ]),
-    ])
+            ]
+        },
+    }
     print(yaml.dump(app_dict, default_flow_style=False))
 
 if __name__ == '__main__':

@@ -951,9 +951,12 @@ LICENSE = ""
 # https://creativecommons.org/choose/
 LICENSE = """
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">
-<img alt="Creative Commons License BY-SA"
-style="border-width:0"
-src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
+    <img
+        src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png"
+        alt="Creative Commons License BY-SA"
+        style="border:0;margin:0;"
+    />
+</a>
 """
 
 # A small copyright notice for the page footer (in HTML).
