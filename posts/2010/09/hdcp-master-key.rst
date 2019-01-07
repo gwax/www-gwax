@@ -13,6 +13,8 @@ the key on my blog.
 
 The key involves an awful lot of text so it is mirrored below the jump:
 
+.. TEASER_END
+
 ::
 
     HDCP MASTER KEY (MIRROR THIS TEXT!) This is a forty times forty element

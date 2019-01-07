@@ -31,24 +31,24 @@ h1.title {
 
 a img {
     margin: 1rem;
-    border: 3px outset #1E9EBB;
+    border: 3px outset #05A0D4;
 }
 
 .postpromonav {
-    border-top: 3px double grey;
+    border-top: 3px double #036F93;
     padding-top: 1rem;
     padding-bottom: 1rem;
 }
 
 section.comments {
-    border-top: 3px double grey;
+    border-top: 3px double #036F93;
     padding-top: 1rem;
     padding-bottom: 1rem;
 }
 
 #footer {
     padding-top: 0.25rem;
-    border-top: 3px double grey;
+    border-top: 3px double #036F93;
 }
 
 #footer p {
@@ -94,25 +94,27 @@ pre.literal-block {
 table.footnote {
     margin-top: 0;
     margin-bottom: 0;
+    border: 1px solid rgba(255, 255, 255, 0);
 }
 
 .footnote td {
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
+    border: 0;
 }
 
 .footnote td.label {
-    border-top: 3px solid black;
+    border-top: 1px solid #036F93;
 }
 
 /* code listing tweaks */
 table.codetable {
-    border: 1px solid grey;
+    border: 1px solid #036F93;
 }
 
 .codetable td {
     padding: 0.25em;
-    border: 1px solid grey;
+    border: 1px solid #036F93;
 }
 
 .codetable pre {
@@ -134,9 +136,8 @@ table.codetable {
 }
 
 /* time entries */
-.updated,
-time.updated {
-    color: red;
+span.updated {
+    color: #00AC3A;
 }
 
 .dateline {
@@ -178,12 +179,12 @@ header .metadata {
 
 .comment-header {
     display: inline-block;
-    border-bottom: 1px solid grey;
+    border-bottom: 1px solid #036F93;
 }
 
 .comment-content {
     padding-left: 1.5rem;
-    border-left: 1px solid grey;
+    border-left: 1px solid #036F93;
 }
 
 /* reST list tweaks */
