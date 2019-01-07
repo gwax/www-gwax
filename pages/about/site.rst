@@ -26,7 +26,6 @@ Hosting
 
 The site is running entirely on `Google Cloud Platform <https://cloud.google.com/>`_.
 Static and dynamic site hosting is managed by `App Engine <https://cloud.google.com/appengine/>`_.
-Nameservers are managed by `Cloud DNS <https://cloud.google.com/dns/>`_. Email
-is managed by `Apps for Work <https://apps.google.com/>`_.
+Nameservers are managed by `Cloud DNS <https://cloud.google.com/dns/>`_.
 
 DNS registrations is through `GoDaddy <https://www.godaddy.com/>`_.
