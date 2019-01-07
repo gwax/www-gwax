@@ -42,7 +42,6 @@ BASE = {
     'runtime': 'python27',
     'api_version': 1,
     'threadsafe': True,
-    'default_expiration': '1h',
 }
 
 
@@ -56,8 +55,6 @@ def asset_handler(extension, mime):
         'secure': 'always',
         'http_headers': {**HEADERS},
     }
-    if extension =='html':
-        handler['expiration'] = '10m'
     return handler
 
 
