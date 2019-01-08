@@ -30,7 +30,7 @@ We need to modify our app.yaml file and set up a static route for the
 let's encrypt challenge/response data. Add the following to the beginning of
 the handlers section of your app.yaml file:
 
-.. code:: yaml
+.. code-block:: yaml
 
     - url: /\.well-known/acme-challenge/(.+)
       static_files: letsencrypt/\1
@@ -47,7 +47,7 @@ Starting from the instructions on the `Let's Encrypt GitHub repo <https://github
 let's retrieve and fire up letsencrypt. Outside your app folder, in a separate
 terminal:
 
-.. code:: sh
+.. code-block:: sh
 
     git clone https://github.com/letsencrypt/letsencrypt
     cd letsencrypt
@@ -90,13 +90,13 @@ Prepare the challenge/response
 Switch to the terminal in your app directory and run a modified version of
 the printf command letsencrypt suggests:
 
-.. code:: sh
+.. code-block:: sh
 
     printf "%s" {ABC}.{DEF} > letsencrypt/{ABC}
 
 Now, re-upload your app to app engine:
 
-.. code:: sh
+.. code-block:: sh
 
     appcfg.py update .
 
@@ -133,7 +133,7 @@ YYYYMMDD is the issuing date (today).
 
 Now, in your terminal, retrieve the public key:
 
-.. code:: sh
+.. code-block:: sh
 
     cat /etc/letsencrypt/live/www.example.com/fullchain.pem
 
@@ -143,7 +143,7 @@ If you run into a permission error, try calling the command with sudo.
 
 Now, in your terminal, retrieve the private key and convert to RSA PEM format:
 
-.. code:: sh
+.. code-block:: sh
 
     openssl rsa -inform pem -in /etc/letsencrypt/live/www.example.com/privkey.pem -outform pem
 

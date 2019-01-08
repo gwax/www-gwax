@@ -9,6 +9,13 @@ About George Leslie-Waksman
     :alt: George Leslie-Waksman portrait
     :align: right
 
+Rules to live by
+----------------
+
+1.  When you're chucking a danish, everything's a cop car.
+2.  When in doubt, go left.
+3.  When in doubt, buy double.
+
 Basic Info
 ----------
 
@@ -119,3 +126,22 @@ I am active, to varying degrees\ [#]_, on a number of online services:
 
 .. |twitter-icon| image:: /icons/twitter.svg
     :class: svg-icon
+
+To quote Yamamoto Tsunetomo
+---------------------------
+
+*Book 1, 79.* -- There is a lesson to be learned from a downpour of rain. If
+you get caught in a sudden cloudburst, you will still get a drenching even
+though you try to keep dry by hurrying along and taking cover under overhangs
+of roofs. If you are prepared to get wet from the start, the result is still
+the same but it is no hardship. This attitude can be applied to all
+things.\ [#]_
+
+.. [#] Yamamoto Tsunetomo, *Hagakure*, trans. Alexander Bennett
+    (North Rutland, VT: Tuttle, 2014), 83
+
+To quote an old Dell SCSI array manual
+--------------------------------------
+
+Narwhal
+    A small arctic whale. The male has a long tusk.

@@ -32,7 +32,7 @@ very not good in my book. As such, I've reverted back to a simpler, safer,
 synchronization scheme that doesn't always get the order right but seems to
 lose stuff less often:
 
-.. code:: bash
+.. code-block:: bash
 
     export HISTCONTROL=ignoredups:erasedups
     export HISTSIZE=100000
@@ -44,7 +44,7 @@ lose stuff less often:
 Original
 --------
 
-.. code:: bash
+.. code-block:: bash
 
     export HISTSIZE="INFINITE"
     export HISTFILESIZE="INFINITE"
@@ -59,20 +59,20 @@ First we just set up some basic configuration:
 
 1. Keep all of history forever
 
-    .. code:: bash
+    .. code-block:: bash
 
         export HISTSIZE="INFINITE"
         export HISTFILESIZE="INFINITE"
 
 2. Append history instead of overwriting
 
-    .. code:: bash
+    .. code-block:: bash
 
         shopt -s histappend
 
 3. Store multi-line commands as a single history entry
 
-    .. code:: bash
+    .. code-block:: bash
 
         shopt -s cmdhist
 
@@ -80,26 +80,26 @@ First we just set up some basic configuration:
 
    a. Append anything new to the history file, clear and reread
 
-        .. code:: bash
+        .. code-block:: bash
 
             history -a && history -c && history -r
 
    b. Get the history, sorted by when things were added with duplicates removed
 
-        .. code:: bash
+        .. code-block:: bash
 
             history | sort -k2 -k1nr | uniq -f1 | sort -n | tr -s " " | cut -d " " -f3-
 
    c. Write to temp file, clear history, read from temp file, write to
       ~/.bash_history, remove temp file
 
-        .. code:: bash
+        .. code-block:: bash
 
             > ~/.tmp$$ && history -c && history -r ~/.tmp$$ && history -w && rm ~/.tmp$$
 
 5. Use the sync command as a part of the PROMPT_COMMAND
 
-    .. code:: bash
+    .. code-block:: bash
 
         export PROMPT_COMMAND="${PROMPT_COMMAND:+$PROMPT_COMMAND$'\n'}histsync"
 

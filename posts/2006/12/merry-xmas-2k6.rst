@@ -38,7 +38,7 @@ bitter, I'm fine with giving up the hope of getting a good gift.
 
 In closing, bah humbug.
 
-.. code:: postscript
+.. code-block:: postscript
 
     %!PS
     /inch (72 mul) def

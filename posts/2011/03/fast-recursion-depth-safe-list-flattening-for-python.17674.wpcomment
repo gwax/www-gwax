@@ -9,7 +9,7 @@ Having the benefit of time, I'm not terribly fond of any of my prior solutions,
 these days I'd probably start with a deque and eat things off the left side.
 A bit like:
 
-.. code:: python
+.. code-block:: python
 
     import collections
 

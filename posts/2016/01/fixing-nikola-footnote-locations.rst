@@ -12,7 +12,7 @@ that is being footnoted when writing my. For example:[#]_
 
 .. [#] This is just an example.
 
-.. code:: ReST
+.. code-block:: ReST
 
     I might want to write something[#]_ where there's a footnote there.
 
@@ -25,7 +25,7 @@ end of my posts. By default, `Nikola <https://getnikola.com>`_  puts the
 footnotes in wherever they are declared. A simple snippet of javascript can be
 used to fix the locations of footnotes:
 
-.. code:: javascript
+.. code-block:: javascript
 
     $(document).ready(function() {
         $('.footnote').each(function(i, el) {

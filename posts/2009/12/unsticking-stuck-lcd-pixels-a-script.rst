@@ -30,7 +30,7 @@ Or, better still:
 
 For the curious amongst you, the relatively simple code follows:
 
-.. code:: php
+.. code-block:: php
 
     <?php
     if(isset($_GET['delay']) && is_numeric($_GET['delay']))

@@ -20,7 +20,7 @@ well enough alone, I went about trying to come up with my own method.
 
 Here's what I've got so far:
 
-.. code:: python
+.. code-block:: python
 
    def flatten_to_list(something):
        if not hasattr(something, '__iter__'):
@@ -46,7 +46,7 @@ some actual speed numbers and test cases up later.
 exploited a degenerate case for the algorithm; the code below, which is
 much closer to the original at *Right Foot In*, is faster.
 
-.. code:: python
+.. code-block:: python
 
    def flatten_to_list(something):
        if not hasattr(something, '__iter__'):

@@ -6,6 +6,6 @@
 :updated: 2005-08-09 16:01:02+00:00
 :tags: computers
 
-.. code:: sh
+.. code-block:: sh
 
     sudo su

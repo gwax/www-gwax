@@ -360,7 +360,7 @@ NEW_POST_DATE_PATH_FORMAT = '%Y/%m'
 # output / TRANSLATION[lang] / TAG_PATH / tag.html (list of posts for a tag)
 # output / TRANSLATION[lang] / TAG_PATH / tag RSS_EXTENSION (RSS feed for a tag)
 # (translatable)
-TAG_PATH = "blog/categories"
+# TAG_PATH = "categories"
 
 # By default, the list of tags is stored in
 #     output / TRANSLATION[lang] / TAG_PATH / index.html
@@ -422,7 +422,7 @@ HIDDEN_TAGS = ['mathjax']
 # output / TRANSLATION[lang] / CATEGORY_PATH / CATEGORY_PREFIX category.html (list of posts for a category)
 # output / TRANSLATION[lang] / CATEGORY_PATH / CATEGORY_PREFIX category RSS_EXTENSION (RSS feed for a category)
 # (translatable)
-CATEGORY_PATH = "blog/categories"
+# CATEGORY_PATH = "categories"
 # CATEGORY_PREFIX = "cat_"
 
 # By default, the list of categories is stored in
@@ -545,7 +545,7 @@ ENABLE_AUTHOR_PAGES = False
 # Final location for the main blog page and sibling paginated pages is
 # output / TRANSLATION[lang] / INDEX_PATH / index-*.html
 # (translatable)
-INDEX_PATH = "blog"
+# INDEX_PATH = ""
 
 # Optional HTML that displayed on “main” blog index.html files.
 # May be used for a greeting. (translatable)
@@ -569,7 +569,7 @@ FRONT_INDEX_HEADER = {
 # output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / index.html
 # output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / MONTH / index.html
 # output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / MONTH / DAY / index.html
-ARCHIVE_PATH = "blog"
+# ARCHIVE_PATH = ""
 # ARCHIVE_FILENAME = "archive.html"
 
 # If ARCHIVES_ARE_INDEXES is set to True, each archive page which contains a list
@@ -593,7 +593,7 @@ URL_TYPE = 'full_path'
 # Final location for the blog main RSS feed is:
 # output / TRANSLATION[lang] / RSS_PATH / RSS_FILENAME_BASE RSS_EXTENSION
 # (translatable)
-RSS_PATH = "blog"
+# RSS_PATH = ""
 
 # Final location for the blog main Atom feed is:
 # output / TRANSLATION[lang] / ATOM_PATH / ATOM_FILENAME_BASE ATOM_EXTENSION
@@ -661,7 +661,7 @@ OUTPUT_FOLDER = 'static'
 
 # where the "cache" of partial generated content should be located
 # default: 'cache'
-CACHE_FOLDER = 'cache'
+# CACHE_FOLDER = 'cache'
 
 # Filters to apply to the output.
 # A directory where the keys are either: a file extensions, or

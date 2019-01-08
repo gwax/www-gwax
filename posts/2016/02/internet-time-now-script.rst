@@ -19,7 +19,7 @@ like this blog.
 
 For fun, I whipped up a quick python implementation:
 
-.. code:: python
+.. code-block:: python
 
     import datetime
     import decimal
@@ -41,7 +41,7 @@ For fun, I whipped up a quick python implementation:
 
 Or, if you don't care about precision:
 
-.. code:: python
+.. code-block:: python
 
     import datetime
 

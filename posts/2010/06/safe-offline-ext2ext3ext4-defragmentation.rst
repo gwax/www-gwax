@@ -36,7 +36,7 @@ will be moved to a contiguous region at the end of the partition.
 If the partition is ``/dev/md1`` and is mounted at ``/mnt/fragmented``, your
 file system can be defragmented with the following set of commands:
 
-.. code:: sh
+.. code-block:: sh
 
     $ umount /mnt/fragmented
     $ fsck -f /dev/md1

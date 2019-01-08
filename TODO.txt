@@ -3,7 +3,6 @@
         is released
 -   reimplement 2009/12/unsticking-stuck-lcd-pixels-a-script.html to work on
     appengine or client side with js
--   drop the landing page and go straight to blog
 -   theme.css
     -   tidy / consolidate
     -   reconcile against nikola/data/themes/base/assets/css/theme.css
@@ -14,3 +13,4 @@
 -   slowcooker-yogurt images to the right place in images/posts
 -   for that matter, every images/posts properly date sorted
 -   pages/thesis.html -> pages/thesis.rst
+-   is the projects page redundant with github?

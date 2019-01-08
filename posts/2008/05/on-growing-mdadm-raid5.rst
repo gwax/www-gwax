@@ -21,7 +21,7 @@ proving insufficient. In order to resolve my space issues, I ordered 3x
 In my haste to have more space, I proceeded to add them to the array and
 grow it:
 
-.. code:: sh
+.. code-block:: sh
 
     mdadm --manage /dev/md1 --add /dev/hdb
     mdadm --manage /dev/md1 --add /dev/hdc
@@ -34,7 +34,7 @@ many sharing channels and there being an awful lot of space. Once the
 growing process was complete, I merely needed to resize the ext3
 partition on the array:
 
-.. code:: sh
+.. code-block:: sh
 
     resize2fs /dev/md1
 
@@ -53,20 +53,20 @@ lose drives and still be fine, thus allowing the solution of failing,
 removing, partitioning and adding each of the new drives back into the
 array:
 
-.. code:: sh
+.. code-block:: sh
 
     mdadm --manage /dev/md1 --fail /dev/hdb
     mdadm --manage /dev/md1 --remove /dev/hdb
 
 partition /dev/hdb and then:
 
-.. code:: sh
+.. code-block:: sh
 
     mdadm --manage /dev/md1 --add /dev/hdb1
 
 now wait until the array has rebuilt itself:
 
-.. code:: sh
+.. code-block:: sh
 
     cat /proc/mdstat
 
