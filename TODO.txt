@@ -1,6 +1,3 @@
--   fancydates for archive datetimes
-    -   remove from theme once https://github.com/getnikola/nikola/pull/3193
-        is released
 -   reimplement 2009/12/unsticking-stuck-lcd-pixels-a-script.html to work on
     appengine or client side with js
 -   theme.css
@@ -14,4 +11,4 @@
 -   for that matter, every images/posts properly date sorted
 -   pages/thesis.html -> pages/thesis.rst
 -   is the projects page redundant with github?
--   go back to the old filename (theme.css)
+-   comment system (staticman?)

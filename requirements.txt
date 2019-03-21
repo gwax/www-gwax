@@ -1,5 +1,5 @@
 aiohttp==3.3.2
-nikola==8.0.1
+nikola==8.0.2
 python-magic==0.4.15
 watchdog==0.8.3
 ws4py==0.5.1
