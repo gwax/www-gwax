@@ -6,7 +6,7 @@ Slowcooker Yogurt
 :tags: recipes
 :category: recipes
 
-.. thumbnail:: /images/slowcooker-yogurt/yield.jpg
+.. thumbnail:: /images/posts/2016/09/yield.jpg
     :alt: Some jars of homemade yogurt
     :align: right
 
@@ -42,7 +42,7 @@ Slowcooker Greek Yogurt recipe
 Instructions
 ~~~~~~~~~~~~
 
-.. thumbnail:: /images/slowcooker-yogurt/straining.jpg
+.. thumbnail:: /images/posts/2016/09/straining.jpg
     :alt: Straining yogurt
     :align: right
 
@@ -79,7 +79,7 @@ Instructions
 10. Scoop out a cup of the yogurt and set it aside so it can be a starter for
     your next batch.
 
-.. thumbnail:: /images/slowcooker-yogurt/whey.jpg
+.. thumbnail:: /images/posts/2016/09/whey.jpg
     :alt: A jug of fresh whey
     :align: left
 

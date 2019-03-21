@@ -6,7 +6,6 @@
     -   is carousel even a thing anymore?
 -   fix tags and categories
 -   ditch jquery
--   slowcooker-yogurt images to the right place in images/posts
--   for that matter, every images/posts properly date sorted
+-   categorize /images/posts by year/month
 -   is the projects page redundant with github?
 -   comment system (staticman?)
