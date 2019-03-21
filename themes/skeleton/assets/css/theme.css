@@ -15,7 +15,11 @@ h1.title {
 }
 
 #blog-title {
-    font-family: "Times New Roman", Times, serif;
+    font-family: Pacifico, "Times New Roman", Times, serif;
+}
+
+pre {
+    font-family: "IBM Plex Mono", Menlo, Inconsolata, monospace;
 }
 
 .entry-content:after {

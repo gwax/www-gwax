@@ -33,6 +33,11 @@ ${template_hooks['extra_head']()}
         captions: function(element) {
             return element.getElementsByTagName('img')[0].alt;
     }});
+    WebFont.load({
+        google: {
+            families: ['IBM Plex Mono', 'Raleway', 'Pacifico']
+        }
+    });
     </script>
     ${body_end}
     ${template_hooks['body_end']()}
