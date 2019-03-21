@@ -19,8 +19,8 @@ A bit like:
         while queue:
             item = queue.popleft()
             while hasattr(item, '__iter__'):
-                queue.extend(item[:0:-1])
-                item = item[0]
+                item, *rest = item
+                queue.extendleft(reversed(rest))
             retlist.append(item)
         return retlist
 
