@@ -1,4 +1,4 @@
-dist: xenial
+dist: bionic
 language: python
 python: 3.7.1
 cache:
@@ -10,8 +10,6 @@ cache:
 
 addons:
   apt:
-    sources:
-      - sourceline: ppa:jonathonf/backports
     packages:
       - jpegoptim
       - optipng
