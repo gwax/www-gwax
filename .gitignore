@@ -1,3 +1,7 @@
+# secrets
+client-secret.json
+secrets.json
+
 # generated content
 static/
 app.yaml
