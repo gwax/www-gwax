@@ -47,8 +47,9 @@ def asset_handler(extension, mime):
         "upload": "static" + url,
         "mime_type": mime,
         "secure": "always",
-        "http_headers": {**HEADERS},
     }
+    if HEADERS:
+        handler['http_headers'] = {**HEADERS}
     return handler
 
 
@@ -59,8 +60,9 @@ def file_catch_all_handler():
         "static_files": r"static/\1",
         "upload": "static" + url,
         "secure": "always",
-        "http_headers": {**HEADERS},
     }
+    if HEADERS:
+        handler['http_headers'] = {**HEADERS}
     return handler
 
 
@@ -81,7 +83,8 @@ def index_handlers():
     for handler in handlers:
         handler["mime_type"] = "text/html"
         handler["secure"] = "always"
-        handler["http_headers"] = {**HEADERS}
+        if HEADERS:
+            handler['http_headers'] = {**HEADERS}
 
     return handlers
 
