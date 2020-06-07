@@ -191,15 +191,10 @@ header .metadata {
     border-left: 1px solid #036F93;
 }
 
-/* reST list tweaks */
-ol.simple,
-ul.simple,
-ol.arabic,
-ol.loweralpha,
-ol.upperalpha,
-ol.lowerroman,
-ol.upperroman {
-    list-style-position: inside;
+/* list tweaks */
+ul,
+ol {
+    list-style-position: outside;
     padding-left: 1rem;
 }
 
