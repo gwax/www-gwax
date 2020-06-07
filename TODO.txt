@@ -5,6 +5,7 @@
     -   reconcile against nikola/data/themes/base/assets/css/theme.css
     -   is carousel even a thing anymore?
 -   fix tags and categories
+    - categories don't even show up on pages
 -   ditch jquery
 -   categorize /images/posts by year/month
 -   is the projects page redundant with github?
