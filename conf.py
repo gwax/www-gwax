@@ -145,7 +145,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("link://slug/projects", "Projects"),
         ((
-            ("link://index", "<strong>Posts</strong>"),
+            ("link://index", "Posts"),
             ("link://archive", "Archives"),
             ("link://category_index", "Tags & Categories"),
             ("link://index_rss", "RSS feed"),
