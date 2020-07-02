@@ -66,7 +66,6 @@ lang="${lang}">
     % if use_bundles:
         % if use_cdn:
             <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.js" integrity="sha256-yQGjQhFs3LtyiN5hhr3k9s9TWZOh/RzCkD3gwwCKlkg=" crossorigin="anonymous"></script>
-            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
             <script src="https://cdnjs.cloudflare.com/ajax/libs/webfont/1.6.28/webfontloader.js"></script>
             % if date_fanciness != 0:
                 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.23.0/moment.min.js"></script>
@@ -78,14 +77,12 @@ lang="${lang}">
     % else:
         % if use_cdn:
             <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.js" integrity="sha256-yQGjQhFs3LtyiN5hhr3k9s9TWZOh/RzCkD3gwwCKlkg=" crossorigin="anonymous"></script>
-            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
             <script src="https://cdnjs.cloudflare.com/ajax/libs/webfont/1.6.28/webfontloader.js"></script>
             % if date_fanciness != 0:
                 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.23.0/moment.min.js"></script>
             % endif
         % else:
             <script src="/assets/js/baguetteBox.min.js"></script>
-            <script src="/assets/js/jquery.min.js"></script>
             <script src="/assets/js/webfontloader.js"></script>
             % if date_fanciness != 0:
                 <script src="/assets/js/moment.min.js"></script>
@@ -94,8 +91,6 @@ lang="${lang}">
         % if date_fanciness != 0:
             <script src="/assets/js/fancydates.js"></script>
         % endif
-        <script src="/assets/js/menu-popover.js"></script>
-        <script src="/assets/js/menu-dropdown.js"></script>
         <script src="/assets/js/theme.js"></script>
     % endif
     ${social_buttons_code}
@@ -121,8 +116,6 @@ lang="${lang}">
             <link rel="stylesheet" href="/assets/css/normalize.css" type="text/css">
             <link rel="stylesheet" href="/assets/css/skeleton.css" type="text/css">
         % endif
-        <link href="/assets/css/menu-popover.css" rel="stylesheet" type="text/css">
-        <link href="/assets/css/menu-dropdown.css" rel="stylesheet" type="text/css">
         <link href="/assets/css/rst_base.css" rel="stylesheet" type="text/css">
         <link href="/assets/css/code.css" rel="stylesheet" type="text/css">
         <link href="/assets/css/theme.css" rel="stylesheet" type="text/css">
