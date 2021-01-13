@@ -1,5 +1,3 @@
--   reimplement 2009/12/unsticking-stuck-lcd-pixels-a-script.html to work on
-    appengine or client side with js
 -   theme.css
     -   tidy / consolidate
     -   reconcile against nikola/data/themes/base/assets/css/theme.css
@@ -9,4 +7,3 @@
 -   ditch jquery
 -   categorize /images/posts by year/month
 -   is the projects page redundant with github?
--   comment system (staticman?)
