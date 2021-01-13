@@ -29,17 +29,11 @@ Who am I?
 ---------
 
 I'm a software engineer in the San Francisco Bay Area. My software contributions
-are mostly closed source for my professional life or low profile. I have a
-handful of small `projects <link://slug/projects>`_ and things to be found on
-|github-icon| GitHub (`gwax <https://github.com/gwax>`__).  These days it would
-probably be best to describe myself as a "data engineer"\ [#]_ but, in the
-past, I've worked at just about every level of the stack.
-
-.. [#] I often prefer to avoid the term "data engineer" because I feel it is
-    often conflated with the concept of a DBA or a hands-off software
-    "architect" role. Personally, I view a data engineer as just another
-    hands-on software engineer that happens to spend more time dealing with
-    data and backend data management than anything else.
+are mostly closed source for my professional life or low profile for my own
+enjoyment. I have a handful of small `projects <link://slug/projects>`_ and
+things to be found on |github-icon| GitHub (`gwax <https://github.com/gwax>`__).
+I've worked in just about every part of the stack though my focus leans pretty
+hard toward data layer and infrastructure.
 
 Long ago, I graduated from `MIT <http://web.mit.edu/>`_ with a degree in
 Materials Science and Engineering (course 3 to fellow alums). During my time at
@@ -70,12 +64,24 @@ practicality of engineering. Working at Google was an enlightening experience
 but, ultimately, there is a ceiling on the interest I can muster for tracking
 networking equipment parts in a datacenter.
 
-As of now, I am back in the rich data world of healthcare, working for
-`Clover Health <https://www.cloverhealth.com/>`_, a startup health insurance
-company, that also happens to be a technology company. We are trying to fix
-healthcare for old people by bringing 21st century technology to the data,
-operations, and managed care. It's hard, but I would love if we could do even
-a little something to dent the massive problem that is modern healthcare.
+I spent a handful of years back in the rich data world of healthcare, working
+for `Clover Health <https://www.cloverhealth.com/>`_, a startup (now public)
+health insurance company, that also happens to be a technology company. I
+really connected with the mission of fixing healthcare for old people by
+bringing 21st century technology to the data, operations, and managed care.
+It was hard and took a lot out of me but I really hope my efforts do something
+to dent the massive problem that is modern healthcare.
+
+My next tour involved a chunk of time at `Samsara <https://www.samsara.com/>`_,
+first as an engineer on Backend Platform and then building out a Data Platform
+team to do cross-cutting analysis across the totality of Samsara's IoT data. The
+mission was interesting albeit not as interesting as solving healthcare. That
+said, it was a great opportunity to pick up more experience leading a technical
+team and working with a handful of new technologies.
+
+Now, I'm back to Insuretech, taking helm of engineering for
+`LifeRaft <https://www.liferaft.co/>`_. I'm glad to be back trying to solve
+real problems for average people.
 
 If you want more professional details, there's something close enough to my
 résumé available through LinkedIn. If you happen to want a proper résumé or

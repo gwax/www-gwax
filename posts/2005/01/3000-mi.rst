@@ -1,9 +1,0 @@
-3000 mi
-=======
-
-:slug: 3000-mi
-:date: 2005-01-08 14:17:25+00:00
-:updated: 2009-05-24 04:49:44+00:00
-:tags: travel
-
-This morning it's the 3000 mile mark.
