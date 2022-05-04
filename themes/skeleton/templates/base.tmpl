@@ -22,17 +22,15 @@ ${template_hooks['extra_head']()}
     % if date_fanciness != 0:
     <!-- fancy dates -->
     <script>
-    moment.locale("${momentjs_locales[lang]}");
-    fancydates(${date_fanciness}, ${js_date_format});
+    fancydates(${date_fanciness});
     </script>
     <!-- end fancy dates -->
     % endif
     <%block name="extra_js"></%block>
     <script>
-    baguetteBox.run('a.reference', {
-        captions: function(element) {
-            return element.getElementsByTagName('img')[0].alt;
-    }});
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});
     WebFont.load({
         google: {
             families: ['IBM Plex Mono', 'Raleway', 'Pacifico']

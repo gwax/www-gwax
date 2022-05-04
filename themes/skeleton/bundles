@@ -1,4 +1,25 @@
-assets/css/all-cdn.css=rst_base.css,code.css,theme.css,custom.css
-assets/css/all-nocdn.css=baguetteBox.min.css,normalize.css,skeleton.css,rst_base.css,code.css,theme.css,custom.css
-assets/js/all-cdn.js=fancydates.js,theme.js
-assets/js/all-nocdn.js=baguetteBox.min.js,moment.min.js,webfontloader.js,fancydates.js,theme.js
+; css bundles
+assets/css/all-cdn.css=
+    rst_base.css,
+    code.css,
+    theme.css,
+    custom.css,
+assets/css/all-nocdn.css=
+    baguetteBox.min.css,
+    normalize.css,
+    skeleton.css,
+    rst_base.css,
+    code.css,
+    theme.css,
+    custom.css,
+
+; javascript bundles
+assets/js/all-cdn.js=
+    fancydates.js,
+    theme.js,
+assets/js/all-nocdn.js=
+    baguetteBox.min.js,
+    webfontloader.js,
+    fancydates.js,
+    theme.js,
+
