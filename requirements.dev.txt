@@ -248,18 +248,10 @@ python-dateutil==2.8.2
     #   ghp-import
     #   jupyter-client
     #   nikola
-python-magic==0.4.25
-    # via
-    #   -c requirements.txt
-    #   -r requirements.dev.in
 pytz==2022.1
     # via
     #   -c requirements.txt
     #   babel
-pyyaml==6.0
-    # via
-    #   -c requirements.txt
-    #   -r requirements.dev.in
 pyzmq==22.3.0
     # via
     #   jupyter-client

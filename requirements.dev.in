@@ -3,7 +3,5 @@
 nikola[extras]
 pip
 pip-tools
-python-magic
-pyyaml
 setuptools
 wheel
