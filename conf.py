@@ -4,21 +4,6 @@
 from __future__ import unicode_literals
 import time
 
-from nikola import filters
-
-# !! This is the configuration of Nikola. !! #
-# !!  You should edit it to your liking.  !! #
-
-
-# ! Some settings can be different in different languages.
-# ! A comment stating (translatable) is used to denote those.
-# ! There are two ways to specify a translatable setting:
-# ! (a) BLOG_TITLE = "My Blog"
-# ! (b) BLOG_TITLE = {"en": "My Blog", "es": "Mi Blog"}
-# ! Option (a) is used when you don't want that setting translated.
-# ! Option (b) is used for settings that are different in different languages.
-
-
 # Data about this site
 BLOG_AUTHOR = "George Leslie-Waksman"  # (translatable)
 BLOG_TITLE = "gwax"  # (translatable)
@@ -719,32 +704,34 @@ OUTPUT_FOLDER = 'output'
 # Many filters are shipped with Nikola. A list is available in the manual:
 # <https://getnikola.com/handbook.html#post-processing-filters>
 #
-
-@filters.apply_to_binary_file
-def xmltidy(data):
-    """Variation of filters.xmltidy with pretty_print=True"""
-    import lxml.etree
-    parser = lxml.etree.XMLParser(remove_blank_text=True)
-    newdata = lxml.etree.XML(data, parser=parser)
-    return lxml.etree.tostring(
-        newdata,
-        encoding='utf-8',
-        method='xml',
-        xml_declaration=True,
-        pretty_print=True)
+#
+# from nikola import filters
+#
+# @filters.apply_to_binary_file
+# def xmltidy(data):
+#     """Variation of filters.xmltidy with pretty_print=True"""
+#     import lxml.etree
+#     parser = lxml.etree.XMLParser(remove_blank_text=True)
+#     newdata = lxml.etree.XML(data, parser=parser)
+#     return lxml.etree.tostring(
+#         newdata,
+#         encoding='utf-8',
+#         method='xml',
+#         xml_declaration=True,
+#         pretty_print=True)
 
 
 FILTERS = {
-    ".html": [filters.html_tidy_nowrap],
+    # ".html": [filters.html_tidy_nowrap],
 #    ".css": [filters.yui_compressor],
 #    ".js": [filters.closure_compiler],
-    ".json": [filters.jsonminify],
-    ".png": [filters.optipng],
+    # ".json": [filters.jsonminify],
+    # ".png": [filters.optipng],
     ".jpg": ["jpegoptim -p --strip-all --all-progressive -q %s"],
     ".jpeg": ["jpegoptim -p --strip-all --all-progressive -q %s"],
-    ".xml": [xmltidy],
-    ".atom": [xmltidy],
-    ".rss": [xmltidy],
+    # ".xml": [xmltidy],
+    # ".atom": [xmltidy],
+    # ".rss": [xmltidy],
 }
 
 # Executable for the "yui_compressor" filter (defaults to 'yui-compressor').
